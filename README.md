@@ -6,7 +6,7 @@ Les données proviennent de https://mestrainsdhier.fd.sncf.fr/vostrainsdhier.htm
 
 ## Données
 
-Les données se trouvent dans le répertoire `data`. Plusieurs fichiers HTML seront identiques. Quand c'est le cas, seul le premier fichier est conservé pour éviter les doublons.
+Les données se trouvent dans le répertoire `data`. Plusieurs fichiers HTML seront identiques. Quand c'est le cas, seul le dernier fichier (donc le plus récent) est conservé pour éviter les doublons.
 
 ## Licence
 Licence ouverte.
