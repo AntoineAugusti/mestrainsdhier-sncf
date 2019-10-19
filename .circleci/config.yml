@@ -14,6 +14,13 @@ jobs:
           command: |
             wget --output-document=data/$(date -u +"%Y-%m-%dT%H:%M:%SZ" ).html https://mestrainsdhier.fd.sncf.fr/vostrainsdhier.html
       - run:
+          name: Delete duplicates
+          command: |
+            sudo apt-get install fdupes
+            cd ~/repo/data
+            # Delete all copies but the first of each duplicated file
+            fdupes -r -f . | grep -v '^$' | xargs rm -v
+      - run:
           name: Set Git identity
           command: |
             git config --global user.email "robot@circleci.com"
