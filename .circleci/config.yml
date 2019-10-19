@@ -1,0 +1,47 @@
+version: 2
+jobs:
+  fetch_data:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/python:3.6
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "45:83:c5:d8:bf:33:de:7d:8b:74:ca:10:c8:70:94:37"
+      - run:
+          name: Store data
+          command: |
+            wget --output-document=data/$(date -u +"%Y-%m-%dT%H:%M:%SZ" ).html https://mestrainsdhier.fd.sncf.fr/vostrainsdhier.html
+      - run:
+          name: Set Git identity
+          command: |
+            git config --global user.email "robot@circleci.com"
+            git config --global user.name "CircleCI"
+      - run:
+          name: Push to GitHub
+          command: |
+            cd ~/repo
+            if [ -n "$(git status --porcelain)" ]; then
+              git add data
+              git commit -m "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+              git push origin master
+            else
+              echo "No changes";
+            fi
+
+workflows:
+  version: 2
+  fetch_and_push:
+    jobs:
+      - fetch_data
+  cron:
+    triggers:
+      - schedule:
+          cron: "15 * * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - fetch_data
