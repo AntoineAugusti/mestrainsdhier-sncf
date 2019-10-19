@@ -8,7 +8,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - "45:83:c5:d8:bf:33:de:7d:8b:74:ca:10:c8:70:94:37"
+            - "3b:ef:66:40:74:f5:33:6c:78:21:82:d7:74:ea:54:8a"
       - run:
           name: Store data
           command: |
