@@ -19,7 +19,7 @@ jobs:
             sudo apt-get install fdupes
             cd ~/repo/data
             # Delete all copies but the first of each duplicated file
-            fdupes -r -f . | grep -v '^$' | xargs rm -v
+            fdupes -f . | grep -v '^$' | xargs -r rm || true
       - run:
           name: Set Git identity
           command: |
