@@ -43,6 +43,24 @@ jobs:
             cd ~/repo/data
             # Delete all copies but the first of each duplicated file
             fdupes -f . | grep -v '^$' | xargs -r rm || true
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Install dependencies
+          command: |
+            python -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt
+      - save_cache:
+          paths:
+            - ./venv
+          key: v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Generate CSV data
+          command: |
+            . venv/bin/activate
+            python main.py
       - run:
           name: Set Git identity
           command: |
