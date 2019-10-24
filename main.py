@@ -9,6 +9,13 @@ class Parser(object):
         super(Parser, self).__init__()
         self.content = BeautifulSoup(html, "html.parser")
 
+    def to_list(self):
+        res = []
+        for method in ["transilien", "ter", "tgv", "intercites"]:
+            data = getattr(self, method)()
+            res.extend([[self.date()] + e for e in data])
+        return res
+
     def date(self):
         title = self.content.title.text[-10:]
         return datetime.datetime.strptime(title, "%Y/%m/%d").date()
@@ -26,7 +33,7 @@ class Parser(object):
         name = item.attrs[title_attr]
         if name == "global" or name == "":
             name = "global"
-        return (mode, name, self.clean_percentage(item.text))
+        return [mode, name, self.clean_percentage(item.text)]
 
     def filter_results(self, mode, tag, title_attr):
         return [
@@ -59,4 +66,4 @@ class Parser(object):
         ]
         if len(values) != len(lines):
             raise ValueError(lines, values)
-        return list(zip(["intercites"] * len(lines), lines, values))
+        return list(map(list, zip(["intercites"] * len(lines), lines, values)))
