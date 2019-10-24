@@ -7,7 +7,7 @@ CSV_HEADER = ["date", "famille_transport", "ligne", "regularite"]
 dates = set()
 data = []
 
-for filename in glob.glob("data/*.html"):
+for filename in sorted(glob.glob("data/*.html")):
     print(f"Processing {filename}")
     with open(filename) as f:
         html_content = f.read()
