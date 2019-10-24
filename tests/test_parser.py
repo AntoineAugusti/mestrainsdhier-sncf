@@ -1,7 +1,7 @@
 import unittest
 import datetime
 
-from main import Parser
+from parser import Parser
 
 
 class TestParser(unittest.TestCase):
