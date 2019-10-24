@@ -1,5 +1,28 @@
 version: 2
 jobs:
+  test:
+    docker:
+      - image: circleci/python:3.7
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Install dependencies
+          command: |
+            python -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt
+      - save_cache:
+          paths:
+            - ./venv
+          key: v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Run test suite
+          command: |
+            . venv/bin/activate
+            nosetests .
   fetch_data:
     working_directory: ~/repo
     docker:
@@ -20,6 +43,24 @@ jobs:
             cd ~/repo/data
             # Delete all copies but the first of each duplicated file
             fdupes -f . | grep -v '^$' | xargs -r rm || true
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Install dependencies
+          command: |
+            python -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt
+      - save_cache:
+          paths:
+            - ./venv
+          key: v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Generate CSV data
+          command: |
+            . venv/bin/activate
+            python main.py
       - run:
           name: Set Git identity
           command: |
@@ -41,7 +82,12 @@ workflows:
   version: 2
   fetch_and_push:
     jobs:
-      - fetch_data
+      - test
+      - fetch_data:
+          filters:
+            branches:
+              only:
+                - master
   cron:
     triggers:
       - schedule:
