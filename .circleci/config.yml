@@ -65,7 +65,11 @@ workflows:
   fetch_and_push:
     jobs:
       - test
-      - fetch_data
+      - fetch_data:
+          filters:
+            branches:
+              only:
+                - master
   cron:
     triggers:
       - schedule:
