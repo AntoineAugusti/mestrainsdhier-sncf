@@ -1,102 +1,53 @@
 date,famille_transport,ligne,regularite
-2019-10-20,transilien,global,83.8
-2019-10-20,transilien,A,94.3
-2019-10-20,transilien,B,
-2019-10-20,transilien,C,82.9
-2019-10-20,transilien,D,69.6
-2019-10-20,transilien,E,98.2
-2019-10-20,transilien,H,95.0
-2019-10-20,transilien,J,95.7
-2019-10-20,transilien,K,78.3
-2019-10-20,transilien,L,91.0
-2019-10-20,transilien,N,93.0
-2019-10-20,transilien,P,94.5
-2019-10-20,transilien,R,73.7
-2019-10-20,transilien,U,97.2
-2019-10-20,transilien,T4,
-2019-10-20,transilien,T11,99.8
-2019-10-20,ter,global,87.1
-2019-10-20,ter,Grand Est,96.0
-2019-10-20,ter,Nouvelle-Aquitaine,77.5
-2019-10-20,ter,Auvergne-Rhône-Alpes,80.5
-2019-10-20,ter,Bourgogne-Franche-Comté,84.6
-2019-10-20,ter,Bretagne,94.7
-2019-10-20,ter,Centre-Val de Loire,83.8
-2019-10-20,ter,Occitanie,61.0
-2019-10-20,ter,Hauts-de-France,92.3
-2019-10-20,ter,Normandie,88.4
-2019-10-20,ter,Pays de la Loire,72.7
-2019-10-20,ter,Provence-Alpes-Côte d'Azur,64.3
-2019-10-20,tgv,global,86.0
-2019-10-20,tgv,nord,79.7
-2019-10-20,tgv,est,98.6
-2019-10-20,tgv,atlantique,79.5
-2019-10-20,tgv,sudest,88.0
-2019-10-20,tgv,ouigo,82.6
-2019-10-20,tgv,europe,93.4
-2019-10-20,intercites,global,60.0
-2019-10-20,intercites,Paris-Limoges-Toulouse,25.0
-2019-10-20,intercites,Paris-Clermont,0.0
-2019-10-20,intercites,Bordeaux-Marseille,
-2019-10-20,intercites,Nantes-Bordeaux,
-2019-10-20,intercites,Nantes-Lyon,
-2019-10-20,intercites,Toulouse-Bayonne,
-2019-10-20,intercites,Clermont-Béziers,
-2019-10-20,intercites,Paris-Caen-Cherbourg Trouville/Deauville,62.5
-2019-10-20,intercites,Paris-Rouen-Le Havre,93.9
-2019-10-20,intercites,Paris-Granville,69.2
-2019-10-20,intercites,Caen-Le Mans-Tours,25.0
-2019-10-20,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
-2019-10-20,intercites,Paris-Briançon,
-2019-10-17,transilien,global,82.5
-2019-10-17,transilien,A,86.8
-2019-10-17,transilien,B,81.6
-2019-10-17,transilien,C,68.4
-2019-10-17,transilien,D,80.3
-2019-10-17,transilien,E,78.1
-2019-10-17,transilien,H,97.3
-2019-10-17,transilien,J,92.3
-2019-10-17,transilien,K,91.2
-2019-10-17,transilien,L,88.8
-2019-10-17,transilien,N,86.4
-2019-10-17,transilien,P,95.4
-2019-10-17,transilien,R,83.5
-2019-10-17,transilien,U,89.0
-2019-10-17,transilien,T4,100.0
-2019-10-17,transilien,T11,89.7
-2019-10-17,ter,global,90.5
-2019-10-17,ter,Grand Est,94.0
-2019-10-17,ter,Nouvelle-Aquitaine,86.0
-2019-10-17,ter,Auvergne-Rhône-Alpes,87.2
-2019-10-17,ter,Bourgogne-Franche-Comté,94.1
-2019-10-17,ter,Bretagne,98.4
-2019-10-17,ter,Centre-Val de Loire,90.9
-2019-10-17,ter,Occitanie,86.7
-2019-10-17,ter,Hauts-de-France,91.3
-2019-10-17,ter,Normandie,87.5
-2019-10-17,ter,Pays de la Loire,90.6
-2019-10-17,ter,Provence-Alpes-Côte d'Azur,87.1
-2019-10-17,tgv,global,93.1
-2019-10-17,tgv,nord,86.9
-2019-10-17,tgv,est,96.6
-2019-10-17,tgv,atlantique,93.5
-2019-10-17,tgv,sudest,95.2
-2019-10-17,tgv,ouigo,88.5
-2019-10-17,tgv,europe,94.7
-2019-10-17,intercites,global,71.9
-2019-10-17,intercites,Paris-Limoges-Toulouse,57.9
-2019-10-17,intercites,Paris-Clermont,62.5
-2019-10-17,intercites,Bordeaux-Marseille,62.5
-2019-10-17,intercites,Nantes-Bordeaux,83.3
-2019-10-17,intercites,Nantes-Lyon,50.0
-2019-10-17,intercites,Toulouse-Bayonne,50.0
-2019-10-17,intercites,Clermont-Béziers,100.0
-2019-10-17,intercites,Paris-Caen-Cherbourg Trouville/Deauville,61.8
-2019-10-17,intercites,Paris-Rouen-Le Havre,93.0
-2019-10-17,intercites,Paris-Granville,90.0
-2019-10-17,intercites,Caen-Le Mans-Tours,50.0
-2019-10-17,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
-2019-10-17,intercites,Paris-Briançon,
+2019-10-22,transilien,global,81.2
+2019-10-22,transilien,A,86.6
+2019-10-22,transilien,B,80.1
+2019-10-22,transilien,C,80.1
+2019-10-22,transilien,D,66.0
+2019-10-22,transilien,E,90.9
+2019-10-22,transilien,H,89.2
+2019-10-22,transilien,J,83.2
+2019-10-22,transilien,K,92.9
+2019-10-22,transilien,L,94.6
+2019-10-22,transilien,N,75.1
+2019-10-22,transilien,P,85.9
+2019-10-22,transilien,R,83.5
+2019-10-22,transilien,U,81.9
+2019-10-22,transilien,T4,
+2019-10-22,transilien,T11,86.7
+2019-10-22,ter,global,88.6
+2019-10-22,ter,Grand Est,92.2
+2019-10-22,ter,Nouvelle-Aquitaine,93.3
+2019-10-22,ter,Auvergne-Rhône-Alpes,86.0
+2019-10-22,ter,Bourgogne-Franche-Comté,90.2
+2019-10-22,ter,Bretagne,92.4
+2019-10-22,ter,Centre-Val de Loire,84.8
+2019-10-22,ter,Occitanie,77.3
+2019-10-22,ter,Hauts-de-France,88.0
+2019-10-22,ter,Normandie,94.6
+2019-10-22,ter,Pays de la Loire,88.1
+2019-10-22,ter,Provence-Alpes-Côte d'Azur,84.6
+2019-10-22,tgv,global,78.6
+2019-10-22,tgv,nord,88.9
+2019-10-22,tgv,est,85.1
+2019-10-22,tgv,atlantique,69.6
+2019-10-22,tgv,sudest,79.5
+2019-10-22,tgv,ouigo,76.9
+2019-10-22,tgv,europe,83.6
+2019-10-22,intercites,global,68.4
+2019-10-22,intercites,Paris-Limoges-Toulouse,55.0
+2019-10-22,intercites,Paris-Clermont,75.0
+2019-10-22,intercites,Bordeaux-Marseille,13.3
+2019-10-22,intercites,Nantes-Bordeaux,100.0
+2019-10-22,intercites,Nantes-Lyon,
+2019-10-22,intercites,Toulouse-Bayonne,50.0
+2019-10-22,intercites,Clermont-Béziers,100.0
+2019-10-22,intercites,Paris-Caen-Cherbourg Trouville/Deauville,70.6
+2019-10-22,intercites,Paris-Rouen-Le Havre,83.0
+2019-10-22,intercites,Paris-Granville,60.0
+2019-10-22,intercites,Caen-Le Mans-Tours,75.0
+2019-10-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,100.0
+2019-10-22,intercites,Paris-Briançon,
 2019-10-21,transilien,global,82.3
 2019-10-21,transilien,A,86.8
 2019-10-21,transilien,B,79.4
@@ -195,55 +146,104 @@ date,famille_transport,ligne,regularite
 2019-10-19,intercites,Caen-Le Mans-Tours,
 2019-10-19,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-10-19,intercites,Paris-Briançon,
-2019-10-22,transilien,global,81.2
-2019-10-22,transilien,A,86.6
-2019-10-22,transilien,B,80.1
-2019-10-22,transilien,C,80.1
-2019-10-22,transilien,D,66.0
-2019-10-22,transilien,E,90.9
-2019-10-22,transilien,H,89.2
-2019-10-22,transilien,J,83.2
-2019-10-22,transilien,K,92.9
-2019-10-22,transilien,L,94.6
-2019-10-22,transilien,N,75.1
-2019-10-22,transilien,P,85.9
-2019-10-22,transilien,R,83.5
-2019-10-22,transilien,U,81.9
-2019-10-22,transilien,T4,
-2019-10-22,transilien,T11,86.7
-2019-10-22,ter,global,88.6
-2019-10-22,ter,Grand Est,92.2
-2019-10-22,ter,Nouvelle-Aquitaine,93.3
-2019-10-22,ter,Auvergne-Rhône-Alpes,86.0
-2019-10-22,ter,Bourgogne-Franche-Comté,90.2
-2019-10-22,ter,Bretagne,92.4
-2019-10-22,ter,Centre-Val de Loire,84.8
-2019-10-22,ter,Occitanie,77.3
-2019-10-22,ter,Hauts-de-France,88.0
-2019-10-22,ter,Normandie,94.6
-2019-10-22,ter,Pays de la Loire,88.1
-2019-10-22,ter,Provence-Alpes-Côte d'Azur,84.6
-2019-10-22,tgv,global,78.6
-2019-10-22,tgv,nord,88.9
-2019-10-22,tgv,est,85.1
-2019-10-22,tgv,atlantique,69.6
-2019-10-22,tgv,sudest,79.5
-2019-10-22,tgv,ouigo,76.9
-2019-10-22,tgv,europe,83.6
-2019-10-22,intercites,global,68.4
-2019-10-22,intercites,Paris-Limoges-Toulouse,55.0
-2019-10-22,intercites,Paris-Clermont,75.0
-2019-10-22,intercites,Bordeaux-Marseille,13.3
-2019-10-22,intercites,Nantes-Bordeaux,100.0
-2019-10-22,intercites,Nantes-Lyon,
-2019-10-22,intercites,Toulouse-Bayonne,50.0
-2019-10-22,intercites,Clermont-Béziers,100.0
-2019-10-22,intercites,Paris-Caen-Cherbourg Trouville/Deauville,70.6
-2019-10-22,intercites,Paris-Rouen-Le Havre,83.0
-2019-10-22,intercites,Paris-Granville,60.0
-2019-10-22,intercites,Caen-Le Mans-Tours,75.0
-2019-10-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,100.0
-2019-10-22,intercites,Paris-Briançon,
+2019-10-17,transilien,global,82.5
+2019-10-17,transilien,A,86.8
+2019-10-17,transilien,B,81.6
+2019-10-17,transilien,C,68.4
+2019-10-17,transilien,D,80.3
+2019-10-17,transilien,E,78.1
+2019-10-17,transilien,H,97.3
+2019-10-17,transilien,J,92.3
+2019-10-17,transilien,K,91.2
+2019-10-17,transilien,L,88.8
+2019-10-17,transilien,N,86.4
+2019-10-17,transilien,P,95.4
+2019-10-17,transilien,R,83.5
+2019-10-17,transilien,U,89.0
+2019-10-17,transilien,T4,100.0
+2019-10-17,transilien,T11,89.7
+2019-10-17,ter,global,90.5
+2019-10-17,ter,Grand Est,94.0
+2019-10-17,ter,Nouvelle-Aquitaine,86.0
+2019-10-17,ter,Auvergne-Rhône-Alpes,87.2
+2019-10-17,ter,Bourgogne-Franche-Comté,94.1
+2019-10-17,ter,Bretagne,98.4
+2019-10-17,ter,Centre-Val de Loire,90.9
+2019-10-17,ter,Occitanie,86.7
+2019-10-17,ter,Hauts-de-France,91.3
+2019-10-17,ter,Normandie,87.5
+2019-10-17,ter,Pays de la Loire,90.6
+2019-10-17,ter,Provence-Alpes-Côte d'Azur,87.1
+2019-10-17,tgv,global,93.1
+2019-10-17,tgv,nord,86.9
+2019-10-17,tgv,est,96.6
+2019-10-17,tgv,atlantique,93.5
+2019-10-17,tgv,sudest,95.2
+2019-10-17,tgv,ouigo,88.5
+2019-10-17,tgv,europe,94.7
+2019-10-17,intercites,global,71.9
+2019-10-17,intercites,Paris-Limoges-Toulouse,57.9
+2019-10-17,intercites,Paris-Clermont,62.5
+2019-10-17,intercites,Bordeaux-Marseille,62.5
+2019-10-17,intercites,Nantes-Bordeaux,83.3
+2019-10-17,intercites,Nantes-Lyon,50.0
+2019-10-17,intercites,Toulouse-Bayonne,50.0
+2019-10-17,intercites,Clermont-Béziers,100.0
+2019-10-17,intercites,Paris-Caen-Cherbourg Trouville/Deauville,61.8
+2019-10-17,intercites,Paris-Rouen-Le Havre,93.0
+2019-10-17,intercites,Paris-Granville,90.0
+2019-10-17,intercites,Caen-Le Mans-Tours,50.0
+2019-10-17,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-10-17,intercites,Paris-Briançon,
+2019-10-20,transilien,global,83.8
+2019-10-20,transilien,A,94.3
+2019-10-20,transilien,B,
+2019-10-20,transilien,C,82.9
+2019-10-20,transilien,D,69.6
+2019-10-20,transilien,E,98.2
+2019-10-20,transilien,H,95.0
+2019-10-20,transilien,J,95.7
+2019-10-20,transilien,K,78.3
+2019-10-20,transilien,L,91.0
+2019-10-20,transilien,N,93.0
+2019-10-20,transilien,P,94.5
+2019-10-20,transilien,R,73.7
+2019-10-20,transilien,U,97.2
+2019-10-20,transilien,T4,
+2019-10-20,transilien,T11,99.8
+2019-10-20,ter,global,87.1
+2019-10-20,ter,Grand Est,96.0
+2019-10-20,ter,Nouvelle-Aquitaine,77.5
+2019-10-20,ter,Auvergne-Rhône-Alpes,80.5
+2019-10-20,ter,Bourgogne-Franche-Comté,84.6
+2019-10-20,ter,Bretagne,94.7
+2019-10-20,ter,Centre-Val de Loire,83.8
+2019-10-20,ter,Occitanie,61.0
+2019-10-20,ter,Hauts-de-France,92.3
+2019-10-20,ter,Normandie,88.4
+2019-10-20,ter,Pays de la Loire,72.7
+2019-10-20,ter,Provence-Alpes-Côte d'Azur,64.3
+2019-10-20,tgv,global,86.0
+2019-10-20,tgv,nord,79.7
+2019-10-20,tgv,est,98.6
+2019-10-20,tgv,atlantique,79.5
+2019-10-20,tgv,sudest,88.0
+2019-10-20,tgv,ouigo,82.6
+2019-10-20,tgv,europe,93.4
+2019-10-20,intercites,global,60.0
+2019-10-20,intercites,Paris-Limoges-Toulouse,25.0
+2019-10-20,intercites,Paris-Clermont,0.0
+2019-10-20,intercites,Bordeaux-Marseille,
+2019-10-20,intercites,Nantes-Bordeaux,
+2019-10-20,intercites,Nantes-Lyon,
+2019-10-20,intercites,Toulouse-Bayonne,
+2019-10-20,intercites,Clermont-Béziers,
+2019-10-20,intercites,Paris-Caen-Cherbourg Trouville/Deauville,62.5
+2019-10-20,intercites,Paris-Rouen-Le Havre,93.9
+2019-10-20,intercites,Paris-Granville,69.2
+2019-10-20,intercites,Caen-Le Mans-Tours,25.0
+2019-10-20,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-10-20,intercites,Paris-Briançon,
 2019-10-18,transilien,global,46.2
 2019-10-18,transilien,A,54.2
 2019-10-18,transilien,B,7.2
