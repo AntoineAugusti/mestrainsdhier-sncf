@@ -1,5 +1,28 @@
 version: 2
 jobs:
+  test:
+    docker:
+      - image: circleci/python:3.7
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Install dependencies
+          command: |
+            python -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt
+      - save_cache:
+          paths:
+            - ./venv
+          key: v1-dependencies-{{ checksum "requirements.txt" }}
+      - run:
+          name: Run test suite
+          command: |
+            . venv/bin/activate
+            nosetests .
   fetch_data:
     working_directory: ~/repo
     docker:
@@ -41,6 +64,7 @@ workflows:
   version: 2
   fetch_and_push:
     jobs:
+      - test
       - fetch_data
   cron:
     triggers:
