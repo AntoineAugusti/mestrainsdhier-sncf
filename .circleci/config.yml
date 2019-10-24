@@ -88,6 +88,8 @@ workflows:
             branches:
               only:
                 - master
+          requires:
+            - test
   cron:
     triggers:
       - schedule:
