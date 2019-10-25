@@ -25,7 +25,7 @@ class Parser(object):
         if len(matches) == 0:
             return None
         if len(matches) > 1:
-            raise ValueError(value)
+            raise ValueError(f"Multiple matches for {value}")
         value = matches[0].replace(",", ".")
         return float(value)
 
@@ -63,5 +63,5 @@ class Parser(object):
             )
         ]
         if len(values) != len(lines):
-            raise ValueError(lines, values)
+            raise ValueError(f"Lists have different sizes: {str(values)}, {str(lines)}")
         return list(map(list, zip(["intercites"] * len(lines), lines, values)))
