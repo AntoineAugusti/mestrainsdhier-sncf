@@ -293,3 +293,52 @@ date,famille_transport,ligne,regularite
 2019-10-22,intercites,Caen-Le Mans-Tours,75.0
 2019-10-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,100.0
 2019-10-22,intercites,Paris-Briançon,
+2019-10-24,transilien,global,90.3
+2019-10-24,transilien,A,85.9
+2019-10-24,transilien,B,89.7
+2019-10-24,transilien,C,91.2
+2019-10-24,transilien,D,89.6
+2019-10-24,transilien,E,86.9
+2019-10-24,transilien,H,93.3
+2019-10-24,transilien,J,89.6
+2019-10-24,transilien,K,99.0
+2019-10-24,transilien,L,91.3
+2019-10-24,transilien,N,96.4
+2019-10-24,transilien,P,94.9
+2019-10-24,transilien,R,62.6
+2019-10-24,transilien,U,97.0
+2019-10-24,transilien,T4,
+2019-10-24,transilien,T11,92.3
+2019-10-24,ter,global,89.7
+2019-10-24,ter,Grand Est,94.9
+2019-10-24,ter,Nouvelle-Aquitaine,87.5
+2019-10-24,ter,Auvergne-Rhône-Alpes,87.8
+2019-10-24,ter,Bourgogne-Franche-Comté,90.4
+2019-10-24,ter,Bretagne,95.0
+2019-10-24,ter,Centre-Val de Loire,90.4
+2019-10-24,ter,Occitanie,89.0
+2019-10-24,ter,Hauts-de-France,87.8
+2019-10-24,ter,Normandie,93.7
+2019-10-24,ter,Pays de la Loire,88.3
+2019-10-24,ter,Provence-Alpes-Côte d'Azur,80.5
+2019-10-24,tgv,global,88.5
+2019-10-24,tgv,nord,88.9
+2019-10-24,tgv,est,91.9
+2019-10-24,tgv,atlantique,84.9
+2019-10-24,tgv,sudest,88.0
+2019-10-24,tgv,ouigo,88.5
+2019-10-24,tgv,europe,95.7
+2019-10-24,intercites,global,73.2
+2019-10-24,intercites,Paris-Limoges-Toulouse,70.0
+2019-10-24,intercites,Paris-Clermont,50.0
+2019-10-24,intercites,Bordeaux-Marseille,100.0
+2019-10-24,intercites,Nantes-Bordeaux,100.0
+2019-10-24,intercites,Nantes-Lyon,100.0
+2019-10-24,intercites,Toulouse-Bayonne,100.0
+2019-10-24,intercites,Clermont-Béziers,0.0
+2019-10-24,intercites,Paris-Caen-Cherbourg Trouville/Deauville,58.3
+2019-10-24,intercites,Paris-Rouen-Le Havre,85.1
+2019-10-24,intercites,Paris-Granville,80.0
+2019-10-24,intercites,Caen-Le Mans-Tours,50.0
+2019-10-24,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,100.0
+2019-10-24,intercites,Paris-Briançon,
