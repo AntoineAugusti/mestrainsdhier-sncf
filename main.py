@@ -1,5 +1,6 @@
 import glob
 import csv
+import logging
 
 from parser import Parser
 
@@ -13,9 +14,12 @@ for filename in sorted(glob.glob("data/*.html")):
         html_content = f.read()
     parsed = Parser(html_content)
     if parsed.date() in dates:
-        raise ValueError("Duplicate date")
+        logging.exception(f"Duplicate date: {parsed.date()}")
     dates.add(parsed.date())
-    data.extend(parsed.to_list())
+    try:
+        data.extend(parsed.to_list())
+    except Exception as e:
+        logging.exception(e.message)
 
 with open("data/regularite.csv", "w") as f:
     writer = csv.writer(f)
