@@ -11,4 +11,6 @@ Les données se trouvent dans le répertoire `data`. Plusieurs fichiers HTML ser
 Les données de régularité sont publiées dans un unique fichier CSV sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/regularite-quotidienne-lignes-sncf/).
 
 ## Licence
-Licence ouverte.
+Le répertoire `data` est sous [Licence ouverte](LICENSE.md).
+
+Le reste des fichiers, le code, est sous [licence MIT](https://choosealicense.com/licenses/mit/).
