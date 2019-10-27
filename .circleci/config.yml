@@ -65,6 +65,16 @@ jobs:
             git config --global user.email "robot@circleci.com"
             git config --global user.name "CircleCI"
       - run:
+          name: Push to data.gouv.fr
+          command: |
+            export API="https://www.data.gouv.fr/api/1"
+            export DATASET_ID="5db2a5188b4c414c3189d068"
+            export RESOURCE="2a4f7375-e090-4fbb-bea4-ea280a2d1028"
+            curl -H "Accept:application/json" \
+              -H "X-Api-Key:$DATA_GOUV_API_KEY" \
+              -F "file=@data/regularite.csv" \
+              -X POST $API/datasets/$DATASET_ID/resources/$RESOURCE/upload/
+      - run:
           name: Push to GitHub
           command: |
             cd ~/repo
