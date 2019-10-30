@@ -4,7 +4,7 @@ import logging
 
 from parser import Parser
 
-CSV_HEADER = ["date", "famille_transport", "ligne", "regularite"]
+CSV_HEADER = ["date", "famille_transport", "ligne", "regularite", "explication"]
 dates = set()
 data = []
 

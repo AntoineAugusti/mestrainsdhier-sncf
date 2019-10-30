@@ -29,11 +29,22 @@ class Parser(object):
         value = matches[0].replace(",", ".")
         return float(value)
 
+    def find_reason(self, value):
+        percentage = self.clean_percentage(value)
+        if percentage is None:
+            return value
+        return None
+
     def extract_item(self, item, mode, title_attr):
         name = item.attrs[title_attr]
         if name == "global" or name == "":
             name = "global"
-        return [mode, name, self.clean_percentage(item.text)]
+        return [
+            mode,
+            name,
+            self.clean_percentage(item.text),
+            self.find_reason(item.text),
+        ]
 
     def filter_results(self, mode, tag, title_attr):
         return [
@@ -62,6 +73,14 @@ class Parser(object):
                 "span", attrs={"data-activite": "intercites"}
             )
         ]
-        if len(values) != len(lines):
-            raise ValueError(f"Lists have different sizes: {str(values)}, {str(lines)}")
-        return list(map(list, zip(["intercites"] * len(lines), lines, values)))
+        reasons = [
+            self.find_reason(item.get_text())
+            for item in self.content.find_all(
+                "span", attrs={"data-activite": "intercites"}
+            )
+        ]
+        if len(values) != len(lines) or len(reasons) != len(values):
+            raise ValueError(
+                f"Lists have different sizes: {str(values)}, {str(lines)}, {str(reasons)}"
+            )
+        return list(map(list, zip(["intercites"] * len(lines), lines, values, reasons)))
