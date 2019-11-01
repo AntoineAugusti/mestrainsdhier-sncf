@@ -1,1 +1,541 @@
 date,famille_transport,ligne,incidents
+2019-10-17,transilien,A,['Incidents divers en secteur intra-muros (RATP)']
+2019-10-17,transilien,B,"[""Panne d'une rame à Gare du Nord souterraine.""]"
+2019-10-17,transilien,C,['Prolongation de travaux de nuit à Paris-Austerlitz']
+2019-10-17,transilien,D,"[""Panne d'une rame du RER B à Gare du Nord souterraine."", ""Malaise d'un voyageur à Villeneuve-Triage."", 'Incident caténaire à Corbeil-Essonnes', 'Rames immobilisées en maintenance.']"
+2019-10-17,transilien,E,"[""Suicide en gare d'Haussmann-St-Lazare."", 'Dérangement de signalisation à Gagny.']"
+2019-10-17,transilien,H,
+2019-10-17,transilien,J,
+2019-10-17,transilien,K,['Perturbations liées à la circulation de trains fret.']
+2019-10-17,transilien,L,"[""Panne d'un train à Nanterre-Université."", 'Difficultés de réception des rames à Paris-St-Lazare.']"
+2019-10-17,transilien,N,['Personne dans les voies entre Le Perray et Rambouillet']
+2019-10-17,transilien,P,
+2019-10-17,transilien,R,"[""Panne d'un train à Gare de Lyon.""]"
+2019-10-17,transilien,U,['Personne sur les voies entre Le Perray et Rambouillet.']
+2019-10-17,transilien,T4,
+2019-10-17,transilien,T11,"[""Difficultés d'exploitation""]"
+2019-10-17,ter,Grand Est,
+2019-10-17,ter,Nouvelle-Aquitaine,"['Pannes sur des passages à niveau à Ste-Eulalie-Carbon-Blanc (10 TER impactés) +\nun bris de barrière sur un autre passage à niveau à Langon (7 TER impactés).', ""Panne d'un train sur Aubazine-St-Hilaire suite à un défaut de traction (7 TER impactés)."", ""Heurt d'un arbre par un train sur la voie à St-Sulpice-Laurière (7 TER impactés).""]"
+2019-10-17,ter,Auvergne-Rhône-Alpes,"['Prise en charge d’un voyageur malade  avec intervention des pompiers à St-Egrève (29 TER impactés).', 'Panne de signalisation à Amplepuis (27 TER impactés).', ""Problème d'adhérence à Villars-les Dombes (13 TER impactés)."", 'Présence d’une personne sur les emprises ferroviaires entre Poliénas et Vinay (8 TER impactés).']"
+2019-10-17,ter,Bourgogne-Franche-Comté,
+2019-10-17,ter,Bretagne,
+2019-10-17,ter,Centre-Val de Loire,
+2019-10-17,ter,Occitanie,
+2019-10-17,ter,Hauts-de-France,
+2019-10-17,ter,Normandie,"['Signalement de la présence d’enfants près de la voie à Frénouville-Gagny (14  TER impactés).', 'Limitation de la vitesse des trains suite à défaut de géométrie de la voie entre Mézidon et Caen (13 TER impactés).', ""Heurt d'un arbre par un train au niveau de Surdon (8 TER impactés).""]"
+2019-10-17,ter,Pays de la Loire,
+2019-10-17,ter,Provence-Alpes-Côte d'Azur,
+2019-10-17,tgv,nord,
+2019-10-17,tgv,est,
+2019-10-17,tgv,atlantique,
+2019-10-17,tgv,sudest,
+2019-10-17,tgv,ouigo,
+2019-10-17,tgv,europe,
+2019-10-17,intercites,Paris-Limoges-Toulouse,"[""Grève sans préavis d'une partie du personnel roulant."", 'Panne de locomotive à Brive.', 'Panne de signalisation à Ambazac.']"
+2019-10-17,intercites,Paris-Clermont,"['Présence de branches dans la caténaire à Briare.', 'Panne sur un passage à niveau à Moulins-sur-Allier.']"
+2019-10-17,intercites,Bordeaux-Marseille,
+2019-10-17,intercites,Nantes-Bordeaux,
+2019-10-17,intercites,Nantes-Lyon,"['Panne de signalisation à Amplepuis.', 'Panne sur un passage à niveau à Moulins sur Allier.']"
+2019-10-17,intercites,Toulouse-Bayonne,['Panne de signalisation entre Urt et Bayonne']
+2019-10-17,intercites,Clermont-Béziers,
+2019-10-17,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Mouvement social régional en Normandie.', 'Mises à quai tardives de trains au départ et retards de personnel à Paris Saint-Lazare.']"
+2019-10-17,intercites,Paris-Rouen-Le Havre,
+2019-10-17,intercites,Paris-Granville,
+2019-10-17,intercites,Caen-Le Mans-Tours,['Panne de signalisation entre Le Mans et La Hutte.']
+2019-10-17,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Travaux de modernisation des voies : pas de circulation.']
+2019-10-17,intercites,Paris-Briançon,['Travaux de modernisation des voies : pas de circulation.']
+2019-10-18,transilien,A,"['Grève sans préavis', ""Plusieurs signaux d'alarme en intra-muros (RATP).""]"
+2019-10-18,transilien,B,['Grève sans préavis']
+2019-10-18,transilien,C,"['Grève sans préavis', 'Bagage oublié à Versailles-Chantiers.']"
+2019-10-18,transilien,D,['Grève sans préavis']
+2019-10-18,transilien,E,['Grève sans préavis']
+2019-10-18,transilien,H,['Grève sans préavis']
+2019-10-18,transilien,J,['Grève sans préavis']
+2019-10-18,transilien,K,['Grève sans préavis']
+2019-10-18,transilien,L,['Grève sans préavis']
+2019-10-18,transilien,N,"['Grève sans préavis', 'Bagage oublié suspect à Versailles-Chantiers', 'Ralentissement pour travaux à St-Cyr']"
+2019-10-18,transilien,P,
+2019-10-18,transilien,R,['Grève sans préavis']
+2019-10-18,transilien,U,"['Grève sans préavis', 'Bagage oublié suspect à Versailles-Chantiers', 'Ralentissement pour travaux à St-Cyr']"
+2019-10-18,transilien,T4,
+2019-10-18,transilien,T11,"[""Panne d'une rame""]"
+2019-10-18,ter,Grand Est,
+2019-10-18,ter,Nouvelle-Aquitaine,['Grève sans préavis']
+2019-10-18,ter,Auvergne-Rhône-Alpes,['Grève sans préavis']
+2019-10-18,ter,Bourgogne-Franche-Comté,['Grève sans préavis']
+2019-10-18,ter,Bretagne,['Grève sans préavis']
+2019-10-18,ter,Centre-Val de Loire,['Grève sans préavis']
+2019-10-18,ter,Occitanie,['Grève sans préavis']
+2019-10-18,ter,Hauts-de-France,['Grève sans préavis']
+2019-10-18,ter,Normandie,['Grève sans préavis']
+2019-10-18,ter,Pays de la Loire,
+2019-10-18,ter,Provence-Alpes-Côte d'Azur,['Grève sans préavis']
+2019-10-18,tgv,nord,['Grève sans préavis']
+2019-10-18,tgv,est,['Grève sans préavis']
+2019-10-18,tgv,atlantique,['Grève sans préavis']
+2019-10-18,tgv,sudest,['Grève sans préavis']
+2019-10-18,tgv,ouigo,['Grève sans préavis']
+2019-10-18,tgv,europe,['Grève sans préavis']
+2019-10-18,intercites,Paris-Limoges-Toulouse,['Grève sans préavis']
+2019-10-18,intercites,Paris-Clermont,['Grève sans préavis']
+2019-10-18,intercites,Bordeaux-Marseille,['Conséquences de la grève nationale sans préavis']
+2019-10-18,intercites,Nantes-Bordeaux,['Grève sans préavis']
+2019-10-18,intercites,Nantes-Lyon,['Grève sans préavis']
+2019-10-18,intercites,Toulouse-Bayonne,
+2019-10-18,intercites,Clermont-Béziers,['Grève sans préavis']
+2019-10-18,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Grève sans préavis']
+2019-10-18,intercites,Paris-Rouen-Le Havre,['Grève sans préavis']
+2019-10-18,intercites,Paris-Granville,['Grève sans préavis']
+2019-10-18,intercites,Caen-Le Mans-Tours,['Grève sans préavis']
+2019-10-18,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Grève sans préavis']
+2019-10-18,intercites,Paris-Briançon,['Grève sans préavis']
+2019-10-19,transilien,A,
+2019-10-19,transilien,B,['Grève sans préavis']
+2019-10-19,transilien,C,"['Grève sans préavis', 'Bagage oublié à Versailles-Chantiers.']"
+2019-10-19,transilien,D,['Grève sans préavis']
+2019-10-19,transilien,E,
+2019-10-19,transilien,H,['Grève sans préavis']
+2019-10-19,transilien,J,['Grève sans préavis']
+2019-10-19,transilien,K,['Grève sans préavis']
+2019-10-19,transilien,L,['Grève sans préavis']
+2019-10-19,transilien,N,
+2019-10-19,transilien,P,
+2019-10-19,transilien,R,['Grève sans préavis']
+2019-10-19,transilien,U,['Grève sans préavis']
+2019-10-19,transilien,T4,"[""Travaux jusqu'au Lu 3 novembre""]"
+2019-10-19,transilien,T11,
+2019-10-19,ter,Grand Est,
+2019-10-19,ter,Nouvelle-Aquitaine,['Grève sans préavis']
+2019-10-19,ter,Auvergne-Rhône-Alpes,['Grève sans préavis']
+2019-10-19,ter,Bourgogne-Franche-Comté,['Grève sans préavis']
+2019-10-19,ter,Bretagne,['Grève sans préavis']
+2019-10-19,ter,Centre-Val de Loire,['Grève sans préavis']
+2019-10-19,ter,Occitanie,['Grève sans préavis']
+2019-10-19,ter,Hauts-de-France,['Grève sans préavis']
+2019-10-19,ter,Normandie,['Grève sans préavis']
+2019-10-19,ter,Pays de la Loire,
+2019-10-19,ter,Provence-Alpes-Côte d'Azur,['Grève sans préavis']
+2019-10-19,tgv,nord,['Grève sans préavis']
+2019-10-19,tgv,est,['Grève sans préavis']
+2019-10-19,tgv,atlantique,['Grève sans préavis']
+2019-10-19,tgv,sudest,['Grève sans préavis']
+2019-10-19,tgv,ouigo,['Grève sans préavis']
+2019-10-19,tgv,europe,
+2019-10-19,intercites,Paris-Limoges-Toulouse,['Grève sans préavis']
+2019-10-19,intercites,Paris-Clermont,['Grève sans préavis']
+2019-10-19,intercites,Bordeaux-Marseille,['Grève sans préavis']
+2019-10-19,intercites,Nantes-Bordeaux,['Grève sans préavis']
+2019-10-19,intercites,Nantes-Lyon,['Grève sans préavis']
+2019-10-19,intercites,Toulouse-Bayonne,['Grève sans préavis']
+2019-10-19,intercites,Clermont-Béziers,['Grève sans préavis']
+2019-10-19,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Grève sans préavis']
+2019-10-19,intercites,Paris-Rouen-Le Havre,['Grève sans préavis']
+2019-10-19,intercites,Paris-Granville,['Grève sans préavis']
+2019-10-19,intercites,Caen-Le Mans-Tours,['Grève sans préavis']
+2019-10-19,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Grève sans préavis']
+2019-10-19,intercites,Paris-Briançon,['Grève sans préavis']
+2019-10-20,transilien,A,
+2019-10-20,transilien,B,['Grève sans préavis']
+2019-10-20,transilien,C,['Reprise progressive du trafic après la grève sans préavis']
+2019-10-20,transilien,D,['Reprise progressive du trafic après la grève sans préavis']
+2019-10-20,transilien,E,
+2019-10-20,transilien,H,
+2019-10-20,transilien,J,
+2019-10-20,transilien,K,['Reprise progressive du trafic après la grève sans préavis']
+2019-10-20,transilien,L,
+2019-10-20,transilien,N,
+2019-10-20,transilien,P,
+2019-10-20,transilien,R,['Reprise progressive du trafic après la grève sans préavis']
+2019-10-20,transilien,U,
+2019-10-20,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre""]"
+2019-10-20,transilien,T11,
+2019-10-20,ter,Grand Est,
+2019-10-20,ter,Nouvelle-Aquitaine,['Grève sans préavis']
+2019-10-20,ter,Auvergne-Rhône-Alpes,['Grève sans préavis']
+2019-10-20,ter,Bourgogne-Franche-Comté,['Grève sans préavis']
+2019-10-20,ter,Bretagne,
+2019-10-20,ter,Centre-Val de Loire,['Grève sans préavis']
+2019-10-20,ter,Occitanie,['Grève sans préavis']
+2019-10-20,ter,Hauts-de-France,
+2019-10-20,ter,Normandie,['Grève sans préavis']
+2019-10-20,ter,Pays de la Loire,
+2019-10-20,ter,Provence-Alpes-Côte d'Azur,['Grève sans préavis']
+2019-10-20,tgv,nord,['Grève sans préavis']
+2019-10-20,tgv,est,
+2019-10-20,tgv,atlantique,['Grève sans préavis']
+2019-10-20,tgv,sudest,
+2019-10-20,tgv,ouigo,['Grève sans préavis']
+2019-10-20,tgv,europe,
+2019-10-20,intercites,Paris-Limoges-Toulouse,['Grève sans préavis']
+2019-10-20,intercites,Paris-Clermont,['Grève sans préavis']
+2019-10-20,intercites,Bordeaux-Marseille,['Grève sans préavis']
+2019-10-20,intercites,Nantes-Bordeaux,['Grève sans préavis']
+2019-10-20,intercites,Nantes-Lyon,['Grève sans préavis']
+2019-10-20,intercites,Toulouse-Bayonne,['Grève sans préavis']
+2019-10-20,intercites,Clermont-Béziers,['Grève sans préavis']
+2019-10-20,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Grève sans préavis', ""Défaut d'alimentation électrique à Caen""]"
+2019-10-20,intercites,Paris-Rouen-Le Havre,
+2019-10-20,intercites,Paris-Granville,['Grève sans préavis']
+2019-10-20,intercites,Caen-Le Mans-Tours,['Grève sans préavis']
+2019-10-20,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Grève sans préavis']
+2019-10-20,intercites,Paris-Briançon,['Grève sans préavis']
+2019-10-21,transilien,A,"[""Signal d'alarme sur un train à Nanterre-Préfecture.""]"
+2019-10-21,transilien,B,"[""Chute d'une personne sur la voie à Cité-Universitaire (RATP)."", ""Panne d'une rame entre Mitry-Claye et Le Bourget.""]"
+2019-10-21,transilien,C,"['Accident de personne à Issy-Val-de-Seine.', ""Intrusion d'une personne sur les voies à Ivry-sur-Seine."", 'Panne sur un passage à niveau (restant fermé) à Massy-Verrières.']"
+2019-10-21,transilien,D,"['Conséquences des retards sur RER B.', 'Pannes de rames à Garges, Gare de Lyon, Bras de Fer, Corbeil, Malesherbes.']"
+2019-10-21,transilien,E,
+2019-10-21,transilien,H,"[""Mise en place d'une signalisation de chantier à St-Denis."", 'Personnes sur les voies à Frépillon.']"
+2019-10-21,transilien,J,['Mouvement social local.']
+2019-10-21,transilien,K,['Panne de la signalisation à Ormoy-Villers.']
+2019-10-21,transilien,L,
+2019-10-21,transilien,N,['Conséquences des retards du RER C dans le secteur de Versailles.']
+2019-10-21,transilien,P,
+2019-10-21,transilien,R,
+2019-10-21,transilien,U,
+2019-10-21,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre.""]"
+2019-10-21,transilien,T11,"[""Incidents d'exploitation divers.""]"
+2019-10-21,ter,Grand Est,
+2019-10-21,ter,Nouvelle-Aquitaine,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,ter,Auvergne-Rhône-Alpes,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,ter,Bourgogne-Franche-Comté,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,ter,Bretagne,
+2019-10-21,ter,Centre-Val de Loire,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,ter,Occitanie,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,ter,Hauts-de-France,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,ter,Normandie,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,ter,Pays de la Loire,
+2019-10-21,ter,Provence-Alpes-Côte d'Azur,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,tgv,nord,"['Accident de personne à Hattencourt.', 'Heurt de sanglier à Quilleval.', ""Heurt d'une biche à Messy.""]"
+2019-10-21,tgv,est,"[""Panne d'un train à Voiron.""]"
+2019-10-21,tgv,atlantique,"['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).', 'Panne de signalisation à Nantes.']"
+2019-10-21,tgv,sudest,"[""Limitations temporaires de vitesse suite à des travaux dans le secteur d'Avignon.""]"
+2019-10-21,tgv,ouigo,"[""Heurt d'une biche à Messy."", 'Accident de personne à Hattencourt.']"
+2019-10-21,tgv,europe,
+2019-10-21,intercites,Paris-Limoges-Toulouse,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,intercites,Paris-Clermont,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,intercites,Bordeaux-Marseille,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,intercites,Nantes-Bordeaux,['Grève sans préavis : aucune circulation.']
+2019-10-21,intercites,Nantes-Lyon,['Grève sans préavis : aucune circulation']
+2019-10-21,intercites,Toulouse-Bayonne,
+2019-10-21,intercites,Clermont-Béziers,['Reprise progressive après la grève sans préavis (remise en place des trains et réaffectation des conducteurs et des contrôleurs sur ces trains).']
+2019-10-21,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Mouvement social régional : des arrêts commerciaux supplémentaires sont accordés']
+2019-10-21,intercites,Paris-Rouen-Le Havre,['Mouvement social régional : des arrêts commerciaux supplémentaires sont accordés.']
+2019-10-21,intercites,Paris-Granville,
+2019-10-21,intercites,Caen-Le Mans-Tours,['Mouvement social régional : des arrêts commerciaux supplémentaires sont accordés.']
+2019-10-21,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Grève sans préavis : aucune circulation.']
+2019-10-21,intercites,Paris-Briançon,['Travaux sur la ligne : aucune circulation.']
+2019-10-22,transilien,A,"[""Panne d'un engin de travaux à Noisiel."", 'Panne de signalisation à Vincennes.', 'Malaise voyageur à Châtelet.', 'Présence de personne sur les voies à Auber.']"
+2019-10-22,transilien,B,"[""Panne d'un train à Châtelet."", 'Accident de personne à Villeparisis.']"
+2019-10-22,transilien,C,"[""Présence d'une personne sur les voies entre Porchefontaine et Viroflay Rive Gauche."", 'Panne de signalisation à Issy Val de Seine.']"
+2019-10-22,transilien,D,"['Panne de signalisation à St Denis.', 'Bagage abandonné dans un train à Pierrefitte.', ""Panne d'un aiguillage à Corbeil.""]"
+2019-10-22,transilien,E,"[""Panne d'un aiguillage à Vaires."", 'Malaise voyageur dans un train à Pantin.']"
+2019-10-22,transilien,H,"[""Panne d'un train à Champ de Courses d'Enghien."", 'Panne de signalisation à Ermont Eaubonne.']"
+2019-10-22,transilien,J,"['Panne de signalisation à La Frette Montigny.', ""Signal d'alarme sans motif dans un train à Argenteuil.""]"
+2019-10-22,transilien,K,['Malaise voyageur dans un train à Dammartin.']
+2019-10-22,transilien,L,
+2019-10-22,transilien,N,"[""Présence d'une personne dans les voies entre Porchefontaine et Viroflay Rive Gauche.""]"
+2019-10-22,transilien,P,"[""Prolongation des travaux à Nangis suite à la panne d'un train de travaux."", 'Malaise voyageur à Pantin.']"
+2019-10-22,transilien,R,"[""Panne d'un aiguillage à Corbeil."", ""Prolongation des travaux à Montargis suite à la panne d'un train de travaux."", ""Attente du passage d'un train TER à Motereau.""]"
+2019-10-22,transilien,U,"[""Présence d'une personne sur les voies entre Porchefontaine et Viroflay Rive Gauche.""]"
+2019-10-22,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre.""]"
+2019-10-22,transilien,T11,['Absence de conducteur et indisponibilité de rame.']
+2019-10-22,ter,Grand Est,
+2019-10-22,ter,Nouvelle-Aquitaine,
+2019-10-22,ter,Auvergne-Rhône-Alpes,"['Ralentissements suite à des travaux à Lentilly-Charpenay (26 TER impactés).', ""Perte de la télécommande d'un poste suite à un problème sur le câble télécom entre St-Romain-en-Gier et Givors (22 trains impactes)""]"
+2019-10-22,ter,Bourgogne-Franche-Comté,"['Restitution tardive de travaux à Montargis (10 TER impactés).', 'Panne de signalisation à Paris-sud-Est (6 TER impactés).']"
+2019-10-22,ter,Bretagne,"[""Panne d'un train à Pontchaillou (13 TER impactés).""]"
+2019-10-22,ter,Centre-Val de Loire,"['Ralentissement des trains suite à un brouillard épais en plaine de Beauce (9 TER impactés).', 'Incident caténaire à Rouvray (5 TER impactés).']"
+2019-10-22,ter,Occitanie,"['Accident de personne à Frontignan (18 TER impactés).', 'Ralentissements suite à des travaux à Montpellier-St-Roch (10 TER impactés).']"
+2019-10-22,ter,Hauts-de-France,"[""Panne d'un train à Paris-Nord (21 TER impactés)."", 'Forte affluence de voyageurs en gare de Longueau (8 TER impactés).']"
+2019-10-22,ter,Normandie,
+2019-10-22,ter,Pays de la Loire,
+2019-10-22,ter,Provence-Alpes-Côte d'Azur,"['Ralentissements suite à des travaux à Bandol (36 TER impactés).', 'Incident caténaire à Abeille suite aux intempéries (28 TER impactés).']"
+2019-10-22,tgv,nord,
+2019-10-22,tgv,est,['Colis suspect à Paris-Est (2 TGV impactés).']
+2019-10-22,tgv,atlantique,['Incident caténaire à Courtalain (49 TGV impactés).']
+2019-10-22,tgv,sudest,"['Panne de signalisation au Châtelet (11 TGV impactés).', ""Dérangement d'installation à Montpellier (7 trains)."", 'Accident de personne à Vic-Mireval (7 TGV impactés).', 'Foudre tombée sur les installations électriques à Marseille (6 TGV impactés).']"
+2019-10-22,tgv,ouigo,"['Incident caténaire à Rouvray (4 OUIGO impactés).', 'Panne de signalisation au Châtelet (4 OUIGO impactés).']"
+2019-10-22,tgv,europe,"['Panne de signalisation au Châtelet (2 TGV impactés).', 'Accident de personne à Vic-Mireval (7 TGV impactés).', 'Foudre tombée sur les installations électriques à Marseille (6 TGV impactés).']"
+2019-10-22,intercites,Paris-Limoges-Toulouse,"[""Panne d'un train à Paris-Austerlitz."", 'Heurt de chèvres entre La Souterraine et Argenton sur Creuse.', ""Panne d'un aiguillage à Toury.""]"
+2019-10-22,intercites,Paris-Clermont,['Travaux sur la voie restitués tardivement entre Montargis et Cosne.']
+2019-10-22,intercites,Bordeaux-Marseille,"['Accident de personne à Vic-Mireval.', 'Foudre tombée sur les installations électriques à Marseille.']"
+2019-10-22,intercites,Nantes-Bordeaux,
+2019-10-22,intercites,Nantes-Lyon,['Grève sans préavis : aucune circulation.']
+2019-10-22,intercites,Toulouse-Bayonne,['Panne sur un train de marchandises à Montréjeau.']
+2019-10-22,intercites,Clermont-Béziers,
+2019-10-22,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Mises à disposition retardées de matériels à Paris St Lazare.']
+2019-10-22,intercites,Paris-Rouen-Le Havre,
+2019-10-22,intercites,Paris-Granville,"[""Panne sur un passage à niveau près d'Argentan.""]"
+2019-10-22,intercites,Caen-Le Mans-Tours,['Arrêts supplémentaires commerciaux accordés suite à la poursuite de la grève sans préavis sur la région Pays de Loire.']
+2019-10-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-10-22,intercites,Paris-Briançon,['Travaux de modernisation des voies : aucune circulation.']
+2019-10-24,transilien,A,"['Accident grave de personne à Rueil-Malmaison', ""Panne d'aiguillage à Cergy-St-Christophe""]"
+2019-10-24,transilien,B,
+2019-10-24,transilien,C,
+2019-10-24,transilien,D,
+2019-10-24,transilien,E,"['Plusieurs bagages abandonnés dans un train à Magenta', ""Signal d'alarme sans motif dans un train au départ de Magenta"", 'Panne de signalisation à Haussmann']"
+2019-10-24,transilien,H,"[""Panne d'un train à Epinay Villetaneuse""]"
+2019-10-24,transilien,J,['Panne de signalisation à Paris-Batignolles']
+2019-10-24,transilien,K,
+2019-10-24,transilien,L,
+2019-10-24,transilien,N,
+2019-10-24,transilien,P,
+2019-10-24,transilien,R,"['Acte de malveillance avec jets de pierre au passage des trains avant Fontainebleau', ""Panne d'un train à Thomery""]"
+2019-10-24,transilien,U,
+2019-10-24,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre.""]"
+2019-10-24,transilien,T11,
+2019-10-24,ter,Grand Est,
+2019-10-24,ter,Nouvelle-Aquitaine,"['Panne de signalisation à Gazinet, dûe aux intempéries (15 TER impactés)', 'Incident caténaire à Blanquefort (6 TER impactés)', 'Panne matériel sur un train à Libourne (6 TER impactés)']"
+2019-10-24,ter,Auvergne-Rhône-Alpes,
+2019-10-24,ter,Bourgogne-Franche-Comté,"['Jet de pierre sur un train à Fontainebleau-Avon (13 TER impactés)', 'Panne matériel sur un train (Transilien) en gare de Thomery (8 TER impactés)']"
+2019-10-24,ter,Bretagne,
+2019-10-24,ter,Centre-Val de Loire,
+2019-10-24,ter,Occitanie,
+2019-10-24,ter,Hauts-de-France,"['Panne matériel sur un train à Thiennes suite à une avarie au poste de conduite (20 TER impactés)', 'Panne de signalisation à Haubourdin (21 TER impactés)', 'Panne matériel sur un train au départ de Lille-Flandres (7 TER impactés)']"
+2019-10-24,ter,Normandie,
+2019-10-24,ter,Pays de la Loire,
+2019-10-24,ter,Provence-Alpes-Côte d'Azur,['Ralentissement des trains suite aux travaux de Bandol (63 TER impactés)']
+2019-10-24,tgv,nord,
+2019-10-24,tgv,est,
+2019-10-24,tgv,atlantique,"[""Dérangement d'installation à Vars (14 trains)"", ""Dérangement d'installation à La Possonière (5 trains)""]"
+2019-10-24,tgv,sudest,
+2019-10-24,tgv,ouigo,
+2019-10-24,tgv,europe,
+2019-10-24,intercites,Paris-Limoges-Toulouse,"['Intervention de la Police à Limoges pour un pickpocket', 'Panne de signalisation entre Uzerche et Masseret', 'Vitesses limitées en raison de conditions météo rendant le rail glissant']"
+2019-10-24,intercites,Paris-Clermont,"[""Un camion a cassé les barrières d'un passage à niveau à Souppes"", ""Conséquences d'un caillassage d'un TER à Fontainebleau"", ""Panne d'un Transilien à Thomery""]"
+2019-10-24,intercites,Bordeaux-Marseille,
+2019-10-24,intercites,Nantes-Bordeaux,
+2019-10-24,intercites,Nantes-Lyon,
+2019-10-24,intercites,Toulouse-Bayonne,
+2019-10-24,intercites,Clermont-Béziers,['Attente correspondance à Clermont-Ferrand']
+2019-10-24,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Panne matérielle avant Caen', 'Mises à quai tardives à Paris-St-Lazare']"
+2019-10-24,intercites,Paris-Rouen-Le Havre,
+2019-10-24,intercites,Paris-Granville,
+2019-10-24,intercites,Caen-Le Mans-Tours,"['Mise à quai tardive au Mans', 'Déformation de la voie entre Le Mans et Alençon']"
+2019-10-24,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-10-24,intercites,Paris-Briançon,['Travaux de modernisation des voies : pas de circulation']
+2019-10-27,transilien,A,
+2019-10-27,transilien,B,
+2019-10-27,transilien,C,
+2019-10-27,transilien,D,
+2019-10-27,transilien,E,
+2019-10-27,transilien,H,"[""Retards suite aux travaux d'accessibilité de la gare de St Denis"", ""Panne d'un train à Bessancourt""]"
+2019-10-27,transilien,J,"[""Panne d'alimentation électrique dans le secteur de Boissy"", 'Panne du passage à niveau de Boissy']"
+2019-10-27,transilien,K,
+2019-10-27,transilien,L,
+2019-10-27,transilien,N,
+2019-10-27,transilien,P,
+2019-10-27,transilien,R,
+2019-10-27,transilien,U,
+2019-10-27,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre.""]"
+2019-10-27,transilien,T11,['Absence de personnels']
+2019-10-27,ter,Grand Est,
+2019-10-27,ter,Nouvelle-Aquitaine,
+2019-10-27,ter,Auvergne-Rhône-Alpes,
+2019-10-27,ter,Bourgogne-Franche-Comté,['Panne de signalisation à Cosne sur Loire (6 trains impactés)']
+2019-10-27,ter,Bretagne,"[""Heurt d'un sanglier par un train à Avessac (7 TER impactés)""]"
+2019-10-27,ter,Centre-Val de Loire,
+2019-10-27,ter,Occitanie,['Incident caténaire à Portet St Simon (6 trains impactés)']
+2019-10-27,ter,Hauts-de-France,
+2019-10-27,ter,Normandie,"[""Plusieurs pannes de signalisation au Havre, suite à rupture d'un câble électrique (10 trains impactés).""]"
+2019-10-27,ter,Pays de la Loire,
+2019-10-27,ter,Provence-Alpes-Côte d'Azur,['Ralentissement suite à travaux sur les voies à Bandol (40 trains impactés).']
+2019-10-27,tgv,nord,['Dérangement des installations au Poste de Beugnâtre LGV Nord (13 TGV retardés)']
+2019-10-27,tgv,est,
+2019-10-27,tgv,atlantique,['Heurts de sangliers à Morcenx et  Messac  (7 TGV retardés)']
+2019-10-27,tgv,sudest,
+2019-10-27,tgv,ouigo,
+2019-10-27,tgv,europe,
+2019-10-27,intercites,Paris-Limoges-Toulouse,
+2019-10-27,intercites,Paris-Clermont,
+2019-10-27,intercites,Bordeaux-Marseille,
+2019-10-27,intercites,Nantes-Bordeaux,
+2019-10-27,intercites,Nantes-Lyon,
+2019-10-27,intercites,Toulouse-Bayonne,"['Incident électrique entre Carbonne et Muret', 'Panne matérielle à Cazères']"
+2019-10-27,intercites,Clermont-Béziers,
+2019-10-27,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Mises à quai tardives à Paris-St-Lazare', 'Panne matérielle à Cherbourg', 'Affluence voyageurs entre Cherbourg et Lisieux']"
+2019-10-27,intercites,Paris-Rouen-Le Havre,"[""Plusieurs pannes de signalisation au Havre, suite à rupture d'un câble électrique"", 'Panne matérielle au Havre']"
+2019-10-27,intercites,Paris-Granville,
+2019-10-27,intercites,Caen-Le Mans-Tours,"['Incident électrique au Mans.', ""Heurt d'un sanglier entre Yvré-L'Evêque et Le Mans""]"
+2019-10-27,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-10-27,intercites,Paris-Briançon,
+2019-10-28,transilien,A,
+2019-10-28,transilien,B,"['Bagage abandonné en gare de Gentilly', ""Panne d'un train au sud de la ligne""]"
+2019-10-28,transilien,C,
+2019-10-28,transilien,D,['Présence de personnes dans les voies à Créteil Pompadour']
+2019-10-28,transilien,E,
+2019-10-28,transilien,H,['Jets de pierre avec vitres brisées au passage des trains à Epinay Villetaneuse']
+2019-10-28,transilien,J,
+2019-10-28,transilien,K,"[""Panne d'un train en gare de Paris Nord Surface""]"
+2019-10-28,transilien,L,
+2019-10-28,transilien,N,
+2019-10-28,transilien,P,['Heurt avec un sanglier dans le secteur de Gretz']
+2019-10-28,transilien,R,['Présence de personnes dans les voies à Créteil Pompadour']
+2019-10-28,transilien,U,
+2019-10-28,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre.""]"
+2019-10-28,transilien,T11,"[""Panne d'un Tram à Dugny""]"
+2019-10-28,ter,Grand Est,
+2019-10-28,ter,Nouvelle-Aquitaine,
+2019-10-28,ter,Auvergne-Rhône-Alpes,['Panne sur un aiguillage à Lyon Part-Dieu (45 TER impactés)']
+2019-10-28,ter,Bourgogne-Franche-Comté,['Accident de personne à Montereau (13 trains impactés)']
+2019-10-28,ter,Bretagne,
+2019-10-28,ter,Centre-Val de Loire,
+2019-10-28,ter,Occitanie,
+2019-10-28,ter,Hauts-de-France,"['Panne de signalisation à Nesle (12 trains impactés)', 'Panne matériel sur un train à Orry la Ville (12 trains impactés)']"
+2019-10-28,ter,Normandie,['Panne matériel sur un train à La Molay-Littry (12 trains impactés)']
+2019-10-28,ter,Pays de la Loire,
+2019-10-28,ter,Provence-Alpes-Côte d'Azur,
+2019-10-28,tgv,nord,
+2019-10-28,tgv,est,
+2019-10-28,tgv,atlantique,['Mouvement social aux atelier de Chatillon']
+2019-10-28,tgv,sudest,
+2019-10-28,tgv,ouigo,
+2019-10-28,tgv,europe,
+2019-10-28,intercites,Paris-Limoges-Toulouse,
+2019-10-28,intercites,Paris-Clermont,['Passage à niveau en dérangement entre Vichy et St Germain Les Fossés']
+2019-10-28,intercites,Bordeaux-Marseille,
+2019-10-28,intercites,Nantes-Bordeaux,
+2019-10-28,intercites,Nantes-Lyon,"['Accident routier sur un passage à niveau à Nérondes', 'Accident routier sur un passage à niveau à Nérondes']"
+2019-10-28,intercites,Toulouse-Bayonne,
+2019-10-28,intercites,Clermont-Béziers,
+2019-10-28,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-10-28,intercites,Paris-Rouen-Le Havre,
+2019-10-28,intercites,Paris-Granville,
+2019-10-28,intercites,Caen-Le Mans-Tours,['Passage à niveau en dérangement entre Vivion et La Hutte']
+2019-10-28,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Accident routier sur un passage à niveau entre Pamiers et Saverdun']
+2019-10-28,intercites,Paris-Briançon,['Panne de signalisation à Blaisy-Bas']
+2019-10-29,transilien,A,
+2019-10-29,transilien,B,"[""Malaise d'un voyageur dans un train à Aubervilliers-La Courneuve avec descente de clients dans les voies"", ""Dérangement d'un aiguillage à la Plaine-Stade de France"", 'Bagage oublié suspect à Aéroport-CDG 2', ""Malaise d'un voyageur dans un train à Cité-Universitaire (RATP)"", ""Malaise d'un voyageur dans un train à Saint-Lichel-ND (RATP)""]"
+2019-10-29,transilien,C,
+2019-10-29,transilien,D,"['Dérangement de la signalisation à Créteil-Pompadour', ""Malaise d'un voyageur dans un train à Créteil-Pompadour""]"
+2019-10-29,transilien,E,
+2019-10-29,transilien,H,
+2019-10-29,transilien,J,['Choc anormal ressenti (cause externe) sur un train à Argenteuil']
+2019-10-29,transilien,K,"[""Conséquences du malaise d'un voyageur sur le RER B à Aubervilliers et d'une avarie d'une rame sur le RER B""]"
+2019-10-29,transilien,L,
+2019-10-29,transilien,N,"[""Heurt d'un faisan par un train à La Verrière""]"
+2019-10-29,transilien,P,"['Individu allongé dans les voies entre Changis-St-Jean et Château-Thierry', ""Conséquences d'un incident sur un TGV à Reims""]"
+2019-10-29,transilien,R,
+2019-10-29,transilien,U,"[""Heurt d'un faisan par un train à La Verrière""]"
+2019-10-29,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre.""]"
+2019-10-29,transilien,T11,
+2019-10-29,ter,Grand Est,
+2019-10-29,ter,Nouvelle-Aquitaine,
+2019-10-29,ter,Auvergne-Rhône-Alpes,
+2019-10-29,ter,Bourgogne-Franche-Comté,
+2019-10-29,ter,Bretagne,
+2019-10-29,ter,Centre-Val de Loire,
+2019-10-29,ter,Occitanie,
+2019-10-29,ter,Hauts-de-France,
+2019-10-29,ter,Normandie,['Rail fissuré en gare de Vignats (8 trains impactés)']
+2019-10-29,ter,Pays de la Loire,
+2019-10-29,ter,Provence-Alpes-Côte d'Azur,
+2019-10-29,tgv,nord,
+2019-10-29,tgv,est,
+2019-10-29,tgv,atlantique,
+2019-10-29,tgv,sudest,
+2019-10-29,tgv,ouigo,
+2019-10-29,tgv,europe,
+2019-10-29,intercites,Paris-Limoges-Toulouse,
+2019-10-29,intercites,Paris-Clermont,
+2019-10-29,intercites,Bordeaux-Marseille,
+2019-10-29,intercites,Nantes-Bordeaux,"['Panne matérielle à Bordeaux', ""Panne d'un passage à niveau entre Pons et Beillant""]"
+2019-10-29,intercites,Nantes-Lyon,
+2019-10-29,intercites,Toulouse-Bayonne,
+2019-10-29,intercites,Clermont-Béziers,
+2019-10-29,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Mises à quai tardives à Paris-St-Lazare', 'Un bagage abandonné avec intervention des démineurs  à Paris-St-Lazare', ""Attente d'un conducteur à Paris-St-Lazare""]"
+2019-10-29,intercites,Paris-Rouen-Le Havre,
+2019-10-29,intercites,Paris-Granville,
+2019-10-29,intercites,Caen-Le Mans-Tours,"[""Panne d'un passage à niveau entre Vivoin-Beaumont et La Hutte-Coulombiers""]"
+2019-10-29,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Intervention de la Police pour 2 voyageurs sans billet', 'Déclenchement des filets anti chute de rochers à Capdenac']"
+2019-10-29,intercites,Paris-Briançon,['Vitesses limitées en raison de conditions météo rendant le rail glissant entre Gap et Chorges']
+2019-10-30,transilien,A,
+2019-10-30,transilien,B,"['Rail cassé en Gare du Nord souterraine', 'Odeur de gaz suspecte sur un wagon dans le triage du Bourget']"
+2019-10-30,transilien,C,"[""Signal d'alarme sur un train Intercités entre Paris-Austerlitz et Choisy-le-Roi""]"
+2019-10-30,transilien,D,"['Rail cassé en Gare du Nord souterraine', 'Odeur de gaz suspecte sur un wagon dans le triage du Bourget']"
+2019-10-30,transilien,E,
+2019-10-30,transilien,H,
+2019-10-30,transilien,J,
+2019-10-30,transilien,K,['Odeur de gaz suspecte sur un wagon dans le triage du Bourget']
+2019-10-30,transilien,L,
+2019-10-30,transilien,N,
+2019-10-30,transilien,P,
+2019-10-30,transilien,R,"[""Heurt d'un sanglier par un train Intercités entre Souppes et Nemours"", 'Bagage suspect en gare de Paris-Bercy']"
+2019-10-30,transilien,U,
+2019-10-30,transilien,T4,"[""Travaux jusqu'au lundi 3 novembre.""]"
+2019-10-30,transilien,T11,
+2019-10-30,ter,Grand Est,
+2019-10-30,ter,Nouvelle-Aquitaine,
+2019-10-30,ter,Auvergne-Rhône-Alpes,
+2019-10-30,ter,Bourgogne-Franche-Comté,['Dérangement sur un passage à niveau à Etang (8 trains impactés)']
+2019-10-30,ter,Bretagne,
+2019-10-30,ter,Centre-Val de Loire,
+2019-10-30,ter,Occitanie,
+2019-10-30,ter,Hauts-de-France,"['Restitution de travaux à Survilliers-Fosse avec limitation de vitesse durant la journée (70 trains impactés)', 'Odeur de gaz suspecte sur un wagon dans le triage du Bourget (13 TER impactés)']"
+2019-10-30,ter,Normandie,['Rail cassé à Vignats (8 trains impactés)']
+2019-10-30,ter,Pays de la Loire,
+2019-10-30,ter,Provence-Alpes-Côte d'Azur,
+2019-10-30,tgv,nord,
+2019-10-30,tgv,est,
+2019-10-30,tgv,atlantique,"['Accident de personne entre Connéré et le Mans (3 TGV retardés)', 'Mouvement social au Centre de Maintenance de Chatillon']"
+2019-10-30,tgv,sudest,
+2019-10-30,tgv,ouigo,
+2019-10-30,tgv,europe,
+2019-10-30,intercites,Paris-Limoges-Toulouse,
+2019-10-30,intercites,Paris-Clermont,
+2019-10-30,intercites,Bordeaux-Marseille,['Plan de transport dégradé consécutivement aux intempéries sur Languedoc-Roussillon']
+2019-10-30,intercites,Nantes-Bordeaux,"[""Panne d'aiguillage à Rochefort""]"
+2019-10-30,intercites,Nantes-Lyon,
+2019-10-30,intercites,Toulouse-Bayonne,
+2019-10-30,intercites,Clermont-Béziers,
+2019-10-30,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-10-30,intercites,Paris-Rouen-Le Havre,
+2019-10-30,intercites,Paris-Granville,
+2019-10-30,intercites,Caen-Le Mans-Tours,['Attentes correspondances à Caen']
+2019-10-30,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Vitesses limitées en raison de conditions météo rendant le rail glissant entre Capdenac et Rodez']
+2019-10-30,intercites,Paris-Briançon,"[""Panne de locomotive à Gap: nécessité d'acheminer une autre locomotive depuis Valence Ville""]"
+2019-10-31,transilien,A,
+2019-10-31,transilien,B,"[""Malaise d'un voyageur à Gare du Nord""]"
+2019-10-31,transilien,C,
+2019-10-31,transilien,D,"[""Malaise d'un voyageur à Gare du Nord"", ""Panne d'une rame TER entre Villeneuve-St-Georges et Montgeron""]"
+2019-10-31,transilien,E,
+2019-10-31,transilien,H,
+2019-10-31,transilien,J,
+2019-10-31,transilien,K,
+2019-10-31,transilien,L,
+2019-10-31,transilien,N,
+2019-10-31,transilien,P,
+2019-10-31,transilien,R,"[""Panne d'une rame TER entre Villeneuve-St-Georges et Montgeron"", 'Difficulté de préparation des rames et mises à quai tardives à Paris Gare de Lyon']"
+2019-10-31,transilien,U,
+2019-10-31,transilien,T4,"[""Fermeture pour travaux jusqu'au lundi 3 novembre""]"
+2019-10-31,transilien,T11,
+2019-10-31,ter,Grand Est,
+2019-10-31,ter,Nouvelle-Aquitaine,
+2019-10-31,ter,Auvergne-Rhône-Alpes,
+2019-10-31,ter,Bourgogne-Franche-Comté,"[""heurt d'un sanglier par un train à Meursault (9 trains impactés) ainsi qu'à Fontaines Mercurey (4 trains impactés)""]"
+2019-10-31,ter,Bretagne,
+2019-10-31,ter,Centre-Val de Loire,"[""incident caténaire en gare d'Orléans (24 trains impactés)"", ""heurt d'un sanglier par un train à Guillerval (21 trains impactés)""]"
+2019-10-31,ter,Occitanie,"['panne de signalisation à Cazères (9 trains impactés)', 'avarie d’un passage à niveau à Manduel (10 trains impactés)']"
+2019-10-31,ter,Hauts-de-France,
+2019-10-31,ter,Normandie,['Rail fissuré à Vignats (8 trains impactés)']
+2019-10-31,ter,Pays de la Loire,
+2019-10-31,ter,Provence-Alpes-Côte d'Azur,"[""détection d'une fuite sur un wagons de matières dangereuses à Miramas (9 trains impactés)""]"
+2019-10-31,tgv,nord,
+2019-10-31,tgv,est,
+2019-10-31,tgv,atlantique,
+2019-10-31,tgv,sudest,
+2019-10-31,tgv,ouigo,
+2019-10-31,tgv,europe,
+2019-10-31,intercites,Paris-Limoges-Toulouse,['Répercussions du heurt d’un sanglier par un train TER à Guillerval']
+2019-10-31,intercites,Paris-Clermont,
+2019-10-31,intercites,Bordeaux-Marseille,
+2019-10-31,intercites,Nantes-Bordeaux,
+2019-10-31,intercites,Nantes-Lyon,"['Panne de train à St Germain des Fossés', 'Attente pour permettre une correspondance à St Pierre des Corps']"
+2019-10-31,intercites,Toulouse-Bayonne,['passage à niveau forcé et endommagé par un automobiliste entre Lourdes et Coarraze Nay']
+2019-10-31,intercites,Clermont-Béziers,
+2019-10-31,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Procédure bagage suspect en gare de Paris St Lazare', 'Panne sur une locomotive à Lisieux']"
+2019-10-31,intercites,Paris-Rouen-Le Havre,
+2019-10-31,intercites,Paris-Granville,"['Procédure bagage suspect en gare de Paris Vaugirard', 'Difficultés dans la gestion des circulations en Ile-de-France']"
+2019-10-31,intercites,Caen-Le Mans-Tours,['Panne de signalisation entre Le Mans et Alençon']
+2019-10-31,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Difficultés dans la gestion des circulations à l'entrée de Toulouse"", ""Erreur de commande sur l'heure de prise de service d'un conducteur à Toulouse""]"
+2019-10-31,intercites,Paris-Briançon,
