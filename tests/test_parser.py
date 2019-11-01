@@ -98,3 +98,292 @@ class TestParser(unittest.TestCase):
 
         for line in expected:
             self.assertIn(line, self.subject().to_list())
+
+    def test_transilien_incidents(self):
+        expected = [
+            [
+                "transilien",
+                "A",
+                [
+                    "Panne d'un engin de travaux à Noisiel.",
+                    "Panne de signalisation à Vincennes.",
+                    "Malaise voyageur à Châtelet.",
+                    "Présence de personne sur les voies à Auber.",
+                ],
+            ],
+            ["transilien", "B", ["Grève sans préavis"]],
+            [
+                "transilien",
+                "C",
+                [
+                    "Présence d'une personne sur les voies entre Porchefontaine et Viroflay Rive Gauche.",
+                    "Panne de signalisation à Issy Val de Seine.",
+                ],
+            ],
+            [
+                "transilien",
+                "D",
+                [
+                    "Panne de signalisation à St Denis.",
+                    "Bagage abandonné dans un train à Pierrefitte.",
+                    "Panne d'un aiguillage à Corbeil.",
+                ],
+            ],
+            [
+                "transilien",
+                "E",
+                [
+                    "Panne d'un aiguillage à Vaires.",
+                    "Malaise voyageur dans un train à Pantin.",
+                ],
+            ],
+            [
+                "transilien",
+                "H",
+                [
+                    "Panne d'un train à Champ de Courses d'Enghien.",
+                    "Panne de signalisation à Ermont Eaubonne.",
+                ],
+            ],
+            [
+                "transilien",
+                "J",
+                [
+                    "Panne de signalisation à La Frette Montigny.",
+                    "Signal d'alarme sans motif dans un train à Argenteuil.",
+                ],
+            ],
+            ["transilien", "K", ["Malaise voyageur dans un train à Dammartin."]],
+            ["transilien", "L", None],
+            [
+                "transilien",
+                "N",
+                [
+                    "Présence d'une personne dans les voies entre Porchefontaine et Viroflay Rive Gauche."
+                ],
+            ],
+            [
+                "transilien",
+                "P",
+                [
+                    "Prolongation des travaux à Nangis suite à la panne d'un train de travaux.",
+                    "Malaise voyageur à Pantin.",
+                ],
+            ],
+            [
+                "transilien",
+                "R",
+                [
+                    "Panne d'un aiguillage à Corbeil.",
+                    "Prolongation des travaux à Montargis suite à la panne d'un train de travaux.",
+                    "Attente du passage d'un train TER à Motereau.",
+                ],
+            ],
+            [
+                "transilien",
+                "U",
+                [
+                    "Présence d'une personne sur les voies entre Porchefontaine et Viroflay Rive Gauche."
+                ],
+            ],
+            ["transilien", "T4", ["Travaux jusqu'au lundi 3 novembre."]],
+            [
+                "transilien",
+                "T11",
+                ["Absence de conducteur et indisponibilité de rame."],
+            ],
+        ]
+
+        self.assertEquals(expected, self.subject().transilien_incidents())
+
+    def test_tgv_incidents(self):
+        self.maxDiff = None
+        expected = [
+            ["tgv", "nord", None],
+            ["tgv", "est", ["Colis suspect à Paris-Est (2 TGV impactés)."]],
+            [
+                "tgv",
+                "atlantique",
+                ["Incident caténaire à Courtalain (49 TGV impactés)."],
+            ],
+            [
+                "tgv",
+                "sudest",
+                [
+                    "Panne de signalisation au Châtelet (11 TGV impactés).",
+                    "Dérangement d'installation à Montpellier (7 trains).",
+                    "Accident de personne à Vic-Mireval (7 TGV impactés).",
+                    "Foudre tombée sur les installations électriques à Marseille (6 TGV impactés).",
+                ],
+            ],
+            [
+                "tgv",
+                "ouigo",
+                [
+                    "Incident caténaire à Rouvray (4 OUIGO impactés).",
+                    "Panne de signalisation au Châtelet (4 OUIGO impactés).",
+                ],
+            ],
+            [
+                "tgv",
+                "europe",
+                [
+                    "Panne de signalisation au Châtelet (2 TGV impactés).",
+                    "Accident de personne à Vic-Mireval (7 TGV impactés).",
+                    "Foudre tombée sur les installations électriques à Marseille (6 TGV impactés).",
+                ],
+            ],
+        ]
+
+        self.assertEquals(expected, self.subject().tgv_incidents())
+
+    def test_ter_incidents(self):
+        self.maxDiff = None
+        expected = [
+            ["ter", "Grand Est", None],
+            ["ter", "Nouvelle-Aquitaine", None],
+            [
+                "ter",
+                "Auvergne-Rhône-Alpes",
+                [
+                    "Ralentissements suite à des travaux à Lentilly-Charpenay (26 TER "
+                    "impactés).",
+                    "Perte de la télécommande d'un poste suite à un problème sur le câble "
+                    "télécom entre St-Romain-en-Gier et Givors (22 trains impactes)",
+                ],
+            ],
+            [
+                "ter",
+                "Bourgogne-Franche-Comté",
+                [
+                    "Restitution tardive de travaux à Montargis (10 TER impactés).",
+                    "Panne de signalisation à Paris-sud-Est (6 TER impactés).",
+                ],
+            ],
+            ["ter", "Bretagne", ["Panne d'un train à Pontchaillou (13 TER impactés)."]],
+            [
+                "ter",
+                "Centre-Val de Loire",
+                [
+                    "Ralentissement des trains suite à un brouillard épais en plaine de Beauce "
+                    "(9 TER impactés).",
+                    "Incident caténaire à Rouvray (5 TER impactés).",
+                ],
+            ],
+            [
+                "ter",
+                "Occitanie",
+                [
+                    "Accident de personne à Frontignan (18 TER impactés).",
+                    "Ralentissements suite à des travaux à Montpellier-St-Roch (10 TER "
+                    "impactés).",
+                ],
+            ],
+            [
+                "ter",
+                "Hauts-de-France",
+                [
+                    "Panne d'un train à Paris-Nord (21 TER impactés).",
+                    "Forte affluence de voyageurs en gare de Longueau (8 TER impactés).",
+                ],
+            ],
+            ["ter", "Normandie", None],
+            ["ter", "Pays de la Loire", None],
+            [
+                "ter",
+                "Provence-Alpes-Côte d'Azur",
+                [
+                    "Ralentissements suite à des travaux à Bandol (36 TER impactés).",
+                    "Incident caténaire à Abeille suite aux intempéries (28 TER impactés).",
+                ],
+            ],
+        ]
+
+        self.assertEquals(expected, self.subject().ter_incidents())
+
+    def test_intercites_incidents(self):
+        self.maxDiff = None
+        expected = [
+            [
+                "intercites",
+                "Paris-Limoges-Toulouse",
+                [
+                    "Panne d'un train à Paris-Austerlitz.",
+                    "Heurt de chèvres entre La Souterraine et Argenton sur Creuse.",
+                    "Panne d'un aiguillage à Toury.",
+                ],
+            ],
+            [
+                "intercites",
+                "Paris-Clermont",
+                ["Travaux sur la voie restitués tardivement entre Montargis et Cosne."],
+            ],
+            [
+                "intercites",
+                "Bordeaux-Marseille",
+                [
+                    "Accident de personne à Vic-Mireval.",
+                    "Foudre tombée sur les installations électriques à Marseille.",
+                ],
+            ],
+            ["intercites", "Nantes-Bordeaux", None],
+            ["intercites", "Nantes-Lyon", ["Grève sans préavis : aucune circulation."]],
+            [
+                "intercites",
+                "Toulouse-Bayonne",
+                ["Panne sur un train de marchandises à Montréjeau."],
+            ],
+            ["intercites", "Clermont-Béziers", None],
+            [
+                "intercites",
+                "Paris-Caen-Cherbourg Trouville/Deauville",
+                ["Mises à disposition retardées de matériels à Paris St Lazare."],
+            ],
+            ["intercites", "Paris-Rouen-Le Havre", None],
+            [
+                "intercites",
+                "Paris-Granville",
+                ["Panne sur un passage à niveau près d'Argentan."],
+            ],
+            [
+                "intercites",
+                "Caen-Le Mans-Tours",
+                [
+                    "Arrêts supplémentaires commerciaux accordés suite à la poursuite de la "
+                    "grève sans préavis sur la région Pays de Loire."
+                ],
+            ],
+            ["intercites", "Paris-Toulouse-Latour De Carol/Cerbere/Rodez", None],
+            [
+                "intercites",
+                "Paris-Briançon",
+                ["Travaux de modernisation des voies : aucune circulation."],
+            ],
+        ]
+        self.assertEquals(expected, self.subject().intercites_incidents())
+
+    def test_incidents(self):
+        incidents = self.subject().incidents()
+        self.assertEquals(16 + 12 + 7 + 14 - 4, len(incidents))
+
+        tests = [
+            [
+                datetime.date(2019, 10, 22),
+                "transilien",
+                "H",
+                [
+                    "Panne d'un train à Champ de Courses d'Enghien.",
+                    "Panne de signalisation à Ermont Eaubonne.",
+                ],
+            ],
+            [
+                datetime.date(2019, 10, 22),
+                "tgv",
+                "est",
+                ["Colis suspect à Paris-Est (2 TGV impactés)."],
+            ],
+            [datetime.date(2019, 10, 22), "ter", "Grand Est", None],
+            [datetime.date(2019, 10, 22), "intercites", "Clermont-Béziers", None],
+        ]
+        for test in tests:
+            self.assertIn(test, incidents)

@@ -74,6 +74,11 @@ jobs:
               -H "X-Api-Key:$DATA_GOUV_API_KEY" \
               -F "file=@data/regularite.csv" \
               -X POST $API/datasets/$DATASET_ID/resources/$RESOURCE/upload/
+            export RESOURCE="a7e77e63-518e-4429-88ac-0e7255a77fc3"
+            curl -H "Accept:application/json" \
+              -H "X-Api-Key:$DATA_GOUV_API_KEY" \
+              -F "file=@data/incidents.csv" \
+              -X POST $API/datasets/$DATASET_ID/resources/$RESOURCE/upload/
       - run:
           name: Push to GitHub
           command: |

@@ -5,13 +5,22 @@ from bs4 import BeautifulSoup
 
 
 class Parser(object):
+    MODES = ["transilien", "ter", "tgv", "intercites"]
+
     def __init__(self, html):
         super(Parser, self).__init__()
         self.content = BeautifulSoup(html, "html.parser")
 
     def to_list(self):
         res = []
-        for method in ["transilien", "ter", "tgv", "intercites"]:
+        for method in self.MODES:
+            data = getattr(self, method)()
+            res.extend([[self.date()] + e for e in data])
+        return res
+
+    def incidents(self):
+        res = []
+        for method in [f"{m}_incidents" for m in self.MODES]:
             data = getattr(self, method)()
             res.extend([[self.date()] + e for e in data])
         return res
@@ -51,6 +60,41 @@ class Parser(object):
             self.extract_item(item, mode, title_attr)
             for item in self.content.find_all(tag, attrs={"data-activite": mode})
         ]
+
+    def find_incident(self, line, mode):
+        if mode in ["transilien", "tgv"]:
+            el = self.content.find(
+                "div", class_="fait-du-jour", attrs={"data-id": line}
+            )
+        elif mode in ["ter", "intercites"]:
+            el = self.content.find("span", class_="fait-du-jour-titre", string=line)
+            if el is not None:
+                el = el.parent
+        else:
+            raise ValueError(f"Unknow type {mode}")
+        if el is None:
+            return None
+        ul = el.find("ul")
+        if ul is not None:
+            return [li.text.strip() for li in ul.findAll("li")]
+        return [el.find("p").text.strip()]
+
+    def find_incidents(self, mode):
+        lines = [e[1] for e in getattr(self, mode)()]
+        lines.remove("global")
+        return [[mode, line, self.find_incident(line, mode)] for line in lines]
+
+    def transilien_incidents(self):
+        return self.find_incidents("transilien")
+
+    def tgv_incidents(self):
+        return self.find_incidents("tgv")
+
+    def ter_incidents(self):
+        return self.find_incidents("ter")
+
+    def intercites_incidents(self):
+        return self.find_incidents("intercites")
 
     def tgv(self):
         return self.filter_results("tgv", tag="span", title_attr="data-id")
