@@ -539,3 +539,48 @@ date,famille_transport,ligne,incidents
 2019-10-31,intercites,Caen-Le Mans-Tours,['Panne de signalisation entre Le Mans et Alençon']
 2019-10-31,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Difficultés dans la gestion des circulations à l'entrée de Toulouse"", ""Erreur de commande sur l'heure de prise de service d'un conducteur à Toulouse""]"
 2019-10-31,intercites,Paris-Briançon,
+2019-11-01,transilien,A,['Pas de circulation sur les branches Cergy et Poissy (travaux)']
+2019-11-01,transilien,B,"[""Coupure d'alimentation électrique après une avarie sur un train de marchandises au triage du Bourget""]"
+2019-11-01,transilien,C,['Branches dans les caténaires à Etrechy']
+2019-11-01,transilien,D,
+2019-11-01,transilien,E,
+2019-11-01,transilien,H,
+2019-11-01,transilien,J,
+2019-11-01,transilien,K,"[""Coupure d'alimentation électrique après une avarie sur un train de marchandises au triage du Bourget""]"
+2019-11-01,transilien,L,
+2019-11-01,transilien,N,
+2019-11-01,transilien,P,
+2019-11-01,transilien,R,
+2019-11-01,transilien,U,
+2019-11-01,transilien,T4,"[""Fermeture pour travaux jusqu'au lundi 3 novembre""]"
+2019-11-01,transilien,T11,"[""Coupure d'alimentation électrique après une avarie sur un train de marchandises au triage du Bourget""]"
+2019-11-01,ter,Grand Est,
+2019-11-01,ter,Nouvelle-Aquitaine,
+2019-11-01,ter,Auvergne-Rhône-Alpes,
+2019-11-01,ter,Bourgogne-Franche-Comté,
+2019-11-01,ter,Bretagne,['panne de signalisation à Hennebont (10 trains impactés)']
+2019-11-01,ter,Centre-Val de Loire,['branches dans les caténaires à Marolles en Hurepoix (12 TER impactés)']
+2019-11-01,ter,Occitanie,
+2019-11-01,ter,Hauts-de-France,
+2019-11-01,ter,Normandie,['vitesses limitées en raison d’une adhérence dégradée à Breval (3 TER impactés)']
+2019-11-01,ter,Pays de la Loire,
+2019-11-01,ter,Provence-Alpes-Côte d'Azur,
+2019-11-01,tgv,nord,
+2019-11-01,tgv,est,
+2019-11-01,tgv,atlantique,
+2019-11-01,tgv,sudest,
+2019-11-01,tgv,ouigo,
+2019-11-01,tgv,europe,
+2019-11-01,intercites,Paris-Limoges-Toulouse,"['Branches dans les catenaires à Marolles-en-Hurepoix', 'Vitesse limitée consécutivement à des travaux sur les voies entre St Sulpice-Laurière et Ambazac']"
+2019-11-01,intercites,Paris-Clermont,
+2019-11-01,intercites,Bordeaux-Marseille,
+2019-11-01,intercites,Nantes-Bordeaux,
+2019-11-01,intercites,Nantes-Lyon,
+2019-11-01,intercites,Toulouse-Bayonne,
+2019-11-01,intercites,Clermont-Béziers,
+2019-11-01,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-11-01,intercites,Paris-Rouen-Le Havre,
+2019-11-01,intercites,Paris-Granville,
+2019-11-01,intercites,Caen-Le Mans-Tours,['Panne de train entre Alençon et Surdon']
+2019-11-01,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-01,intercites,Paris-Briançon,['Difficultés dans la gestion des circulations sur la voie unique']
