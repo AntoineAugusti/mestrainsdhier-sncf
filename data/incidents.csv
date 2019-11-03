@@ -584,3 +584,48 @@ date,famille_transport,ligne,incidents
 2019-11-01,intercites,Caen-Le Mans-Tours,['Panne de train entre Alençon et Surdon']
 2019-11-01,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-01,intercites,Paris-Briançon,['Difficultés dans la gestion des circulations sur la voie unique']
+2019-11-02,transilien,A,['Pas de circulation sur les branches Cergy et Poissy (travaux)']
+2019-11-02,transilien,B,
+2019-11-02,transilien,C,
+2019-11-02,transilien,D,
+2019-11-02,transilien,E,
+2019-11-02,transilien,H,
+2019-11-02,transilien,J,
+2019-11-02,transilien,K,
+2019-11-02,transilien,L,
+2019-11-02,transilien,N,
+2019-11-02,transilien,P,
+2019-11-02,transilien,R,"['Ralentissements pour travaux prévus entre Lieusaint et Melun', ""Mise à quai tardive d'un train à Gare de Lyon (échange de rame)""]"
+2019-11-02,transilien,U,
+2019-11-02,transilien,T4,"[""Fermeture pour travaux jusqu'au lundi 3 novembre""]"
+2019-11-02,transilien,T11,"[""Incident d'exploitation. Suppression de courses""]"
+2019-11-02,ter,Grand Est,
+2019-11-02,ter,Nouvelle-Aquitaine,"[""heurt d'un arbre tombé sur la voie à Niversac (4 trains impactes)"", 'panne de signalisation aux Eyzies (4 trains impactes)']"
+2019-11-02,ter,Auvergne-Rhône-Alpes,
+2019-11-02,ter,Bourgogne-Franche-Comté,"['adhérence dégradée à Hericourt (4 trains impactes)', 'panne de signalisation à La Charité (4 trains impactes)']"
+2019-11-02,ter,Bretagne,['adhérence dégradée à Dole de Bretagne (3 trains impactes) et à St Jacques de la Lande (3 trains impactes)']
+2019-11-02,ter,Centre-Val de Loire,['incident caténaire à La Loupe (11 trains impactes)']
+2019-11-02,ter,Occitanie,
+2019-11-02,ter,Hauts-de-France,
+2019-11-02,ter,Normandie,
+2019-11-02,ter,Pays de la Loire,
+2019-11-02,ter,Provence-Alpes-Côte d'Azur,
+2019-11-02,tgv,nord,
+2019-11-02,tgv,est,
+2019-11-02,tgv,atlantique,
+2019-11-02,tgv,sudest,
+2019-11-02,tgv,ouigo,
+2019-11-02,tgv,europe,
+2019-11-02,intercites,Paris-Limoges-Toulouse,
+2019-11-02,intercites,Paris-Clermont,
+2019-11-02,intercites,Bordeaux-Marseille,"['Affluence voyageurs dans les gares consécutivement au plan de transport perturbé en raison des intempéries prévues', 'Intervention Police à Montauban pour des voyageurs sans titre de transport']"
+2019-11-02,intercites,Nantes-Bordeaux,
+2019-11-02,intercites,Nantes-Lyon,
+2019-11-02,intercites,Toulouse-Bayonne,
+2019-11-02,intercites,Clermont-Béziers,
+2019-11-02,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Panne de trains à Caen et à Cherbourg', 'fortes affluences voyageurs dans les trains']"
+2019-11-02,intercites,Paris-Rouen-Le Havre,
+2019-11-02,intercites,Paris-Granville,['Vitesse limitée suite à adhérence dégradée (conditions météo) entre Surdon et Argentan']
+2019-11-02,intercites,Caen-Le Mans-Tours,
+2019-11-02,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-02,intercites,Paris-Briançon,
