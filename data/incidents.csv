@@ -629,3 +629,48 @@ date,famille_transport,ligne,incidents
 2019-11-02,intercites,Caen-Le Mans-Tours,
 2019-11-02,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-02,intercites,Paris-Briançon,
+2019-11-03,transilien,A,"['Travaux sur les branches Cergy et Poissy', 'Panne de signalisation à Achères']"
+2019-11-03,transilien,B,
+2019-11-03,transilien,C,
+2019-11-03,transilien,D,
+2019-11-03,transilien,E,
+2019-11-03,transilien,H,
+2019-11-03,transilien,J,
+2019-11-03,transilien,K,['Ralentissements en raison des travaux du week-end']
+2019-11-03,transilien,L,
+2019-11-03,transilien,N,
+2019-11-03,transilien,P,
+2019-11-03,transilien,R,"['Ralentissements pour travaux entre Lieusaint et Melun', ""Conséquences de la tempête Amélie sur le sud de la France: répercussions des retards des trains en provenance de l'Auvergne""]"
+2019-11-03,transilien,U,
+2019-11-03,transilien,T4,"[""Fermeture pour travaux jusqu'au lundi 3 novembre""]"
+2019-11-03,transilien,T11,
+2019-11-03,ter,Grand Est,
+2019-11-03,ter,Nouvelle-Aquitaine,['conséquences de la tempête Amélie']
+2019-11-03,ter,Auvergne-Rhône-Alpes,"['conséquences de la tempête Amélie', 'collision avec une voiture sur un passage à niveau dans l’Ain']"
+2019-11-03,ter,Bourgogne-Franche-Comté,"['affluence voyageurs à Beaune (7 trains impactés)', 'conséquences de la tempête Amélie']"
+2019-11-03,ter,Bretagne,"['panne de signalisation à Avessac (4 trains impactés)', 'conséquences de la tempête Amélie']"
+2019-11-03,ter,Centre-Val de Loire,"['affluence voyageurs dans plusieurs gare de la région (Bourges, Orléans, les Aubrais, Tours)(20 trains impactés)', 'conséquences de la tempête Amélie']"
+2019-11-03,ter,Occitanie,['conséquences de la tempête Amélie']
+2019-11-03,ter,Hauts-de-France,['panne de train à Lille (6 trains impactés)']
+2019-11-03,ter,Normandie,['conséquences de la tempête Amélie']
+2019-11-03,ter,Pays de la Loire,
+2019-11-03,ter,Provence-Alpes-Côte d'Azur,"[""chute d'arbre sur les voies à Pas des Lanciers (22 trains impactés) et à Vitrolles (12 trains impactés).""]"
+2019-11-03,tgv,nord,
+2019-11-03,tgv,est,['Panne de train à Vendenheim (4 TGV retardés)']
+2019-11-03,tgv,atlantique,['conséquences de la tempête Amélie (27 TGV retardés)']
+2019-11-03,tgv,sudest,
+2019-11-03,tgv,ouigo,
+2019-11-03,tgv,europe,
+2019-11-03,intercites,Paris-Limoges-Toulouse,['Conséquences de la tempête Amélie']
+2019-11-03,intercites,Paris-Clermont,['Conséquences de la tempête Amélie']
+2019-11-03,intercites,Bordeaux-Marseille,['Conséquences de la tempête Amélie']
+2019-11-03,intercites,Nantes-Bordeaux,['Conséquences de la tempête Amélie']
+2019-11-03,intercites,Nantes-Lyon,
+2019-11-03,intercites,Toulouse-Bayonne,['Conséquences de la tempête Amélie']
+2019-11-03,intercites,Clermont-Béziers,['Conséquences de la tempête Amélie']
+2019-11-03,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Forte affluence dans les trains en pointe de soirée', 'Réutilisations retardées de trains retardés en ligne']"
+2019-11-03,intercites,Paris-Rouen-Le Havre,
+2019-11-03,intercites,Paris-Granville,"['Attentes pour permettre des correspondances à Caen', 'Panne de signalisation à Argentan']"
+2019-11-03,intercites,Caen-Le Mans-Tours,"['Attente pour permettre une correspondance à Caen', 'Panne de train au départ de Caen', 'Panne de signalisation à Argentan']"
+2019-11-03,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-03,intercites,Paris-Briançon,['Difficultés lors de la mise en tête de la locomotive diesel à Valence Ville']
