@@ -674,3 +674,48 @@ date,famille_transport,ligne,incidents
 2019-11-03,intercites,Caen-Le Mans-Tours,"['Attente pour permettre une correspondance à Caen', 'Panne de train au départ de Caen', 'Panne de signalisation à Argentan']"
 2019-11-03,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-03,intercites,Paris-Briançon,['Difficultés lors de la mise en tête de la locomotive diesel à Valence Ville']
+2019-11-04,transilien,A,"[""Dérangement de la signalisation suite à une avarie informatique au poste d'aiguillage de Poissy"", ""Panne d'un aiguillage entre Sartrouville et Houilles""]"
+2019-11-04,transilien,B,"[""Bagage oublié à St-Rémy, signal d'alarme à St-Michel-Notre Dame et vitesses limitées au sud de la ligne pour rail glissant (RATP)""]"
+2019-11-04,transilien,C,"[""Rail fissuré à Pont-de-l'Alma""]"
+2019-11-04,transilien,D,"['Erreur de direction sur un train vide à Villeneuve-St-Georges', 'Passage à niveau forcé et endommagé par un automobiliste à Moulin-Galant', ""Panne d'un train à Vert-de-Maisons"", 'Répercussions des retards du RER B lors du passage dans le tunnel Châtelet gare du Nord', ""Répercussions prévues des travaux de modernisation des voies du week-end dernier dans l'avant-gare de Gare du Nord""]"
+2019-11-04,transilien,E,
+2019-11-04,transilien,H,
+2019-11-04,transilien,J,"[""Signal d'alarme à Argenteuil"", ""Dérangement de la signalisation suite à une panne informatique au poste d'aiguillage de Poissy"", ""Panne d'un aiguillage entre Sartrouville et Houilles""]"
+2019-11-04,transilien,K,"[""Répercussions prévues des travaux de modernisation des voies du week-end dernier dans l'avant-gare de Gare du Nord""]"
+2019-11-04,transilien,L,"['Dérangement de la signalisation consécutive aux travaux de modernisation des voies du week-end dernier sur la branche Poissy', ""Panne d'un aiguillage entre Sartrouville et Houilles"", 'Rame souillée par un client à Saint-Cloud']"
+2019-11-04,transilien,N,
+2019-11-04,transilien,P,
+2019-11-04,transilien,R,
+2019-11-04,transilien,U,
+2019-11-04,transilien,T4,['Rames immobilisées en maintenance']
+2019-11-04,transilien,T11,
+2019-11-04,ter,Grand Est,
+2019-11-04,ter,Nouvelle-Aquitaine,"['suites de la tempête Amélie du 01/11 (34 TER retardés pour le 04/11).', 'panne de signalisation entre Macau et Pauillac (7 TER impactés)', 'Heurt d’une branche par un train à hauteur d’Egletons (7 TER impactés).']"
+2019-11-04,ter,Auvergne-Rhône-Alpes,"[""Vitesses limitées en raison de conditions d'adhérence dégradée (rail glissant) à Lozanne  (15 TER impactés)"", 'Passage à niveau forcé et endommagé à Villars les Dombes (11 TER impactés)', ""Vitesses limitées en raison de conditions d'adhérence dégradée (rail glissant) à St-Gervais-les-Bains et La-Roche-sur-Foron (11 TER impactés)""]"
+2019-11-04,ter,Bourgogne-Franche-Comté,"['Problème de traction sur train de fret à Genlis (6 TER retardés)', 'Ralentissement suite à travaux dans les voies à Chagny (5 TER impactés)']"
+2019-11-04,ter,Bretagne,
+2019-11-04,ter,Centre-Val de Loire,"[""Avarie d'un passage à niveau près des Aubrais-Orléans (9 TER impactés)"", 'Ralentissement des trains suite à travaux dans les voies à Mer (7 TER impactés)', 'Panne de signalisation près d’Orléans (7 TER impactés)']"
+2019-11-04,ter,Occitanie,"['pannes de signalisation entre Nîmes et Arles (12 TER impactés) et près de Port la Nouvelle (8 TER impactés)', 'panne sur un passage à niveau à Carmaux (12 TER impactés)']"
+2019-11-04,ter,Hauts-de-France,"['panne de train à Hazebrouck (20 trains impactés)', ""coupure d'alimentation électrique à Lille-Flandres (13 trains impactés)"", ""Vitesses limitées en raison de conditions d'adhérence dégradée (rail glissant) à Compiègne (10 trains impactés)""]"
+2019-11-04,ter,Normandie,"[""Dérangement de la signalisation suite à une panne informatique au poste d'aiguillage de Poissy (15 TER retardés)""]"
+2019-11-04,ter,Pays de la Loire,
+2019-11-04,ter,Provence-Alpes-Côte d'Azur,"['ralentissement pour travaux sur les voies à Toulon (38 trains impactés)', 'panne matériel sur un train à Vitrolles (5 trains impactés)']"
+2019-11-04,tgv,nord,
+2019-11-04,tgv,est,
+2019-11-04,tgv,atlantique,['Panne de train vers Vendôme : 7 TGV retardés']
+2019-11-04,tgv,sudest,
+2019-11-04,tgv,ouigo,
+2019-11-04,tgv,europe,
+2019-11-04,intercites,Paris-Limoges-Toulouse,
+2019-11-04,intercites,Paris-Clermont,
+2019-11-04,intercites,Bordeaux-Marseille,
+2019-11-04,intercites,Nantes-Bordeaux,
+2019-11-04,intercites,Nantes-Lyon,
+2019-11-04,intercites,Toulouse-Bayonne,"['avaries sur trois passages à niveau entre Pau et Coarraze Nay', ""Chute d'un arbre sur les voies entre Urt et Peyrehorade""]"
+2019-11-04,intercites,Clermont-Béziers,"[""Sortie tardive d'un train des garages à Nîmes"", 'Attente à Neussargues pour permettre une correspondance']"
+2019-11-04,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"[""Dérangement de la signalisation suite à une panne informatique au poste d'aiguillage de Poissy"", 'Pannes de trains à Paris']"
+2019-11-04,intercites,Paris-Rouen-Le Havre,"[""Dérangement de la signalisation suite à une panne informatique au poste d'aiguillage de Poissy"", ""Panne d'aiguillage à Sartrouville"", ""Répercussions de la panne d'un train de marchandises à St Etienne du Rouvray"", 'Heurt de sanglier à Oissel']"
+2019-11-04,intercites,Paris-Granville,
+2019-11-04,intercites,Caen-Le Mans-Tours,"['Intervention de la police dans un train à Château-du-Loir', ""Difficultés dans la gestion des circulations à l'entrée de Caen""]"
+2019-11-04,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Heurt d'un animal à Escalquens"", 'Attente de personnels de contrôle à Bordeaux']"
+2019-11-04,intercites,Paris-Briançon,
