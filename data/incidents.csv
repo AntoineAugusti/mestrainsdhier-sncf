@@ -764,3 +764,48 @@ date,famille_transport,ligne,incidents
 2019-11-05,intercites,Caen-Le Mans-Tours,['Limitation de vitesse après travaux sur les voies vers Neuville sur Sarthe']
 2019-11-05,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-05,intercites,Paris-Briançon,"[""Panne d'un train de marchandises vers St Amour"", 'Panne de locomotive à Valence Ville']"
+2019-11-06,transilien,A,"['Gêne par un train de marchandises à Achères', 'Personnes dans les voies à La Défense', 'Panne de signalisation à Poissy']"
+2019-11-06,transilien,B,['Pannes de train à Aulnay sous Bois et Gare du Nord']
+2019-11-06,transilien,C,"[""Travaux d'entretien des voies terminés en retard sur Paris Austerlitz, Versailles Chantiers, Dourdan et St Martin d'Etampes""]"
+2019-11-06,transilien,D,['Pannes de train à Melun et Corbeil']
+2019-11-06,transilien,E,
+2019-11-06,transilien,H,
+2019-11-06,transilien,J,
+2019-11-06,transilien,K,
+2019-11-06,transilien,L,"[""Travaux d'entretien des voies terminés en retard à Paris St Lazare"", ""Panne d'aiguillage à Paris St Lazare""]"
+2019-11-06,transilien,N,
+2019-11-06,transilien,P,
+2019-11-06,transilien,R,
+2019-11-06,transilien,U,
+2019-11-06,transilien,T4,
+2019-11-06,transilien,T11,
+2019-11-06,ter,Grand Est,
+2019-11-06,ter,Nouvelle-Aquitaine,"['glissement de terrain dû aux intempéries du 5 novembre à St-Sulpice-Izon (40 TER impactés)', 'suites de la coulée de boue du 5 novembre entre Dax et Laluque (17 TER retardés)', 'panne de signalisation à Coutras (10 TER impactés).', ""heurt d'un animal par un train à St-André-de-Cubzac (9 TER impactés)""]"
+2019-11-06,ter,Auvergne-Rhône-Alpes,"[""panne d'aiguillage à Chasse-sur-Rhône (16 TER impactés)"", ""avarie d'un passage à niveau à Régny (11 TER impactés)""]"
+2019-11-06,ter,Bourgogne-Franche-Comté,
+2019-11-06,ter,Bretagne,
+2019-11-06,ter,Centre-Val de Loire,"['panne de signalisation à Noizay (8 TER impactés)', 'heurt de suidés (sanglier) à Joué (7 TER Impactés)']"
+2019-11-06,ter,Occitanie,
+2019-11-06,ter,Hauts-de-France,"['incident caténaire à Hazebrouck (39 TER Impactés)', ""Travaux d'entretien des voies terminés en retard à Hazebrouck (13 TER impactés)""]"
+2019-11-06,ter,Normandie,"[""répercussions d'une panne informatique entre les Mureaux et Mantes (8 TER impactés)"", 'panne de signalisation à Serquigny (6 TER impactés)']"
+2019-11-06,ter,Pays de la Loire,
+2019-11-06,ter,Provence-Alpes-Côte d'Azur,"['vitesses limitées pour travaux entre Marseille-Blancarde et Toulon (13 TER impactés).', 'panne de signalisation à Meyrargues (11 TER impactés) et à Marseille-St-Charles (11 TER Impactés)']"
+2019-11-06,tgv,nord,
+2019-11-06,tgv,est,
+2019-11-06,tgv,atlantique,['Rames indisponibles en raison de tensions sur le parc au technicentre Atlantique']
+2019-11-06,tgv,sudest,
+2019-11-06,tgv,ouigo,['Rames indisponibles en raison de tensions sur le parc au technicentre Atlantique']
+2019-11-06,tgv,europe,
+2019-11-06,intercites,Paris-Limoges-Toulouse,"['Procédures colis suspect à Châteauroux et Souillac', 'Intervention de la police dans deux trains pour des fraudeurs récalcitrants', 'Panne de signalisation à Lancourtensourt ( 5 IC impactés)']"
+2019-11-06,intercites,Paris-Clermont,
+2019-11-06,intercites,Bordeaux-Marseille,['Panne de signalisation à Lancourtensourt ( 5 IC impactés) (7 IC impactés)']
+2019-11-06,intercites,Nantes-Bordeaux,"[""Panne d'un train"", 'Panne de signalisation à Jonzac', 'Vitesses limitées entre Clisson et La Rochelle']"
+2019-11-06,intercites,Nantes-Lyon,
+2019-11-06,intercites,Toulouse-Bayonne,"[""Chute d'arbres sur les voies en raison de vents forts""]"
+2019-11-06,intercites,Clermont-Béziers,"['Panne de train à Clermont-Ferrand', 'Avarie de porte au départ à Massiac']"
+2019-11-06,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Vitesses limitées entre Lison et Molay Littry  en raison de la fragilisation de la plateforme ferroviaire ravinée par les fortes pluies (9 IC touchés)', ""répercussions d'une panne informatique entre les Mureaux et Mantes (7 IC impactés)""]"
+2019-11-06,intercites,Paris-Rouen-Le Havre,
+2019-11-06,intercites,Paris-Granville,
+2019-11-06,intercites,Caen-Le Mans-Tours,['Panne de signalisation à Vignat']
+2019-11-06,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-06,intercites,Paris-Briançon,"[""Retard de 6 mn à l'arrivée à Briançon en raison d''une attente à Chorges pour laisser passer un TER en retard""]"
