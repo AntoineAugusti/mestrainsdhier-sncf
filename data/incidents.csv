@@ -809,3 +809,48 @@ date,famille_transport,ligne,incidents
 2019-11-06,intercites,Caen-Le Mans-Tours,['Panne de signalisation à Vignat']
 2019-11-06,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-06,intercites,Paris-Briançon,"[""Retard de 6 mn à l'arrivée à Briançon en raison d''une attente à Chorges pour laisser passer un TER en retard""]"
+2019-11-07,transilien,A,"['Panne de signalisation à Maisons-Lafitte.', ""Panne d'un train à Nanterre Université.""]"
+2019-11-07,transilien,B,"['Panne de signalisation en gare de Fontaine-Michalon.', 'Malaise voyageur dans un train au Parc des Expositions.']"
+2019-11-07,transilien,C,
+2019-11-07,transilien,D,"[""Panne d'aiguillage en gare de Stade de France.""]"
+2019-11-07,transilien,E,"[""Panne d'un train à Chelles Gournay."", 'Panne de signalisation à Magenta.']"
+2019-11-07,transilien,H,
+2019-11-07,transilien,J,"['Panne de signalisation à Maisons-Laffitte.', ""Panne d'un train à Argenteuil.""]"
+2019-11-07,transilien,K,
+2019-11-07,transilien,L,
+2019-11-07,transilien,N,"['Prolongation des travaux de nuit à Nogent-le-Rotrou.', ""Mise à quai tardive d'un train à Mantes-la-Jolie.""]"
+2019-11-07,transilien,P,"[""Panne d'un train à Chelles Gournay."", 'Panne de signalisation à Meaux.']"
+2019-11-07,transilien,R,
+2019-11-07,transilien,U,
+2019-11-07,transilien,T4,['Panne des installations de sécurité.']
+2019-11-07,transilien,T11,
+2019-11-07,ter,Grand Est,
+2019-11-07,ter,Nouvelle-Aquitaine,"['Suites du glissement de terrain dû aux intempéries le 05/11 à St-Sulpice-Izon (25 TER retardés).', 'Travaux nécessaires entre Croix-D’Hins et Facture-Biganos (13 TER retardés).']"
+2019-11-07,ter,Auvergne-Rhône-Alpes,
+2019-11-07,ter,Bourgogne-Franche-Comté,
+2019-11-07,ter,Bretagne,['Panne de signalisation à Pléchâtel (12 trains impactés).']
+2019-11-07,ter,Centre-Val de Loire,
+2019-11-07,ter,Occitanie,['Panne sur un passage à niveau à Montrabé (15 TER retardés) et sur un autre près de Rabastens-Couffouleux (12 TER impactés).']
+2019-11-07,ter,Hauts-de-France,"['Adhérence dégradée à Loos les villes (21 TER impactés).', ""Heurt d'un cerf par un train à Hachette (18 TER impactés).""]"
+2019-11-07,ter,Normandie,"['Incident caténaire à Lison (28 TER retardés).', 'Souterrain inondé à Frénouville-Cagny (16 TER impactés).']"
+2019-11-07,ter,Pays de la Loire,
+2019-11-07,ter,Provence-Alpes-Côte d'Azur,"['Ralentissement pour travaux sur les voies entre Marseille-Blancarde et Toulon (22 TER retardés).', ""Panne d'un train entre Golfe-Juan et Cannes (22 TER impactés)."", 'Défaut sur un rail entre Beaulieu-sur-Mer et Eze (11 TER retardés).']"
+2019-11-07,tgv,nord,
+2019-11-07,tgv,est,['Panne sur un train à Strasbourg (9 TGV retardés).']
+2019-11-07,tgv,atlantique,"['Suspicion de heurt d’un individu assis sur le quai en gare du Cellier (13 TGV retardés).', ""Collision d'un train avec un véhicule routier à un passage à niveau entre Marmande et Agen (3 TGV retardés)."", 'Défaut sur un élément de la voie à St Pierre des Corps (7 TGV retardés).']"
+2019-11-07,tgv,sudest,
+2019-11-07,tgv,ouigo,
+2019-11-07,tgv,europe,
+2019-11-07,intercites,Paris-Limoges-Toulouse,
+2019-11-07,intercites,Paris-Clermont,
+2019-11-07,intercites,Bordeaux-Marseille,
+2019-11-07,intercites,Nantes-Bordeaux,['Difficultés de gestion des circulations à Rochefort et La Grave (1 train impacté).']
+2019-11-07,intercites,Nantes-Lyon,
+2019-11-07,intercites,Toulouse-Bayonne,
+2019-11-07,intercites,Clermont-Béziers,"[""Défaut d'alimentation électrique entre Arcomie et St-Sauveur-de-Peyre (1 train impacté).""]"
+2019-11-07,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Réparation d’un poteau caténaire suite aux fortes pluies entre Lison et Molay Littry.']
+2019-11-07,intercites,Paris-Rouen-Le Havre,"[""Panne d'installation Telecom entre Villeneuve-sur-Seine et Maisons-Lafitte (9 trains impactés).""]"
+2019-11-07,intercites,Paris-Granville,
+2019-11-07,intercites,Caen-Le Mans-Tours,['Limitations de vitesse à 40 Km/h entre Montbizot et Teillé (1 train impacté).']
+2019-11-07,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-07,intercites,Paris-Briançon,
