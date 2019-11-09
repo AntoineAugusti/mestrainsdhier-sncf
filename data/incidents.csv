@@ -854,3 +854,48 @@ date,famille_transport,ligne,incidents
 2019-11-07,intercites,Caen-Le Mans-Tours,['Limitations de vitesse à 40 Km/h entre Montbizot et Teillé (1 train impacté).']
 2019-11-07,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-07,intercites,Paris-Briançon,
+2019-11-08,transilien,A,"[""Panne d'un aiguillage à Poissy."", 'Bagage oublié dans un train à Nation.']"
+2019-11-08,transilien,B,"['Bagage oublié à Robinson.', ""Panne d'un train à Paris Nord Souterraine."", ""Signal d'alarme à Aulnay-sous-Bois.""]"
+2019-11-08,transilien,C,"[""Découverte d'un corps sur les voies à Pereire."", ""Panne d'alimentation électrique à Orly."", ""Panne d'un train de travaux à Massy Palaiseau.""]"
+2019-11-08,transilien,D,['Affluence voyageurs dans les gares de Châtelet et Paris Nord Souterraine.']
+2019-11-08,transilien,E,"[""Panne d'un train à Emerainville."", 'Bagage oublié dans un train à Rosny-sous-Bois.']"
+2019-11-08,transilien,H,"[""Branches d'arbre sur la voie entre Montsoult et Luzarches.""]"
+2019-11-08,transilien,J,"[""Panne d'un aiguillage à Poissy.""]"
+2019-11-08,transilien,K,
+2019-11-08,transilien,L,
+2019-11-08,transilien,N,['Présence de personnes sur les voies à Clamart.']
+2019-11-08,transilien,P,"[""Panne d'un train à Esbly."", ""Panne d'un aiguillage entre Lagny et Esbly."", ""Présence d'une personne suicidaire sur les voies entre Esbly et Meaux."", ""Panne d'un train à Emerainville.""]"
+2019-11-08,transilien,R,
+2019-11-08,transilien,U,
+2019-11-08,transilien,T4,
+2019-11-08,transilien,T11,
+2019-11-08,ter,Grand Est,
+2019-11-08,ter,Nouvelle-Aquitaine,"['Inondations des voies à Laluque suite aux intempéries exceptionnelles (15 TER impactés).', ""Panne dans un poste d'aiguillage à Coutras (10 TER impactés).""]"
+2019-11-08,ter,Auvergne-Rhône-Alpes,"['Panne sur un train à La Verpilliere (25 TER impactés).', ""Chute d'un câble Enedis sur les caténaires à Meximieux (80 TER impactés).""]"
+2019-11-08,ter,Bourgogne-Franche-Comté,
+2019-11-08,ter,Bretagne,['Panne sur un train à Rennes (6 TER impactés).']
+2019-11-08,ter,Centre-Val de Loire,
+2019-11-08,ter,Occitanie,
+2019-11-08,ter,Hauts-de-France,"['Bagage oublié à Lens (35 TER impactés).', 'Panne de signalisation à Creil (32 TER impactés).']"
+2019-11-08,ter,Normandie,"['Affaissement de la voie entre Lison et Molay Littry suite aux  fortes pluies intempéries (15 TER impactés).', ""Découverte d'un corps sur les voies à Pereire (10 TER impactés).""]"
+2019-11-08,ter,Pays de la Loire,
+2019-11-08,ter,Provence-Alpes-Côte d'Azur,"[""Restitution tardive de travaux à Bandol suite à la panne d'un train de maintenance de l'infrastructure (21 TER impactés).""]"
+2019-11-08,tgv,nord,"['Mouvement social au technicentre du Landy (7 TGV retardés).', ""Panne d'un Thalys (3 TGV retardés)."", 'Bagage oublié à Lens (2 TGV retardés).']"
+2019-11-08,tgv,est,"[""Panne du poste d'aiguillage de Vaires (4 TGV retardés)."", ""Panne d'un TGV à Strasbourg (2 TGV retardés).""]"
+2019-11-08,tgv,atlantique,"[""Panne d'un TGV en gare de Paris Montparnasse (3 TGV retardés)."", 'Réduction de la vitesse sur la LGV Atlantique suite à du ballast sur la voie (4 TGV retardés).', 'Réduction de la vitesse suite à des travaux à Thouaré (3 TGV retardés).']"
+2019-11-08,tgv,sudest,
+2019-11-08,tgv,ouigo,
+2019-11-08,tgv,europe,
+2019-11-08,intercites,Paris-Limoges-Toulouse,"['Signalement de déformations de la voie à Vierzon et Issoudun entraînant des limitations de vitesse ; rien à signaler après visite (2 Intercités retardés).', 'Vol de câbles près de Châteauroux (3 Intercités retardés).']"
+2019-11-08,intercites,Paris-Clermont,"['Panne sur un train (2 Intercités retardés).', 'Panne sur une train (1 Intercités retardé).']"
+2019-11-08,intercites,Bordeaux-Marseille,
+2019-11-08,intercites,Nantes-Bordeaux,"['Passage à niveau resté fermé près de Saintes (1 Intercités retardé).', 'Risque de collision avec un véhicule stationnant sur un passage à niveau près de La Rochelle (le véhicule a pris la fuite  juste avant la collision) (2 Intercités retardés).']"
+2019-11-08,intercites,Nantes-Lyon,"['Panne sur un Intercités (1 Intercités retardé).', 'Rail glissant (patinage)  entre Roanne et St-Germain-des-Fossés (1 Intercités retardé).']"
+2019-11-08,intercites,Toulouse-Bayonne,['Inondations en Nouvelle-Aquitaine (entre Puyoo et Dax ) (1 Intercités retardé).']
+2019-11-08,intercites,Clermont-Béziers,
+2019-11-08,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"[""Panne d'un aiguillage à Poissy (25 Intercités retardés)."", 'Affaissement de la voie entre Lison et Molay Littry suite aux fortes pluies (5 Intercités retardés).']"
+2019-11-08,intercites,Paris-Rouen-Le Havre,"[""Panne d'un aiguillage à Poissy (1 Intercités retardé).""]"
+2019-11-08,intercites,Paris-Granville,"['Passage à niveau resté fermé près de  Surdon (1 Intercités retardé).', 'Pannes sur deux trains (2 Intercités retardés).', 'Absence de matériel pour des raisons techniques (Paris-Granville 3451) entraînant le client sur un autre train.']"
+2019-11-08,intercites,Caen-Le Mans-Tours,['Difficultés de préparation du train (1 Intercités retardé).']
+2019-11-08,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-08,intercites,Paris-Briançon,
