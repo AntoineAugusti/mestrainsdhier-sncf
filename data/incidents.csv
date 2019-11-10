@@ -899,3 +899,48 @@ date,famille_transport,ligne,incidents
 2019-11-08,intercites,Caen-Le Mans-Tours,['Difficultés de préparation du train (1 Intercités retardé).']
 2019-11-08,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-08,intercites,Paris-Briançon,
+2019-11-09,transilien,A,
+2019-11-09,transilien,B,['Panne de signalisation au Bourget.']
+2019-11-09,transilien,C,
+2019-11-09,transilien,D,['Panne de signalisation en gare de Paris Gare de Lyon Banlieue.']
+2019-11-09,transilien,E,
+2019-11-09,transilien,H,
+2019-11-09,transilien,J,"[""Présence de bidons et tôles d'acier sur la voie proche de la gare de Herblay.""]"
+2019-11-09,transilien,K,['Panne de signalisation au Bourget.']
+2019-11-09,transilien,L,
+2019-11-09,transilien,N,
+2019-11-09,transilien,P,
+2019-11-09,transilien,R,"[""Panne d'un train au départ de Paris.""]"
+2019-11-09,transilien,U,
+2019-11-09,transilien,T4,
+2019-11-09,transilien,T11,['Absence de conducteur.']
+2019-11-09,ter,Grand Est,
+2019-11-09,ter,Nouvelle-Aquitaine,"['Inondations des voies à Laluque suite aux intempéries exceptionnelles (15 TER impactés).', ""Panne dans un poste d'aiguillage à Coutras (10 TER impactés).""]"
+2019-11-09,ter,Auvergne-Rhône-Alpes,
+2019-11-09,ter,Bourgogne-Franche-Comté,"[""Panne d'un train à Dijon-Porte-Neuve (5 TER impactés).""]"
+2019-11-09,ter,Bretagne,['Incident caténaire à Rennes (7 TER impactés).']
+2019-11-09,ter,Centre-Val de Loire,
+2019-11-09,ter,Occitanie,
+2019-11-09,ter,Hauts-de-France,['Panne sur un passage à niveau à Haubourdin (15 TER impactés).']
+2019-11-09,ter,Normandie,['Affaissement de la voie entre Lison et Molay Littry suite aux fortes pluies (15 TER impactés).']
+2019-11-09,ter,Pays de la Loire,
+2019-11-09,ter,Provence-Alpes-Côte d'Azur,
+2019-11-09,tgv,nord,
+2019-11-09,tgv,est,['Panne des installations au poste de Coulombs sur la ligne à grande vitesse (2 TGV retardés).']
+2019-11-09,tgv,atlantique,
+2019-11-09,tgv,sudest,
+2019-11-09,tgv,ouigo,
+2019-11-09,tgv,europe,
+2019-11-09,intercites,Paris-Limoges-Toulouse,
+2019-11-09,intercites,Paris-Clermont,
+2019-11-09,intercites,Bordeaux-Marseille,
+2019-11-09,intercites,Nantes-Bordeaux,"[""Suspicion de panne sur un passage à niveau à Fontaines d'Ozillac (5 Intercités retardés).""]"
+2019-11-09,intercites,Nantes-Lyon,
+2019-11-09,intercites,Toulouse-Bayonne,
+2019-11-09,intercites,Clermont-Béziers,['Suspicion de panne sur un passage à niveau à Ceilhes-Roqueredonde (1 Intercités retardé).']
+2019-11-09,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"[""Présence de bidons et tôles d'acier sur la voie proche de la gare de Herblay (4 Intercités retardés)."", 'Panne de locomotive à Caen (1 Intercités retardé).', 'Affaissement de la voie entre Lison et Molay Littry suite aux fortes pluies (1 Intercités retardé).']"
+2019-11-09,intercites,Paris-Rouen-Le Havre,
+2019-11-09,intercites,Paris-Granville,
+2019-11-09,intercites,Caen-Le Mans-Tours,['Difficultés de circulation du train (1 Intercités retardé).']
+2019-11-09,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Travaux sur la ligne.']
+2019-11-09,intercites,Paris-Briançon,['Travaux sur la ligne.']
