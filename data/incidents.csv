@@ -1,4 +1,184 @@
 date,famille_transport,ligne,incidents
+2019-01-23,transilien,A,"['Défaut de signalisation entre Nation et Auber', 'Malaise voyageur à Auber', ""Panne d'une rame à Cergy-le-Haut""]"
+2019-01-23,transilien,B,['Intervention de police à Gare-du-Nord pour un individu menaçant']
+2019-01-23,transilien,C,"[""Signal d'alarme à Bibiliothèque-François-Mitterand pour un sac à main coincé dans une porte"", 'Heurt de 2 poubelles placées sur la voie à Igny']"
+2019-01-23,transilien,D,"['Restitution tardive de travaux de nuit à Combs la Ville (avarie sur un aiguillage)', 'Intervention de police à Gare-du-Nord pour un individu menaçant', 'Dérangement de signalisation à Goussainville', 'Avarie sur une rame à St-Denis', 'Conséquences des chutes de neige']"
+2019-01-23,transilien,E,"[""Signaux d'alarme malveillants à Haussamann-St-Lazare, et Noisy-le-Sec"", ""Dérangement de la signalisation à Noisy-le-Sec\nPanne d'une rame avant le départ""]"
+2019-01-23,transilien,H,
+2019-01-23,transilien,J,['Avarie sur une rame à Asnières']
+2019-01-23,transilien,K,
+2019-01-23,transilien,L,
+2019-01-23,transilien,N,"['Conséquences des chutes de neige et de givre sur les caténaires', 'Difficulté de sortie des rames depuis les garages de Trappes']"
+2019-01-23,transilien,P,"['Dérangement de la signalisation à Noisy-le-Sec', 'Conséquences des chutes de neige']"
+2019-01-23,transilien,R,"['Retard des travaux de nuit à Combs (avarie sur un aiguillage)', ""Retard d'un train au départ de Gare-de-Lyon (attente conducteur)""]"
+2019-01-23,transilien,U,"['Conséquences des chutes de neige et de givre sur les caténaires', 'Difficulté de sortie des rames depuis les garages de Trappes']"
+2019-01-23,transilien,T4,
+2019-01-23,transilien,T11,['Absences de conducteurs']
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,ter,global,
+2019-01-23,tgv,nord,['Réduction de vitesse sur la ligne à grande vitesse suite aux chutes de neige']
+2019-01-23,tgv,est,['Réduction de vitesse sur la ligne à grande vitesse suite aux chutes de neige']
+2019-01-23,tgv,atlantique,
+2019-01-23,tgv,sudest,['Réduction de vitesse sur la ligne à grande vitesse suite aux chutes de neige']
+2019-01-23,tgv,ouigo,['Réduction de vitesse sur la ligne à grande vitesse suite aux chutes de neige']
+2019-01-23,tgv,europe,['Réduction de vitesse sur les lignes à grande vitesse suite aux chutes de neige']
+2019-01-23,intercites,Paris-Limoges-Toulouse,
+2019-01-23,intercites,Paris-Clermont,
+2019-01-23,intercites,Bordeaux-Marseille,
+2019-01-23,intercites,Nantes-Bordeaux,
+2019-01-23,intercites,Nantes-Lyon,
+2019-01-23,intercites,Toulouse-Bayonne,['Travaux : aucune circulation']
+2019-01-23,intercites,Clermont-Béziers,
+2019-01-23,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Avarie sur une rame Transilien à Asnières sur Seine', 'Pannes de matériels à Paris St Lazare', 'Panne de signalisation à Villennes sur Seine']"
+2019-01-23,intercites,Paris-Rouen-Le Havre,"['Avarie sur une rame Transilien à Asnières sur Seine', 'Pannes de matériels à Paris St Lazare']"
+2019-01-23,intercites,Paris-Granville,
+2019-01-23,intercites,Caen-Le Mans-Tours,
+2019-01-23,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-01-23,intercites,Paris-Briançon,
+2019-03-22,transilien,A,
+2019-03-22,transilien,B,
+2019-03-22,transilien,C,
+2019-03-22,transilien,D,
+2019-03-22,transilien,E,['Suicide à Val-de-Fontenay']
+2019-03-22,transilien,H,
+2019-03-22,transilien,J,
+2019-03-22,transilien,K,
+2019-03-22,transilien,L,
+2019-03-22,transilien,N,"['Brouillard important en matinée entre Dreux et Plaisir-Grignon', 'Gène de la réception des trains à Paris-Montparnasse par un train TER', 'Panne sur un train de service entre Plaisir-Grignon et Mantes-la-Jolie']"
+2019-03-22,transilien,P,"['Suicide à Val-de-Fontenay', 'Panne sur un train TER à Longueville']"
+2019-03-22,transilien,R,
+2019-03-22,transilien,U,
+2019-03-22,transilien,T4,"[""Ligne fermée pour travaux jusqu'au 5 mai""]"
+2019-03-22,transilien,T11,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,ter,global,
+2019-03-22,tgv,nord,
+2019-03-22,tgv,est,"[""Dérangement d'installation à Domnom lès Dieuze (LGV EE) (8 trains)""]"
+2019-03-22,tgv,atlantique,"['Manifestation de forains dans les voies en gare du Mans (14 trains)', ""Dérangement d'installation à Auvers le Hamon (LGV ATL) (5 trains)""]"
+2019-03-22,tgv,sudest,
+2019-03-22,tgv,ouigo,"[""Dérangement d'installation à Domnom lès Dieuze (LGV EE) (un train)"", 'Manifestation de forains dans les voies en gare du Mans (un train)', ""Dérangement d'installation à Auvers le Hamon (LGV ATL) (un train)""]"
+2019-03-22,tgv,europe,['Bagage oublié à Valence TGV (18 trains)']
+2019-03-22,intercites,Paris-Limoges-Toulouse,"[""Panne d'un train TER à La Ferté St Aubin"", ""Panne d'un train de service à Château Gaillard""]"
+2019-03-22,intercites,Paris-Clermont,"['Panne de locomotive à Clermont Ferrand', 'Intervention Pompiers à Nevers pour un voyageur malade', 'Heurt de sangliers par un TER à La Charité']"
+2019-03-22,intercites,Bordeaux-Marseille,"[""Ralentissements à St Jory, conséquences de l'incendie du bâtiment aux abords des voies le 20/03"", ""Panne d'un train de marchandises à Frontignan""]"
+2019-03-22,intercites,Nantes-Bordeaux,
+2019-03-22,intercites,Nantes-Lyon,"['Changement de matériel à Roanne (conséquence du train limité Roanne la veille)', 'Incendie le long des voies  à Villefranche sur Saône']"
+2019-03-22,intercites,Toulouse-Bayonne,['Travaux de modernisation des voies : pas de circulation']
+2019-03-22,intercites,Clermont-Béziers,
+2019-03-22,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-03-22,intercites,Paris-Rouen-Le Havre,
+2019-03-22,intercites,Paris-Granville,
+2019-03-22,intercites,Caen-Le Mans-Tours,['Passage à niveau en dérangement à Château du Loir']
+2019-03-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Acte de malveillance entre Pamiers et Saverdun: pierres déposées sur la voie']
+2019-03-22,intercites,Paris-Briançon,
+2019-07-09,transilien,A,"['Travaux rendus en retard près de Sartrouville', ""Divers signaux d'alarme sur la journée""]"
+2019-07-09,transilien,B,"['Panne de signalisation à Sevran et à Gare du Nord', ""Intrusion d'une personne dans une cabine de conduite à Aubervilliers""]"
+2019-07-09,transilien,C,
+2019-07-09,transilien,D,"['Travaux de nuit rendus en retard entre Creil et Orry', 'Panne de signalisation à Gare du Nord']"
+2019-07-09,transilien,E,
+2019-07-09,transilien,H,['Obstacle sur les voies à Monsoult-Maflier']
+2019-07-09,transilien,J,
+2019-07-09,transilien,K,
+2019-07-09,transilien,L,
+2019-07-09,transilien,N,
+2019-07-09,transilien,P,
+2019-07-09,transilien,R,['Panne de train']
+2019-07-09,transilien,U,
+2019-07-09,transilien,T4,['Travaux de modernisation et de prolongement de la ligne']
+2019-07-09,transilien,T11,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,ter,global,
+2019-07-09,tgv,nord,"[""Travaux d'entretien des voies terminés en retard sur la LGV (4 TGV retardés)"", 'Panne de signalisation sur la LGV Sud Est près de Tonnerre (3 TGV retardés)', 'Procédure bagage abandonné à Lille Europe']"
+2019-07-09,tgv,est,
+2019-07-09,tgv,atlantique,['Détection de chutes de pierres entre Angers et Nantes (9 TGV retardés)']
+2019-07-09,tgv,sudest,['Panne de signalisation sur la LGV Sud Est près de Tonnerre (43 TGV retardés) et à Lunel (8 TGV retardés)']
+2019-07-09,tgv,ouigo,
+2019-07-09,tgv,europe,
+2019-07-09,intercites,Paris-Limoges-Toulouse,
+2019-07-09,intercites,Paris-Clermont,"['Panne de signalisation entre Nevers et Fourchambault', 'Avarie sur un train au départ de Clermont-Ferrand', 'Bâche mal attachée sur un train de marchandises aux environs de La Charité']"
+2019-07-09,intercites,Bordeaux-Marseille,
+2019-07-09,intercites,Nantes-Bordeaux,
+2019-07-09,intercites,Nantes-Lyon,
+2019-07-09,intercites,Toulouse-Bayonne,"[""Chute d'arbres sur la voie entre Artix et Pau."", 'Panne de signalisation entre Tarbes et Ossun']"
+2019-07-09,intercites,Clermont-Béziers,
+2019-07-09,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Mises en place tardives de trains au départ à Paris Saint-Lazare', ""Répercussions de la panne d'un train de marchandises près de Rosny-sur-Seine"", ""Difficultés de circulation entre Mézidon et Lisieux en raison de retards d'autres trains""]"
+2019-07-09,intercites,Paris-Rouen-Le Havre,"[""Avarie d'un passage à niveau entre Bréauté et Le Havre."", 'Mises en place tardives de trains au départ de Paris Saint-Lazare']"
+2019-07-09,intercites,Paris-Granville,
+2019-07-09,intercites,Caen-Le Mans-Tours,
+2019-07-09,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-07-09,intercites,Paris-Briançon,
+2019-09-19,transilien,A,
+2019-09-19,transilien,B,"[""Panne d'une rame à St-Michel-Notre-Dame (RATP)"", 'Avarie à la caténaire entre Parc-des-Expositions et Aéroport-CDG 1', ""Panne d'une rame au Bourget"", 'Accident de personne à Gare-du-Nord']"
+2019-09-19,transilien,C,
+2019-09-19,transilien,D,"['Accident de personne à Gare-du-Nord', ""Conséquences de la panne d'une rame du RER B à St-Michel-Notre-Dame (RATP)""]"
+2019-09-19,transilien,E,
+2019-09-19,transilien,H,
+2019-09-19,transilien,J,"['Dérangement de signalisation entre Poissy et Achères', 'Voyageurs récalcitrants sur un train Intercités à Paris-St-Lazare', 'Intervention des pompiers sur une feu de talus à Limay', ""Dérangement d'aiguillage à Aubergenville"", 'Panne informatique du poste 1 Vernouillet-Verneuil']"
+2019-09-19,transilien,K,
+2019-09-19,transilien,L,
+2019-09-19,transilien,N,
+2019-09-19,transilien,P,
+2019-09-19,transilien,R,"[""Conséquences de retards des trains Intercités/TER sur l'axe Clermont-Ferrand (travaux à Riom-Châtel-Guyon)"", 'Limitation de vitesse en raison de travaux en cours à Maisons-Alfort', ""Dérangement d'un aiguillage à Montereau""]"
+2019-09-19,transilien,U,
+2019-09-19,transilien,T4,
+2019-09-19,transilien,T11,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,ter,global,
+2019-09-19,tgv,nord,
+2019-09-19,tgv,est,
+2019-09-19,tgv,atlantique,
+2019-09-19,tgv,sudest,
+2019-09-19,tgv,ouigo,
+2019-09-19,tgv,europe,"['Intervention des pompiers en gare de Paris Gare de Lyon', 'Avarie à un passage à niveau à Baillargues', ""Retard en provenance d'un autre réseau""]"
+2019-09-19,intercites,Paris-Limoges-Toulouse,
+2019-09-19,intercites,Paris-Clermont,['Défaut de géométrie de la voie constaté entre Vichy et Riom entraine la mise en place d’une limitation de vitesse impactant 5 IC ( Paris-Clermont)  pour un total de 88 minutes.']
+2019-09-19,intercites,Bordeaux-Marseille,
+2019-09-19,intercites,Nantes-Bordeaux,
+2019-09-19,intercites,Nantes-Lyon,
+2019-09-19,intercites,Toulouse-Bayonne,"[""IC 14151 retardé de 32 minutes suite à la présence d'un camion sur les voies à Lahonce."", ""Dérangement de signalisation entre Tournay et Tarbes impacte l'IC 14141 de 27 minutes.""]"
+2019-09-19,intercites,Clermont-Béziers,
+2019-09-19,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"[""Panne d'aiguillage à Aubergenville : 6 IC touchés et 62’ perdues"", 'Panne de signalisation entre Poissy et Achères : 12 IC touchés et 102’ perdues.', 'Panne informatique pendant 45’ du Poste 1 de Vernouillet, 3 IC sont détournés, 5 IC touchés et 158’ perdues.', 'Branches sur la caténaire au niveau du PK 165 entre Bernay et Lisieux : IC touchés pour un total de 263 minutes de perdues.']"
+2019-09-19,intercites,Paris-Rouen-Le Havre,"[""Panne d'aiguillage à Aubergenville : 6 IC touchés et 62’ perdues"", 'Panne de signalisation entre Poissy et Achères : 12 IC touchés et 102’ perdues.', 'Panne informatique pendant 45’ du Poste 1 de Vernouillet, 3 IC sont détournés, 5 IC touchés et 158’ perdues.', 'Branches sur la caténaire au niveau du PK 165 entre Bernay et Lisieux : IC touchés pour un total de 263 minutes de perdues.']"
+2019-09-19,intercites,Paris-Granville,"['Sortie tardive du dépôt a impacté le 3410 (Granville - Paris ) de 23 minutes.', 'Difficultés de gestion des circulations entre Flers et Dreux ont elle impacté le 3420 (Granville - Paris ) de 10 minutes.', ""Voyageur récalcitrant en gare de Folligny impacte le 3450 (Granville-Paris) de 6 minutes à l'arrivée .""]"
+2019-09-19,intercites,Caen-Le Mans-Tours,"[""Passage à niveau en raté d'ouverture entre Vignat et Couliboeuf impacte l'IC 13040 (Caen - Tours) de 7 minutes."", ""Attente correspondance au Mans pour des clients du TGV 8511 à destination de Caen impacte au final l'IC 13030 ( Tours - Caen ) pour 8 minutes.""]"
+2019-09-19,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-09-19,intercites,Paris-Briançon,
 2019-10-17,transilien,A,['Incidents divers en secteur intra-muros (RATP)']
 2019-10-17,transilien,B,"[""Panne d'une rame à Gare du Nord souterraine.""]"
 2019-10-17,transilien,C,['Prolongation de travaux de nuit à Paris-Austerlitz']
