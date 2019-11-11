@@ -14,17 +14,17 @@ date,famille_transport,ligne,incidents
 2019-01-23,transilien,U,"['Conséquences des chutes de neige et de givre sur les caténaires', 'Difficulté de sortie des rames depuis les garages de Trappes']"
 2019-01-23,transilien,T4,
 2019-01-23,transilien,T11,['Absences de conducteurs']
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
-2019-01-23,ter,global,
+2019-01-23,ter,Grand Est,
+2019-01-23,ter,Nouvelle-Aquitaine,
+2019-01-23,ter,Auvergne-Rhône-Alpes,"['Aiguillages bloqués à St-Germain-au-Mont-d’Or suite aux intempéries (26 trains impactés)', 'Limitation de la vitesse des TGVs suite aux intempéries (20 trains impactés)', 'Accident de personne à Chambéry-Poste-Bois (12 trains impactés)', 'Ralentissement de la vitesse des trains à Clermont-Ferrand dû aux fortes chutes de neige (10 trains impactés)', 'Panne matériel sur un train à Alixan-Châteauneuf-d’Isère (8 trains impactés)']"
+2019-01-23,ter,Bourgogne-Franche-Comté,"['Panne sur des aiguillages suite aux intempéries à Gevrey-Chambertin (13 trains impactés)', 'Restitution tardive de travaux de nuit à Combs la Ville (10 trains impactés)', 'Panne matériel sur un train à Besançon (6 trains impactés)']"
+2019-01-23,ter,Bretagne,
+2019-01-23,ter,Centre-Val de Loire,"['Présence de givre sur la caténaire avec des difficulté de captage de courant à Rambouillet (10 trains impactés)', 'Restitution tardive de travaux à Paris-Montparnasse (6 trains impactés)', ""Mise à quai tardive d'un train en gare de Paris-Montparnasse suite à difficulté lors des manœuvres (5 trains impactés)""]"
+2019-01-23,ter,Occitanie,
+2019-01-23,ter,Hauts-de-France,['Nombreuses perturbations liées aux fortes chutes de neige surtout le territoire régional (249 trains impactés)']
+2019-01-23,ter,Normandie,"[""Panne matériel sur un train à Pont l'Evèque (5 trains impactés)"", ""Heurt d'un chevreuil peu après la gare du Havre (5 trains impactés)""]"
+2019-01-23,ter,Pays de la Loire,
+2019-01-23,ter,Provence-Alpes-Côte d'Azur,
 2019-01-23,tgv,nord,['Réduction de vitesse sur la ligne à grande vitesse suite aux chutes de neige']
 2019-01-23,tgv,est,['Réduction de vitesse sur la ligne à grande vitesse suite aux chutes de neige']
 2019-01-23,tgv,atlantique,
@@ -59,17 +59,17 @@ date,famille_transport,ligne,incidents
 2019-03-22,transilien,U,
 2019-03-22,transilien,T4,"[""Ligne fermée pour travaux jusqu'au 5 mai""]"
 2019-03-22,transilien,T11,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
-2019-03-22,ter,global,
+2019-03-22,ter,Grand Est,
+2019-03-22,ter,Nouvelle-Aquitaine,
+2019-03-22,ter,Auvergne-Rhône-Alpes,"['Bagage oublié à Valence TGV : détournement de TGVs par ligne classique (15 trains impactés)', ""Présence d'une personne suicidaire à Tenay (12 trains impactés)"", 'Incendie le long des voies à Villefranche sur Saone (84 trains impactés)']"
+2019-03-22,ter,Bourgogne-Franche-Comté,
+2019-03-22,ter,Bretagne,
+2019-03-22,ter,Centre-Val de Loire,['Panne matériel sur un train à  Artenay (14 trains impactés)']
+2019-03-22,ter,Occitanie,"[""Ralentissement des trains suite à l'incendie d'une maison à proximité des voies à Lacourtensourt (23 trains impactés)"", ""Panne d'un train de marchandises à Frontignan (27 trains impactés)""]"
+2019-03-22,ter,Hauts-de-France,"[""Signalement d'un corps a Crouy (12 trains impactes)""]"
+2019-03-22,ter,Normandie,
+2019-03-22,ter,Pays de la Loire,
+2019-03-22,ter,Provence-Alpes-Côte d'Azur,"[""Suites de l'incendie de la gare de ChateauArnoux (8 trains impactés)"", ""Présence d'une personne dans les voies à l'Estaque (6 trains impactes)""]"
 2019-03-22,tgv,nord,
 2019-03-22,tgv,est,"[""Dérangement d'installation à Domnom lès Dieuze (LGV EE) (8 trains)""]"
 2019-03-22,tgv,atlantique,"['Manifestation de forains dans les voies en gare du Mans (14 trains)', ""Dérangement d'installation à Auvers le Hamon (LGV ATL) (5 trains)""]"
@@ -104,17 +104,17 @@ date,famille_transport,ligne,incidents
 2019-07-09,transilien,U,
 2019-07-09,transilien,T4,['Travaux de modernisation et de prolongement de la ligne']
 2019-07-09,transilien,T11,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
-2019-07-09,ter,global,
+2019-07-09,ter,Grand Est,
+2019-07-09,ter,Nouvelle-Aquitaine,
+2019-07-09,ter,Auvergne-Rhône-Alpes,
+2019-07-09,ter,Bourgogne-Franche-Comté,
+2019-07-09,ter,Bretagne,
+2019-07-09,ter,Centre-Val de Loire,
+2019-07-09,ter,Occitanie,"['Panne de signalisation à Lunel-Viel (27 trains impactés)', 'Procédure bagage abandonné à Toulouse-Matabiau (13 trains impactés)', 'Jet de pierres sur un train à St-Aunès (9 trains impactés)']"
+2019-07-09,ter,Hauts-de-France,"['Incidents électriques à la sous-station de Creil (55 trains impactés) et à Rieux-Angicourt (9 trains impactés)', 'Travaux terminés en retard à Tergnier (7 trains impactés)', 'Intervention des pompiers pour une fuite de gaz de ville à Libercourt (6 trains impactés)']"
+2019-07-09,ter,Normandie,"['Chèvres dans les voies à Auffay (4 trains impactés)', ""Avarie d'un passage à niveau à Bréauté-Beuzeville (3 trains impactés)"", ""Conséquence du retard d'un train Transilien au départ de Paris-St-Lazare (3 trains impactés)""]"
+2019-07-09,ter,Pays de la Loire,
+2019-07-09,ter,Provence-Alpes-Côte d'Azur,
 2019-07-09,tgv,nord,"[""Travaux d'entretien des voies terminés en retard sur la LGV (4 TGV retardés)"", 'Panne de signalisation sur la LGV Sud Est près de Tonnerre (3 TGV retardés)', 'Procédure bagage abandonné à Lille Europe']"
 2019-07-09,tgv,est,
 2019-07-09,tgv,atlantique,['Détection de chutes de pierres entre Angers et Nantes (9 TGV retardés)']
@@ -149,17 +149,17 @@ date,famille_transport,ligne,incidents
 2019-09-19,transilien,U,
 2019-09-19,transilien,T4,
 2019-09-19,transilien,T11,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
-2019-09-19,ter,global,
+2019-09-19,ter,Grand Est,
+2019-09-19,ter,Nouvelle-Aquitaine,
+2019-09-19,ter,Auvergne-Rhône-Alpes,
+2019-09-19,ter,Bourgogne-Franche-Comté,
+2019-09-19,ter,Bretagne,
+2019-09-19,ter,Centre-Val de Loire,
+2019-09-19,ter,Occitanie,
+2019-09-19,ter,Hauts-de-France,
+2019-09-19,ter,Normandie,
+2019-09-19,ter,Pays de la Loire,
+2019-09-19,ter,Provence-Alpes-Côte d'Azur,
 2019-09-19,tgv,nord,
 2019-09-19,tgv,est,
 2019-09-19,tgv,atlantique,
