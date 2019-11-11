@@ -1224,3 +1224,52 @@ date,famille_transport,ligne,regularite,explication
 2019-11-09,intercites,Caen-Le Mans-Tours,75.0,
 2019-11-09,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,,Travaux 
 2019-11-09,intercites,Paris-Briançon,,Travaux
+2019-11-10,transilien,global,96.4,
+2019-11-10,transilien,A,95.5,
+2019-11-10,transilien,B,87.8,
+2019-11-10,transilien,C,94.4,
+2019-11-10,transilien,D,95.5,
+2019-11-10,transilien,E,98.8,
+2019-11-10,transilien,H,96.2,
+2019-11-10,transilien,J,97.9,
+2019-11-10,transilien,K,93.8,
+2019-11-10,transilien,L,99.3,
+2019-11-10,transilien,N,99.4,
+2019-11-10,transilien,P,98.5,
+2019-11-10,transilien,R,79.1,
+2019-11-10,transilien,U,,Travaux
+2019-11-10,transilien,T4,100.0,
+2019-11-10,transilien,T11,91.0,
+2019-11-10,ter,global,94.0,
+2019-11-10,ter,Grand Est,95.8,
+2019-11-10,ter,Nouvelle-Aquitaine,92.1,
+2019-11-10,ter,Auvergne-Rhône-Alpes,93.3,
+2019-11-10,ter,Bourgogne-Franche-Comté,94.8,
+2019-11-10,ter,Bretagne,95.1,
+2019-11-10,ter,Centre-Val de Loire,97.5,
+2019-11-10,ter,Occitanie,87.5,
+2019-11-10,ter,Hauts-de-France,95.2,
+2019-11-10,ter,Normandie,97.4,
+2019-11-10,ter,Pays de la Loire,97.7,
+2019-11-10,ter,Provence-Alpes-Côte d'Azur,91.7,
+2019-11-10,tgv,global,97.0,
+2019-11-10,tgv,nord,97.1,
+2019-11-10,tgv,est,94.4,
+2019-11-10,tgv,atlantique,96.1,
+2019-11-10,tgv,sudest,98.7,
+2019-11-10,tgv,ouigo,97.8,
+2019-11-10,tgv,europe,96.9,
+2019-11-10,intercites,global,92.6,
+2019-11-10,intercites,Paris-Limoges-Toulouse,,Travaux
+2019-11-10,intercites,Paris-Clermont,100.0,
+2019-11-10,intercites,Bordeaux-Marseille,,Travaux
+2019-11-10,intercites,Nantes-Bordeaux,100.0,
+2019-11-10,intercites,Nantes-Lyon,,Travaux
+2019-11-10,intercites,Toulouse-Bayonne,,Travaux
+2019-11-10,intercites,Clermont-Béziers,100.0,
+2019-11-10,intercites,Paris-Caen-Cherbourg Trouville/Deauville,87.5,
+2019-11-10,intercites,Paris-Rouen-Le Havre,96.9,
+2019-11-10,intercites,Paris-Granville,92.3,
+2019-11-10,intercites,Caen-Le Mans-Tours,100.0,
+2019-11-10,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,,Travaux
+2019-11-10,intercites,Paris-Briançon,,Travaux
