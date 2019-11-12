@@ -1169,3 +1169,48 @@ date,famille_transport,ligne,incidents
 2019-11-10,intercites,Caen-Le Mans-Tours,
 2019-11-10,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Travaux sur les voies, pas de circulations.']"
 2019-11-10,intercites,Paris-Briançon,"['Travaux sur les voies, pas de circulations.']"
+2019-11-11,transilien,A,"['Panne de signalisation à Neuilly Plaisance.', ""Panne d'un train à Achères."", 'Malaise voyageur dans un train à Vincennes.']"
+2019-11-11,transilien,B,"['Absence de personnel de conduite.', 'Ralentissements suite à des travaux entre Parc des Expositions et Roissy Aéroport.', ""Panne d'un train à Paris Gare du Nord Souterraine.""]"
+2019-11-11,transilien,C,
+2019-11-11,transilien,D,
+2019-11-11,transilien,E,
+2019-11-11,transilien,H,
+2019-11-11,transilien,J,
+2019-11-11,transilien,K,
+2019-11-11,transilien,L,
+2019-11-11,transilien,N,
+2019-11-11,transilien,P,
+2019-11-11,transilien,R,"[""Panne d'un train à Cesson."", 'Attente de correspondance avec un train TER.']"
+2019-11-11,transilien,U,
+2019-11-11,transilien,T4,
+2019-11-11,transilien,T11,
+2019-11-11,ter,Grand Est,
+2019-11-11,ter,Nouvelle-Aquitaine,"['Ralentissements suite à des travaux à Saintes (17 TER impactés).', 'Panne de signalisation à Bordeaux-Hourcade (4 TER impactés).']"
+2019-11-11,ter,Auvergne-Rhône-Alpes,
+2019-11-11,ter,Bourgogne-Franche-Comté,"['Panne sur un aiguillage à Perrigny-Triage (4 TER impactés).', ""Mise à quai tardive d'un train à Montchanin suite à des manœuvres et essais de freins plus longs (4 TER impactés).""]"
+2019-11-11,ter,Bretagne,"['Adhérence dégradée au rail près de Quimper (4 TER impactés).', ""Panne d'un train à Vitré (3 TER impactés).""]"
+2019-11-11,ter,Centre-Val de Loire,"['Défaut de géométrie de la voie à Mer (8 TER impactés).', 'Restitution tardive des travaux à Juvisy (7 TER impactés).']"
+2019-11-11,ter,Occitanie,"['Incident caténaire à Lourdes (8 TER impactés).', 'Accident de personne à Pompignan (5 TER impactés).']"
+2019-11-11,ter,Hauts-de-France,"[""Panne d'un train ECR à Aulnoye (9 TER impactés)."", 'Adhérence dégradée au rail à Maurois (6 TER impactés).']"
+2019-11-11,ter,Normandie,"['Affaissement de la voie entre Lison et Molay Littry suite aux fortes pluies (7 TER impactés).', 'Panne sur un passage à niveau à St-Sever (3 TER impactés).']"
+2019-11-11,ter,Pays de la Loire,
+2019-11-11,ter,Provence-Alpes-Côte d'Azur,
+2019-11-11,tgv,nord,
+2019-11-11,tgv,est,
+2019-11-11,tgv,atlantique,"['Dysfonctionnement des installations de surveillance des essieux sur la ligne Bretagne-Pays-de-la-Loire (11 TGV retardés).', ""Heurt d'un chevreuil sur la ligne à grande vitesse (10 TGV retardés)."", 'Mise à disposition tardive du matériel roulant (5 TGV retardés).']"
+2019-11-11,tgv,sudest,
+2019-11-11,tgv,ouigo,"[""Panne d'un TGV au départ de Paris Montparnasse (3 OUIGO retardés)."", ""Heurt d'un chevreuil sur la ligne à grande vitesse (3 OUIGO retardés)."", 'Limitation de vitesse sur la ligne à grande vitesse suite au séisme sur le secteur (3 OUIGO retardés).']"
+2019-11-11,tgv,europe,"['Limitation de vitesse sur la ligne à grande vitesse suite au séisme sur le secteur (4 TGV retardés).', ""Heurt d'un gibier à Pont-de-Veyle (3 TGV retardés).""]"
+2019-11-11,intercites,Paris-Limoges-Toulouse,"['Limitations de vitesse de Bersac à La Jonchère (2 Intercités retardés).', 'Panne de signalisation aux Aubrais (2 Intercités retardés).', 'Restitution tardive des travaux à Juvisy (2 Intercités retardés).', 'Panne de locomotive (1 Intercités retardé).']"
+2019-11-11,intercites,Paris-Clermont,
+2019-11-11,intercites,Bordeaux-Marseille,"['Accident de personne à Pompignan (3 Intercités retardés).', ""Panne d'un train au départ de Toulouse (1 Intercités retardé)."", 'Passages à niveau restés fermés (2 Intercités retardés).']"
+2019-11-11,intercites,Nantes-Bordeaux,['Limitation de vitesse vers Clisson (2 Intercités retardés).']
+2019-11-11,intercites,Nantes-Lyon,['Panne de train avant le départ de Lyon (1 Intercités retardé).']
+2019-11-11,intercites,Toulouse-Bayonne,['Incidents caténaire entre Lourdes et Coarraze.']
+2019-11-11,intercites,Clermont-Béziers,['Attente de correspondance à Clermont Ferrand (1 Intercités retardé).']
+2019-11-11,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Mises à quai tardives à St Lazare.', 'Affaissement de la voie entre Lison et Molay Littry suite aux fortes pluies intempéries (2 Intercités retardés).', 'Bagage abandonné et services aux voyageurs en ligne (2 Intercités retardés).', 'Difficultés de traction pour faible adhérence (1 Intercités retardé).']"
+2019-11-11,intercites,Paris-Rouen-Le Havre,
+2019-11-11,intercites,Paris-Granville,
+2019-11-11,intercites,Caen-Le Mans-Tours,['Panne de signalisation vers La Ferté Bernard (1 Intercités retardé).']
+2019-11-11,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-11,intercites,Paris-Briançon,
