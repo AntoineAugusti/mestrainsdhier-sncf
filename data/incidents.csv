@@ -1214,3 +1214,48 @@ date,famille_transport,ligne,incidents
 2019-11-11,intercites,Caen-Le Mans-Tours,['Panne de signalisation vers La Ferté Bernard (1 Intercités retardé).']
 2019-11-11,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-11,intercites,Paris-Briançon,
+2019-11-12,transilien,A,['Rail fissuré entre CDG-Etoile et Auber (zone RATP)']
+2019-11-12,transilien,B,['Intervention de la police à Gare du Nord pour des pickpockets']
+2019-11-12,transilien,C,"[""Panne d'un aiguillage à Invalides"", 'Incident caténaire à Dourdan']"
+2019-11-12,transilien,D,"['Intervention de la police à Gare du Nord pour des pickpockets', ""Répercussions d'un accident de personne à Villers-St-Paul (60)""]"
+2019-11-12,transilien,E,"[""Panne d'une rame à Haussmann-St-Lazare"", 'Petite fille oubliée dans un train à Noisy-le-Sec']"
+2019-11-12,transilien,H,
+2019-11-12,transilien,J,"['Panne de signalisation à Houilles', 'Rames immobilisées en maintenance']"
+2019-11-12,transilien,K,
+2019-11-12,transilien,L,['Accident de personne à Vaucresson']
+2019-11-12,transilien,N,['Répercussions de retards de trains TER suite à la limitation des vitesses entre Le Mans et Rambouillet en raison des conditions climatiques (rails glissants)']
+2019-11-12,transilien,P,['Panne de train à Paris-Est']
+2019-11-12,transilien,R,
+2019-11-12,transilien,U,
+2019-11-12,transilien,T4,
+2019-11-12,transilien,T11,"['Avaries sur une rame', ""Difficulté d'exploitation sur la ligne""]"
+2019-11-12,ter,Grand Est,
+2019-11-12,ter,Nouvelle-Aquitaine,"['Retards en sortie de dépôt à Limoges (7 TER impactés)', 'Suite inondations dans le secteur de Bordeaux Saint Jean (9 TER Impactés)']"
+2019-11-12,ter,Auvergne-Rhône-Alpes,"['panne de signalisation à Romanèche (17 trains impactés), Firminy (12 TER impactés) et à St-Priest (10 TER impactés)']"
+2019-11-12,ter,Bourgogne-Franche-Comté,
+2019-11-12,ter,Bretagne,"['Vitesses limitées en raison des conditions climatiques (rails glissants) à Auray (20 TER impactés)', 'Panne de train à Landerneau (6 TER impactés)']"
+2019-11-12,ter,Centre-Val de Loire,"['Vitesses limitées en raison des conditions climatiques (rails glissants) à Nogent-le-Rotrou (12 TER impactés)', 'Incident caténaire à Dourdan (10 TER impactés)']"
+2019-11-12,ter,Occitanie,"['Panne de train à Toulouse-Matabiau (22 TER impactés)', 'Travaux dans les voies à Montpellier (9 TER impactés)']"
+2019-11-12,ter,Hauts-de-France,"[""Vitesses limitées à Creil suite à des travaux programmés sur un poste d'aiguillage (56 TER impactés)"", 'Chute d’une personne d’un pont routier sur les voies à Villers-St-Paul (53 TER impactés)', ""Avarie d'un passage à niveau à Haubourdin (21 TER impactés)""]"
+2019-11-12,ter,Normandie,"[""Erreur de commande d'un contrôleur à Rouen-rive-Droite (6 TER impactés)"", ""Erreur de conduite d'un conducteur à Houilles-Carrières-sur-Seine (6 TER impactés)""]"
+2019-11-12,ter,Pays de la Loire,
+2019-11-12,ter,Provence-Alpes-Côte d'Azur,
+2019-11-12,tgv,nord,"['Vitesses réduites pour vérification après un séisme ressenti en Ardèche (3 TGV retardés)', 'Avarie de portes sur un train (2 TGV retardés)']"
+2019-11-12,tgv,est,"[""Émission intempestive de l'alerte radio au niveau de Bischheim  (7 TGV retardés)""]"
+2019-11-12,tgv,atlantique,"[""Heurt d'une biche à St Avertin sur LGV SEA (11 TGV retardés)"", 'Pannes de trains à Paris Montparnasse et Dax (4 TGV retardés)', 'Vitesses réduites pour vérification après un séisme ressenti en Ardèche (2 TGV retardés)']"
+2019-11-12,tgv,sudest,"['Vitesses réduites pour vérification après un séisme ressenti en Ardèche (4 TGV retardés)', 'Vitesses réduites en raison de travaux à Marseille et Montpellier (4 TGV retardés)']"
+2019-11-12,tgv,ouigo,
+2019-11-12,tgv,europe,"[""Émission intempestive de l'alerte radio au niveau de Bischheim (2 TGV retardés)"", ""Travaux d'entretien des voies terminés en retard près de Dijon (2 TGV retardés)""]"
+2019-11-12,intercites,Paris-Limoges-Toulouse,"['Limitations de vitesse de Bersac à La Jonchère (1 Intercités retardé)', ""Panne d'installations de voie à Vierzon et Dourdan (3 Intercités retardés)"", ""Heurt d'un sanglier à Argenton (1 Intercités retardé)"", 'Manifestants sur les voies à Argenton (1 Intercités retardé)', 'Intervention de la police à Vierzon (1 Intercités retardé)']"
+2019-11-12,intercites,Paris-Clermont,
+2019-11-12,intercites,Bordeaux-Marseille,
+2019-11-12,intercites,Nantes-Bordeaux,"[""Présence d'un cheval sur les voies entre Luçon et La Rochelle  (2 Intercités retardés)""]"
+2019-11-12,intercites,Nantes-Lyon,
+2019-11-12,intercites,Toulouse-Bayonne,"['Limitation de vitesse entre Boussens et Carbonne', 'Vitesses limitées en raison des conditions météo (rails glissants) à Peyrehorade']"
+2019-11-12,intercites,Clermont-Béziers,['Vitesses réduites entre Millau et Bédarieux']
+2019-11-12,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Mises à quai tardives à St Lazare  (3 Intercités retardés)', 'Affaissement de la voie entre Lison et Molay Littry suite aux fortes pluies (12 Intercités retardés)', 'Préparation retardée de trains au départ (2 Intercités retardés)', 'Vitesses limitées en raison des conditions météo (rails glissants) (1 Intercités retardé)']"
+2019-11-12,intercites,Paris-Rouen-Le Havre,"['Panne de train à Vernon (1 Intercités retardé)', ""Répercussions de la panne d'un Transilien à Houilles (1 Intercités retardé)"", ""Panne d'installations de voie à Paris St Lazare et Rouen (2 Intercités retardés)."", 'Erreur dans la commande de personnel (1 Intercités retardé)', ""Personnels retardés par des retards d'autres trains (4 Intercités retardés)""]"
+2019-11-12,intercites,Paris-Granville,"['Vitesses limitées en raison des conditions météo (rails glissants) (2 Intercités retardés)', ""Suspicion d'avarie sur un passage à niveau à Dreux (1 Intercités retardé)""]"
+2019-11-12,intercites,Caen-Le Mans-Tours,['Déformation des voies entre Neuville et La Hutte suite aux fortes pluies (1 Intercités retardé)']
+2019-11-12,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-12,intercites,Paris-Briançon,"[""Panne d'un train de marchandises à St Florentin Vergigny (1 Intercités retardé)""]"
