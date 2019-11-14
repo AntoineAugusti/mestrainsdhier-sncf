@@ -1259,3 +1259,48 @@ date,famille_transport,ligne,incidents
 2019-11-12,intercites,Caen-Le Mans-Tours,['Déformation des voies entre Neuville et La Hutte suite aux fortes pluies (1 Intercités retardé)']
 2019-11-12,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-12,intercites,Paris-Briançon,"[""Panne d'un train de marchandises à St Florentin Vergigny (1 Intercités retardé)""]"
+2019-11-13,transilien,A,"['Alarmes incendie au poste de gestion des circulation de Poissy', 'Pannes de signalisation à Poissy']"
+2019-11-13,transilien,B,"['Intervention de police à Aéroport-CDG1', 'Procédure bagage suspect à Aéroport-CDG 2 TGV']"
+2019-11-13,transilien,C,"['Vitesses limitées en raison des conditions météo (rails glissants)', 'Panne sur une rame à Pontoise', ""Signal d'alarme malveillant à Bibliothèque-F. Mitterrand""]"
+2019-11-13,transilien,D,"[""Panne d'une rame à Malesherbes"", 'Rétention de portes (malveillance) à Gare du Nord', 'Rames immobilisées en maintenance']"
+2019-11-13,transilien,E,"['Alerte de sécurité pour une personne tombée sur la voie à Pantin', 'Alerte de sécurité pour une rixe entre bandes dans les voies à Val-de-Fontenay', 'Travaux de maintenance des voies rendus en retard à Nogent-le-Perreux']"
+2019-11-13,transilien,H,
+2019-11-13,transilien,J,"['Alarmes incendie au poste de gestion des circulation de Poissy', 'Pannes de signalisation à Poissy']"
+2019-11-13,transilien,K,
+2019-11-13,transilien,L,
+2019-11-13,transilien,N,
+2019-11-13,transilien,P,
+2019-11-13,transilien,R,
+2019-11-13,transilien,U,
+2019-11-13,transilien,T4,
+2019-11-13,transilien,T11,['Panne de signalisation à Epinay-sur-Seine']
+2019-11-13,ter,Grand Est,
+2019-11-13,ter,Nouvelle-Aquitaine,"['Pannes de signalisation à La Grave d’Embarès (8 TER impactés) et à Sorac-en-Périgord (5 TER impactés)', 'Panne de train à Langon (6 TER impactés)', 'Vitesses limitées en raison des conditions météo (rails glissants) à La Jonchère (5 TER impactés)']"
+2019-11-13,ter,Auvergne-Rhône-Alpes,
+2019-11-13,ter,Bourgogne-Franche-Comté,
+2019-11-13,ter,Bretagne,"[""Répercussions de la panne d'un TGV à Auray (14 TER impactés)""]"
+2019-11-13,ter,Centre-Val de Loire,
+2019-11-13,ter,Occitanie,
+2019-11-13,ter,Hauts-de-France,"[""Heurt d'animaux par un train à Albert (12 TER impactés)""]"
+2019-11-13,ter,Normandie,['Alarmes incendie au poste de gestion des circulation de Poissy (15 TER impactés)']
+2019-11-13,ter,Pays de la Loire,
+2019-11-13,ter,Provence-Alpes-Côte d'Azur,
+2019-11-13,tgv,nord,
+2019-11-13,tgv,est,
+2019-11-13,tgv,atlantique,
+2019-11-13,tgv,sudest,
+2019-11-13,tgv,ouigo,
+2019-11-13,tgv,europe,
+2019-11-13,intercites,Paris-Limoges-Toulouse,"['Panne de train au départ de Paris', 'Panne de signalisation près de Vierzon', 'Manifestation sur les voies à Argenton', ""Intervention des forces de l'ordre pour un voyageur récalcitrant à Montauban"", 'Vitesses limitées en raison des conditions météo (rails glissants) entre Limoges et Masseret']"
+2019-11-13,intercites,Paris-Clermont,
+2019-11-13,intercites,Bordeaux-Marseille,
+2019-11-13,intercites,Nantes-Bordeaux,['Panne de train à Saintes avec report des clients sur TER et bus']
+2019-11-13,intercites,Nantes-Lyon,
+2019-11-13,intercites,Toulouse-Bayonne,
+2019-11-13,intercites,Clermont-Béziers,
+2019-11-13,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Poursuite de travaux de confortement des voies dégradées par de fortes pluies à Lison', ""Heurt d'un animal par un train Caen-Paris"", 'Alarmes incendie au poste de gestion des circulation de Poissy (17 IC impactés)']"
+2019-11-13,intercites,Paris-Rouen-Le Havre,['Alarmes incendie au poste de gestion des circulation de Poissy (17 IC impactés)']
+2019-11-13,intercites,Paris-Granville,
+2019-11-13,intercites,Caen-Le Mans-Tours,['Attente en gare de Caen pour permettre une correspondance']
+2019-11-13,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-13,intercites,Paris-Briançon,
