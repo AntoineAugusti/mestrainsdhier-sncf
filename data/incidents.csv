@@ -1304,3 +1304,48 @@ date,famille_transport,ligne,incidents
 2019-11-13,intercites,Caen-Le Mans-Tours,['Attente en gare de Caen pour permettre une correspondance']
 2019-11-13,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-13,intercites,Paris-Briançon,
+2019-11-14,transilien,A,"['Incidents divers en zone RATP dans Paris', ""Répercussions d'une intervention de la police à Bécon-Les-Bruyères suite à une agression de client sur la ligne L""]"
+2019-11-14,transilien,B,"[""Prise en charge d'un train par un système de sécurité à Gare du Nord""]"
+2019-11-14,transilien,C,['Travaux de maintenance des voies réalisés de nuit terminés en retard à Paris-Austerlitz et Dourdan']
+2019-11-14,transilien,D,['Accident de personne à Garges-Sarcelles']
+2019-11-14,transilien,E,"['Travaux de maintenance des voies de nuit terminés en retard à Nogent-le-Perreux', 'Répercussions de travaux de maintenance de voies terminés en retard sur la LGV Est', 'Panne de signalisation à Emerainville', 'Déformation de la voie à Rosny-Bois-Perrier']"
+2019-11-14,transilien,H,
+2019-11-14,transilien,J,
+2019-11-14,transilien,K,['Vitesses limitées en raison de conditions météo défavorables (rails glissants) vers Compans']
+2019-11-14,transilien,L,
+2019-11-14,transilien,N,['Conséquences du retard important des travaux de nuit à Paris-Austerlitz sur le RER C']
+2019-11-14,transilien,P,"['Travaux de nuit terminés en retard à Nogent-le-Perreux', 'Conséquences de retards de travaux sur la LGV Est', 'Panne de signalisation à Emerainville', 'Déformation des voies à Rosny-Bois-Perrier']"
+2019-11-14,transilien,R,
+2019-11-14,transilien,U,
+2019-11-14,transilien,T4,
+2019-11-14,transilien,T11,"[""Panne d'une rame""]"
+2019-11-14,ter,Grand Est,
+2019-11-14,ter,Nouvelle-Aquitaine,"['Inondations vers Tyrosse ( 12 TER impactés)', 'Panne de train à La Rochelle-Ville (5 TER impactés)']"
+2019-11-14,ter,Auvergne-Rhône-Alpes,"[""Conséquences des fortes chutes de neige sur l'ensemble de la région""]"
+2019-11-14,ter,Bourgogne-Franche-Comté,"['Panne de train à Chamvans-les-Dole (11 TER impactés)', 'Panne de signalisation à Neuvy-sur-Loire (7 TER impactés)']"
+2019-11-14,ter,Bretagne,
+2019-11-14,ter,Centre-Val de Loire,
+2019-11-14,ter,Occitanie,
+2019-11-14,ter,Hauts-de-France,"['Accident de personne à Garges-les-Gonesse (43 TER impactés)', 'Rail fissuré à Etaples-le-Touquet (14 TER impactés)', 'Panne de train à Ribécourt (13 TER impactés)']"
+2019-11-14,ter,Normandie,"[""Chute d'une branche sur la caténaire à Bréauté (18 TER impactés)"", 'Avarie sur un passage à niveau à Serquigny (8 TER impactés)']"
+2019-11-14,ter,Pays de la Loire,
+2019-11-14,ter,Provence-Alpes-Côte d'Azur,['Conséquences des fortes pluies sur la région']
+2019-11-14,tgv,nord,['Accident de personne à Garges (11 TGV retardés)']
+2019-11-14,tgv,est,['Travaux de maintenance des voies terminés en retard sur la ligne à grande vitesse est-européenne (20 TGV retardés)']
+2019-11-14,tgv,atlantique,
+2019-11-14,tgv,sudest,['Réduction des vitesses maximales dans la traversées de zones enneigées pour éviter les projections de blocs de glace sur les trains (10 TGV retardés)']
+2019-11-14,tgv,ouigo,"['Travaux de maintenance des voies terminés en retard sur la ligne à grande vitesse est-européenne (7 OUIGO retardés)', 'Conséquences fortes chutes de neige sur la région de Valence (2 OUIGO retardés)']"
+2019-11-14,tgv,europe,['Travaux de maintenance des voies terminés en retard sur la ligne à grande vitesse est-européenne (20 TGV retardés)']
+2019-11-14,intercites,Paris-Limoges-Toulouse,"['Intervention de la police dans un train à Vierzon', ""Manifestants en gare d'Argenton-sur-Creuse"", 'Vitesses limitées en raison de conditions météo défavorables (rails glissants) vers Compans', 'Vitesses limitées en raison de conditions météo défavorables (rails glissants) entre Argenton-sur-Creuse et La Souterraine']"
+2019-11-14,intercites,Paris-Clermont,"['Avarie sur un passage à niveau', 'Pannes de signalisation entre Cosne et Gien et entre St Germain des Fossés et la Ferté']"
+2019-11-14,intercites,Bordeaux-Marseille,"['Passage à niveau forcé et endommagé par un automobiliste vers Marmande', ""Avarie d'un passage à niveau entre Dieupentale et Montbartier""]"
+2019-11-14,intercites,Nantes-Bordeaux,['Limitation de vitesse entre Roanne et St Germain des Fossés suite aux intempéries']
+2019-11-14,intercites,Nantes-Lyon,
+2019-11-14,intercites,Toulouse-Bayonne,"[""Avarie d'un train de travaux en gare de Tarbes"", 'Conséquences de fortes pluies entre Bayonne et Labenne']"
+2019-11-14,intercites,Clermont-Béziers,
+2019-11-14,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Vitesses limitées entre Le Molay et Lison suite aux travaux de confortement des voies après les dégradations causées par les fortes pluies']
+2019-11-14,intercites,Paris-Rouen-Le Havre,['Heurt d’un arbre par un train de marchandises vers Bréauté (12 IC impactés)']
+2019-11-14,intercites,Paris-Granville,
+2019-11-14,intercites,Caen-Le Mans-Tours,['Attente à Caen pour permettre une correspondance avec un train venant de Cherbourg']
+2019-11-14,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Mise à quai tardive de la locomotive au départ de Brive (6 mn de retard)']
+2019-11-14,intercites,Paris-Briançon,
