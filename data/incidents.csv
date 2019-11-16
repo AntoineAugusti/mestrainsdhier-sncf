@@ -1349,3 +1349,48 @@ date,famille_transport,ligne,incidents
 2019-11-14,intercites,Caen-Le Mans-Tours,['Attente à Caen pour permettre une correspondance avec un train venant de Cherbourg']
 2019-11-14,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Mise à quai tardive de la locomotive au départ de Brive (6 mn de retard)']
 2019-11-14,intercites,Paris-Briançon,
+2019-11-15,transilien,A,"[""Signal d'alarme à Chatelet (zone RATP)"", 'Panne de signalisation à Achère', ""Panne d'une rame à Achères-Ville""]"
+2019-11-15,transilien,B,"['Conditions météo défavorables au sud de la ligne', 'Retard des trains au départ de Mitry-Claye', ""Panne d'une rame à Gare-du-Nord""]"
+2019-11-15,transilien,C,"[""Chute d'un arbre sur les caténaires à Montigny-Beauchamp"", 'Dérangement de signalisation à Chamarande', 'Conditions météo défavorables avec de fortes pluies', ""Intrusion d'un individu sur les voies aux Grésillons""]"
+2019-11-15,transilien,D,"['Conséquences des retards du RER B en intra-muros', 'Conséquences du suicide de la veille à Garges']"
+2019-11-15,transilien,E,"['Travaux de maintenance des voies de nuit terminés en retard à Nogent-le-Perreux', 'Dérangement de la signalisation entre Rosa-Parks et Magenta']"
+2019-11-15,transilien,H,"[""Chute d'un arbre sur les caténaires à Montigny-Beauchamp"", 'Inondation du souterrain piétons de Sarcelles-St-Brice']"
+2019-11-15,transilien,J,"['Mises en place tardives des rames des trains Intercités au départ de Paris-St-Lazare', 'Dérangement de signalisation à Paris-Batignolles', ""Signal d'alarme malveillant à Argenteuil"", 'Avaries sur des rames à Poissy et Gisors']"
+2019-11-15,transilien,K,
+2019-11-15,transilien,L,
+2019-11-15,transilien,N,['Conséquences des retards des trains TER entre Le Mans et Rambouillet en raison des conditions météo défavorables']
+2019-11-15,transilien,P,
+2019-11-15,transilien,R,"['Mises en place tardives des rames au départ de Gare-de-Lyon', ""Avarie sur une porte d'une rame à Montereau""]"
+2019-11-15,transilien,U,
+2019-11-15,transilien,T4,
+2019-11-15,transilien,T11,['Panne du système radio sur la ligne']
+2019-11-15,ter,Grand Est,
+2019-11-15,ter,Nouvelle-Aquitaine,['panne de signalisation à St Vincent de Tyrosse (14 trains impactés)']
+2019-11-15,ter,Auvergne-Rhône-Alpes,['conséquences des dégâts causés par les fortes chutes de neige']
+2019-11-15,ter,Bourgogne-Franche-Comté,['panne de signalisation à Montchanin (7 trains impactés)']
+2019-11-15,ter,Bretagne,['panne de train à Messac (15 trains impactés)']
+2019-11-15,ter,Centre-Val de Loire,['travaux sur les voies à Mer (7 trains impactés)']
+2019-11-15,ter,Occitanie,['travaux dans les voies à Vestric (8 trains impactés)']
+2019-11-15,ter,Hauts-de-France,['Avarie sur un train à Lille Flandres (36 trains impactés)']
+2019-11-15,ter,Normandie,['avarie sur un train à Montvilliers (7 trains impactés)']
+2019-11-15,ter,Pays de la Loire,
+2019-11-15,ter,Provence-Alpes-Côte d'Azur,['travaux dans les voies à Bandol (28 trains impactés)']
+2019-11-15,tgv,nord,['conséquences des intempéries dans le Sud-Est (12 trains impactés)']
+2019-11-15,tgv,est,
+2019-11-15,tgv,atlantique,"['limitation de vitesse liée aux travaux à Angers (9 trains impactés)', ""heurt d'animal à Louvigné de Bais (9 trains impactés)""]"
+2019-11-15,tgv,sudest,"[""défaut d'alimentation électrique lié aux intempéries en région Rhône Alpes (67 trains impactés)"", 'conséquences intempéries à Grenoble (13 trains impactés)', 'conséquences intempéries à Lyon-Perrache (12 trains impactés)', 'limitation de vitesse liée aux travaux à Valenton (7 trains impactés)']"
+2019-11-15,tgv,ouigo,"[""panne d'un train à Paris-Montparnasse (2 trains impactés)""]"
+2019-11-15,tgv,europe,['conséquences intempéries en Rhône-Alpes (9 trains impactés) et dans le Sud-Est (6 trains impactés)']
+2019-11-15,intercites,Paris-Limoges-Toulouse,"[""Absence d'un conducteur au départ de Brive (en raison d’un accident routier)"", 'Panne de locomotive à Paris', ""Manifestations d'usagers en gare d'Argenton-sur-Creuse""]"
+2019-11-15,intercites,Paris-Clermont,
+2019-11-15,intercites,Bordeaux-Marseille,
+2019-11-15,intercites,Nantes-Bordeaux,['Vitesses limitées entre Rochefort et La Roche sur Yon en raison de travaux de modernisation des voies']
+2019-11-15,intercites,Nantes-Lyon,
+2019-11-15,intercites,Toulouse-Bayonne,
+2019-11-15,intercites,Clermont-Béziers,
+2019-11-15,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Vitesses limitées entre Molay Littry et Lison suite aux travaux de confortement des voies après les dégradations causées par les fortes pluies', 'Pannes de trains à Paris St Lazare', 'Mises en place tardives de trains au départ à Paris en pointe de soirée']"
+2019-11-15,intercites,Paris-Rouen-Le Havre,"['Pannes de trains à Paris St Lazare', 'Mises en place tardives de trains au départ à Paris en pointe de soirée']"
+2019-11-15,intercites,Paris-Granville,['Difficultés dans la gestion des circulations en Ile-de-France']
+2019-11-15,intercites,Caen-Le Mans-Tours,['Vitesses limitées entre Neuville-sur-Sarthe et La Hutte-Coulombiers']
+2019-11-15,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-15,intercites,Paris-Briançon,['Pas de circulation possible en raison des dégâts causés par les fortes chutes de neige']
