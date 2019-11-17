@@ -1394,3 +1394,48 @@ date,famille_transport,ligne,incidents
 2019-11-15,intercites,Caen-Le Mans-Tours,['Vitesses limitées entre Neuville-sur-Sarthe et La Hutte-Coulombiers']
 2019-11-15,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-15,intercites,Paris-Briançon,['Pas de circulation possible en raison des dégâts causés par les fortes chutes de neige']
+2019-11-16,transilien,A,
+2019-11-16,transilien,B,"[""Intrusion d'un individu dans le tunnel à Aéroport-CDG 1"", 'Procédure colis suspect à Aéroport-CDG 2']"
+2019-11-16,transilien,C,
+2019-11-16,transilien,D,
+2019-11-16,transilien,E,
+2019-11-16,transilien,H,
+2019-11-16,transilien,J,
+2019-11-16,transilien,K,['Dérangement de signalisation à La Plaine']
+2019-11-16,transilien,L,
+2019-11-16,transilien,N,
+2019-11-16,transilien,P,
+2019-11-16,transilien,R,
+2019-11-16,transilien,U,
+2019-11-16,transilien,T4,
+2019-11-16,transilien,T11,"[""Difficultés d'exploitation""]"
+2019-11-16,ter,Grand Est,
+2019-11-16,ter,Nouvelle-Aquitaine,
+2019-11-16,ter,Auvergne-Rhône-Alpes,
+2019-11-16,ter,Bourgogne-Franche-Comté,
+2019-11-16,ter,Bretagne,
+2019-11-16,ter,Centre-Val de Loire,
+2019-11-16,ter,Occitanie,
+2019-11-16,ter,Hauts-de-France,
+2019-11-16,ter,Normandie,"[""heurt d'un troupeau de vaches à Bréauté Beuzeville (10 trains impactés)""]"
+2019-11-16,ter,Pays de la Loire,
+2019-11-16,ter,Provence-Alpes-Côte d'Azur,
+2019-11-16,tgv,nord,
+2019-11-16,tgv,est,
+2019-11-16,tgv,atlantique,
+2019-11-16,tgv,sudest,['conséquences des intempéries en région Auvergne Rhône Alpes (24 trains impactés)']
+2019-11-16,tgv,ouigo,
+2019-11-16,tgv,europe,"[""heurt d'un sanglier à Vergigny (20 trains impactés)""]"
+2019-11-16,intercites,Paris-Limoges-Toulouse,"[""Manifestation en gare d'Argenton-sur-Creuse"", 'Vitesse limitée vers Uzerche en raison des conditions météo (rails glissants)', 'Panne de locomotive à Limoges']"
+2019-11-16,intercites,Paris-Clermont,
+2019-11-16,intercites,Bordeaux-Marseille,"['A Cadaujac, passage à niveau sous surveillance consécutivement à un signalement de dysfonctionnement par un riverain la veille']"
+2019-11-16,intercites,Nantes-Bordeaux,['Acte de malveillance sur un passage à niveau entre Marans et La Rochelle']
+2019-11-16,intercites,Nantes-Lyon,
+2019-11-16,intercites,Toulouse-Bayonne,
+2019-11-16,intercites,Clermont-Béziers,"[""Panne d'un système de sécurité (détecteur de filets anti-chute de pierres) entre Issoire et Vic le Comte""]"
+2019-11-16,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Pannes de trains à Paris']
+2019-11-16,intercites,Paris-Rouen-Le Havre,
+2019-11-16,intercites,Paris-Granville,
+2019-11-16,intercites,Caen-Le Mans-Tours,
+2019-11-16,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Panne d'un train TER à Ax-les-Thermes""]"
+2019-11-16,intercites,Paris-Briançon,['Pas de circulation possible en raison des dégâts causés par les fortes chutes de neige jeudi dernier']
