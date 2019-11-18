@@ -1439,3 +1439,48 @@ date,famille_transport,ligne,incidents
 2019-11-16,intercites,Caen-Le Mans-Tours,
 2019-11-16,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Panne d'un train TER à Ax-les-Thermes""]"
 2019-11-16,intercites,Paris-Briançon,['Pas de circulation possible en raison des dégâts causés par les fortes chutes de neige jeudi dernier']
+2019-11-17,transilien,A,
+2019-11-17,transilien,B,
+2019-11-17,transilien,C,
+2019-11-17,transilien,D,
+2019-11-17,transilien,E,
+2019-11-17,transilien,H,
+2019-11-17,transilien,J,
+2019-11-17,transilien,K,
+2019-11-17,transilien,L,
+2019-11-17,transilien,N,
+2019-11-17,transilien,P,['Acte de malveillance (jets de pierres sur les trains) à La Villette']
+2019-11-17,transilien,R,['Personne suicidaire entre Moret et Montargis']
+2019-11-17,transilien,U,
+2019-11-17,transilien,T4,
+2019-11-17,transilien,T11,"[""Difficultés d'exploitation""]"
+2019-11-17,ter,Grand Est,
+2019-11-17,ter,Nouvelle-Aquitaine,"[""Heurt d'un véhicule à un passage à niveau à Saintes (6 trains impactés)"", 'Panne de train à Royan (4 trains impactés)']"
+2019-11-17,ter,Auvergne-Rhône-Alpes,['Suite des conséquences des fortes chutes de neige']
+2019-11-17,ter,Bourgogne-Franche-Comté,
+2019-11-17,ter,Bretagne,
+2019-11-17,ter,Centre-Val de Loire,
+2019-11-17,ter,Occitanie,
+2019-11-17,ter,Hauts-de-France,
+2019-11-17,ter,Normandie,
+2019-11-17,ter,Pays de la Loire,
+2019-11-17,ter,Provence-Alpes-Côte d'Azur,
+2019-11-17,tgv,nord,
+2019-11-17,tgv,est,['acte de malveillance (jets de pierres sur les trains) à La Villette (9 trains impactés)']
+2019-11-17,tgv,atlantique,
+2019-11-17,tgv,sudest,"[""dérangement d'installation à Miribel (18 trains impactés)"", 'conséquences des intempéries à Allan (6 trains impactés)']"
+2019-11-17,tgv,ouigo,
+2019-11-17,tgv,europe,
+2019-11-17,intercites,Paris-Limoges-Toulouse,
+2019-11-17,intercites,Paris-Clermont,"[""Présence d'une personne suicidaire sur les voies entre Moret et Montargis""]"
+2019-11-17,intercites,Bordeaux-Marseille,['Bâche mal fixées sur un train de marchandises entre Montauban et Agen']
+2019-11-17,intercites,Nantes-Bordeaux,['Vitesses limitées à différents endroits de la ligne suite aux travaux de modernisation des voies']
+2019-11-17,intercites,Nantes-Lyon,
+2019-11-17,intercites,Toulouse-Bayonne,
+2019-11-17,intercites,Clermont-Béziers,['Difficultés de gestion des circulations sur la voie unique']
+2019-11-17,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Vitesses ralenties suite aux travaux entre Molay-Littry et Lison suite aux intempéries du 13 novembre', 'Heurt de chevreuil à Lisieux']"
+2019-11-17,intercites,Paris-Rouen-Le Havre,
+2019-11-17,intercites,Paris-Granville,
+2019-11-17,intercites,Caen-Le Mans-Tours,"[""Ouverture des portes d'un train par un voyageur après le départ en gare de Mézidon""]"
+2019-11-17,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-17,intercites,Paris-Briançon,
