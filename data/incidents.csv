@@ -1529,3 +1529,48 @@ date,famille_transport,ligne,incidents
 2019-11-18,intercites,Caen-Le Mans-Tours,"[""Prise en charge d'une personne en situation de handicap en gare du Mans""]"
 2019-11-18,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-18,intercites,Paris-Briançon,
+2019-11-18,transilien,A,"['Incident de signalisation sur une rame entre Nation et Gare de Lyon (zone RATP)', 'Individu suicidaire sur les quais de La Défense (zone RATP)', ""Heurt d'un sanglier à Achères-Grand-Cormier""]"
+2019-11-18,transilien,B,"['Intervention de police à Chatelet (zone RATP)', ""Signal d'alarme à Port-Royal (zone RATP)"", ""Signal d'alarme à Gare du Nord pour un bagage suspect dans une rame""]"
+2019-11-18,transilien,C,"[""Signal d'alarme à Juvisy"", 'Individu dans les voies entre Ivry-sur-Seine et Vitry-sur-Seine', 'Bagage suspect dans une rame à Brétigny', 'Mouvement social local à Versailles']"
+2019-11-18,transilien,D,"['Bagage suspect sur le quai à Gare du Nord', 'Avarie sur une rame à Gare du Nord']"
+2019-11-18,transilien,E,
+2019-11-18,transilien,H,
+2019-11-18,transilien,J,"['Panne du suivi des trains entre Conflans-Ste-Honorine et Mantes-la-Jolie', 'Rames immobilisées en maintenance']"
+2019-11-18,transilien,K,
+2019-11-18,transilien,L,
+2019-11-18,transilien,N,
+2019-11-18,transilien,P,"['Jets de pierres sur les trains vers La Villette', 'Gênes des circulation par un train de marchandises puis par un train TER en retard', 'Vitesses limitées entre Trilport et La Ferté-Milon en raison des conditions climatiques (rails glissants)']"
+2019-11-18,transilien,R,"[""Panne d'une rame entre Fontainebleau et Thomery""]"
+2019-11-18,transilien,U,
+2019-11-18,transilien,T4,['Heurt avec un véhicule routier à Rougemont-Chanteloup']
+2019-11-18,transilien,T11,"[""Difficultés d'exploitation""]"
+2019-11-18,ter,Grand Est,
+2019-11-18,ter,Nouvelle-Aquitaine,"['Givre sur la caténaire dans le secteur de Ruffec (11 trains impactés)', 'Vitesses ralenties entre Saintes et Pisany (9 trains impactés)']"
+2019-11-18,ter,Auvergne-Rhône-Alpes,
+2019-11-18,ter,Bourgogne-Franche-Comté,"['Ruptures de plusieurs filets de détections d’obstacles près de Clerval (arbres ployés par le poids d’une neige lourde) (28 trains retardés)', 'Panne de train à Fontainebleau-Avon (8 trains impactés)']"
+2019-11-18,ter,Bretagne,
+2019-11-18,ter,Centre-Val de Loire,
+2019-11-18,ter,Occitanie,
+2019-11-18,ter,Hauts-de-France,"['Heurt d’un véhicule routier sur un passage à niveau entre Valenciennes et Aulnoye-Aimeries (26 trains retardés)', 'Panne de signalisation à Paris Nord (13 trains impactés)', ""Panne d'aiguillage à Paris Nord (9 trains impactés)"", 'Avarie sur un train au départ de St-Quentin (8 trains retardés)']"
+2019-11-18,ter,Normandie,"['Incident caténaire à Barentin (8 trains impactés)', ""Vitesses ralenties entre Lison et Le Molay suite à l'éboulement d'un talus (5 trains impactés)""]"
+2019-11-18,ter,Pays de la Loire,
+2019-11-18,ter,Provence-Alpes-Côte d'Azur,
+2019-11-18,tgv,nord,
+2019-11-18,tgv,est,['Jets de pierres sur les trains près de la Villete (8 trains retardés)']
+2019-11-18,tgv,atlantique,['Vitesses limitées vers Angers suite à des travaux sur les voies (7 trains retardés)']
+2019-11-18,tgv,sudest,
+2019-11-18,tgv,ouigo,
+2019-11-18,tgv,europe,
+2019-11-18,intercites,Paris-Limoges-Toulouse,"[""Présence d 'une personne dans les voies à Vitry sur Seine"", 'Vitesses ralenties suite aux conditions météo rendant le rail glissant sur le Limousin']"
+2019-11-18,intercites,Paris-Clermont,"[""Répercussions de la panne d'un train Transilien à Fontainebleau""]"
+2019-11-18,intercites,Bordeaux-Marseille,
+2019-11-18,intercites,Nantes-Bordeaux,
+2019-11-18,intercites,Nantes-Lyon,
+2019-11-18,intercites,Toulouse-Bayonne,['Panne de signalisation entre Ossun et Lourdes']
+2019-11-18,intercites,Clermont-Béziers,['Vitesses ralenties suite à un rail endommagé entre Neussargues et Marvejols']
+2019-11-18,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"[""Vitesses ralenties entre Lison et Le Molay suite à l'éboulement d'un talus"", ""Heurt de biches à Pont l'Evêque""]"
+2019-11-18,intercites,Paris-Rouen-Le Havre,['Incident caténaire à Foucart']
+2019-11-18,intercites,Paris-Granville,
+2019-11-18,intercites,Caen-Le Mans-Tours,"[""Prise en charge d'une personne en situation de handicap en gare du Mans""]"
+2019-11-18,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-18,intercites,Paris-Briançon,
