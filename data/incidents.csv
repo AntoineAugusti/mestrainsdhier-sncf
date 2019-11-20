@@ -1574,3 +1574,48 @@ date,famille_transport,ligne,incidents
 2019-11-18,intercites,Caen-Le Mans-Tours,"[""Prise en charge d'une personne en situation de handicap en gare du Mans""]"
 2019-11-18,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-18,intercites,Paris-Briançon,
+2019-11-19,transilien,A,"['divers incidents en zone RATP', ""panne d'installations techniques sur les voies à Cergy""]"
+2019-11-19,transilien,B,"['divers incidents en zone RATP', 'rames en maintenance']"
+2019-11-19,transilien,C,"['travaux sur les voies terminés en retard', 'panne de signalisation', 'rames en maintenance']"
+2019-11-19,transilien,D,"['travaux sur les voies terminés en retard', 'rames en maintenance']"
+2019-11-19,transilien,E,"['travaux sur les voies terminés en retard', ""coupure d'alimentation électrique à Noisy-le-Sec suite à incident sur un chantier sur voie de service""]"
+2019-11-19,transilien,H,
+2019-11-19,transilien,J,
+2019-11-19,transilien,K,
+2019-11-19,transilien,L,
+2019-11-19,transilien,N,"['erreur agent de conduite à Bellevue', ""interruption de la circulation à Paris Montparnasse suite au déclenchement d'une alerte radio au technicentre de Chatillon""]"
+2019-11-19,transilien,P,"['pannes de signalisation à Lagny et Grandpuits', 'travaux sur les voies terminés en retard', ""coupure d'alimentation électrique à Noisy-le-Sec suite à incident sur un chantier sur voie de service""]"
+2019-11-19,transilien,R,
+2019-11-19,transilien,U,
+2019-11-19,transilien,T4,
+2019-11-19,transilien,T11,
+2019-11-19,ter,Grand Est,
+2019-11-19,ter,Nouvelle-Aquitaine,"['vitesses limitées pour givre sur les caténaires (13 trains retardés)', ""panne d'un train de marchandises à Lamagistère (7 trains retardés)"", 'travaux de nuit terminés en retard à Beillant (6 trains retardés)']"
+2019-11-19,ter,Auvergne-Rhône-Alpes,
+2019-11-19,ter,Bourgogne-Franche-Comté,
+2019-11-19,ter,Bretagne,
+2019-11-19,ter,Centre-Val de Loire,
+2019-11-19,ter,Occitanie,
+2019-11-19,ter,Hauts-de-France,"[""panne d'un TER à Douai (19 trains retardés)"", 'ralentissement pour cause de travaux sur les voies à Amiens (11 trains retardés)', 'avarie sur un TER à Arras (6 trains retardés)']"
+2019-11-19,ter,Normandie,"[""panne d'un passage à niveau à Barentin (8 trains retardés)"", 'travaux de nuit sur les voies terminés en retard aux Mureaux (6 trains retardés)', 'avarie sur un train de marchandises à Motteville (5 trains retardés)']"
+2019-11-19,ter,Pays de la Loire,
+2019-11-19,ter,Provence-Alpes-Côte d'Azur,
+2019-11-19,tgv,nord,
+2019-11-19,tgv,est,
+2019-11-19,tgv,atlantique,
+2019-11-19,tgv,sudest,
+2019-11-19,tgv,ouigo,
+2019-11-19,tgv,europe,
+2019-11-19,intercites,Paris-Limoges-Toulouse,
+2019-11-19,intercites,Paris-Clermont,
+2019-11-19,intercites,Bordeaux-Marseille,
+2019-11-19,intercites,Nantes-Bordeaux,"['Travaux sur les voies terminés en retard entre Jonzac et Beillant', 'Pannes de signalisation à Jonzac et à Pons', 'Panne de train à Nantes']"
+2019-11-19,intercites,Nantes-Lyon,
+2019-11-19,intercites,Toulouse-Bayonne,
+2019-11-19,intercites,Clermont-Béziers,"[""Vitesses ralenties en raison d'un rail endommagé entre Neussargues et Marvejols""]"
+2019-11-19,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-11-19,intercites,Paris-Rouen-Le Havre,
+2019-11-19,intercites,Paris-Granville,
+2019-11-19,intercites,Caen-Le Mans-Tours,
+2019-11-19,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-19,intercites,Paris-Briançon,
