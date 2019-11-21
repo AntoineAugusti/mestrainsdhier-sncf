@@ -1619,3 +1619,48 @@ date,famille_transport,ligne,incidents
 2019-11-19,intercites,Caen-Le Mans-Tours,
 2019-11-19,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-19,intercites,Paris-Briançon,
+2019-11-20,transilien,A,['Divers incidents en zone RATP.']
+2019-11-20,transilien,B,"['Divers incidents en zone RATP.', 'Rames nécessitant de rester en maintenance.']"
+2019-11-20,transilien,C,"['Restitution tardive de travaux à Orly.', ""Panne d'un train à Pontoise.""]"
+2019-11-20,transilien,D,"[""Panne d'aiguillage à Villeneuve Saint-Georges.""]"
+2019-11-20,transilien,E,
+2019-11-20,transilien,H,"[""Panne d'un train à Pontoise."", 'Personne suicidaire à Creil.']"
+2019-11-20,transilien,J,
+2019-11-20,transilien,K,
+2019-11-20,transilien,L,
+2019-11-20,transilien,N,['Rames bloquées au technicentre suite à des retards de travaux.']
+2019-11-20,transilien,P,"[""Absence d'alimentation électrique pendant 15' en pointe de soirée sur le secteur de Pantin-Noisy.""]"
+2019-11-20,transilien,R,"[""Panne d'aiguillage à Villeneuve Saint-Georges"", 'Retard de trains Fret dans le secteur de Villeneuve.']"
+2019-11-20,transilien,U,
+2019-11-20,transilien,T4,"[""Panne d'un tram-train à l'Abbaye.""]"
+2019-11-20,transilien,T11,['Absence de conducteurs.']
+2019-11-20,ter,Grand Est,
+2019-11-20,ter,Nouvelle-Aquitaine,"[""Panne de portes d'un train à Mussidan (10 TER impactés)."", 'Panne de signalisation à Morcenx (5 TER impactés).']"
+2019-11-20,ter,Auvergne-Rhône-Alpes,
+2019-11-20,ter,Bourgogne-Franche-Comté,
+2019-11-20,ter,Bretagne,['Panne de signalisation à St-Eguenec (7 TER impactés).']
+2019-11-20,ter,Centre-Val de Loire,
+2019-11-20,ter,Occitanie,"['Tentative de vol de câbles sur un passage à niveau à Nîmes (15 TER impactés).', 'Ralentissements suite à des travaux sur les voies entre Montpellier et Vestric (11 TER impactés).', 'Intempéries : givre important entre Montréjeau et Toulouse, avec captage électrique dégradé (9 TER retardés).']"
+2019-11-20,ter,Hauts-de-France,"['Défaut d’alimentation caténaire sur Lille-Flandres  suite à un isolateur HS (45 TER retardés).', ""Présence d'un individu désespéré sur les voies entre Creil et Laigneville (45 TER impactés)."", 'Panne sur un passage à niveau à Liancourt-Rantigny (17 TER impactés).']"
+2019-11-20,ter,Normandie,
+2019-11-20,ter,Pays de la Loire,
+2019-11-20,ter,Provence-Alpes-Côte d'Azur,
+2019-11-20,tgv,nord,
+2019-11-20,tgv,est,['Incident caténaire à Noisy (8 TGV retardés).']
+2019-11-20,tgv,atlantique,
+2019-11-20,tgv,sudest,
+2019-11-20,tgv,ouigo,
+2019-11-20,tgv,europe,
+2019-11-20,intercites,Paris-Limoges-Toulouse,"[""Chute d'un arbre sur les voies entre Uzerche et Brive."", ""Acte de malveillance en gare d'Ambazac.""]"
+2019-11-20,intercites,Paris-Clermont,
+2019-11-20,intercites,Bordeaux-Marseille,
+2019-11-20,intercites,Nantes-Bordeaux,
+2019-11-20,intercites,Nantes-Lyon,
+2019-11-20,intercites,Toulouse-Bayonne,
+2019-11-20,intercites,Clermont-Béziers,
+2019-11-20,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"[""Panne d'aiguillage à Mantes-La-Jolie."", 'Mises à quai tardives à Paris-St-Lazare.']"
+2019-11-20,intercites,Paris-Rouen-Le Havre,
+2019-11-20,intercites,Paris-Granville,
+2019-11-20,intercites,Caen-Le Mans-Tours,
+2019-11-20,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Attente d'un conducteur à Brive.""]"
+2019-11-20,intercites,Paris-Briançon,
