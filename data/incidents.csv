@@ -1664,3 +1664,48 @@ date,famille_transport,ligne,incidents
 2019-11-20,intercites,Caen-Le Mans-Tours,
 2019-11-20,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Attente d'un conducteur à Brive.""]"
 2019-11-20,intercites,Paris-Briançon,
+2019-11-21,transilien,A,['Divers incidents en zone RATP.']
+2019-11-21,transilien,B,"['Divers incidents en zone RATP.', 'Malaise voyageur à Paris-Nord', 'Malaise voyageur entre Aubervilliers et Paris-Nord', 'Accident de personne au Parc des Expositions']"
+2019-11-21,transilien,C,"[""Descente d'une personne dans les voies à Versailles-Chantiers"", ""Panne d'un train de travaux à Juvisy""]"
+2019-11-21,transilien,D,"['Malaise voyageur à Paris-Nord', ""Signal d'alarme actionné sans motif à Paris-Nord""]"
+2019-11-21,transilien,E,"['Panne Matériel à Rosa Parks et Haussmann Saint-Lazare', 'Malaise voyageur à Ozoir la Ferrière']"
+2019-11-21,transilien,H,['Bagage oublié à Paris-Nord']
+2019-11-21,transilien,J,"['Dérangements de zone à Houille-Carrière et Aubergenville- Elisabethville', 'Malaise voyageur à Asnières sur Seine']"
+2019-11-21,transilien,K,
+2019-11-21,transilien,L,"['Bagage abandonné à Paris Saint-Lazare', 'Malaise voyageurs à Saint-Cloud']"
+2019-11-21,transilien,N,"[""Descente d'une personne dans les voies à Versailles-Chantiers""]"
+2019-11-21,transilien,P,"['Retard train TER', 'Dérangement de signalisation au Raincy']"
+2019-11-21,transilien,R,
+2019-11-21,transilien,U,
+2019-11-21,transilien,T4,['Pas de données reçues']
+2019-11-21,transilien,T11,['Absence de conducteurs.']
+2019-11-21,ter,Grand Est,
+2019-11-21,ter,Nouvelle-Aquitaine,"[""Panne électrique dans un poste d'aiguillage à Coutras en raison des intempéries (15 TER impactés).""]"
+2019-11-21,ter,Auvergne-Rhône-Alpes,"['Panne de signalisation à Charbonnières-les-Bains (21 TER impactés).', ""Panne informatique du poste d'aiguillage en gare d’Annemasse (19 TER impactés)"", 'Manifestation en gare de Lyon-Part-Dieu (19 TER impactés).']"
+2019-11-21,ter,Bourgogne-Franche-Comté,"['Heurt d’une harde de sangliers par un TGV dans le secteur de Chagny (13 TER impactés)', 'Travaux sur les voies à Arc-et-Senans (7 TER impactés)']"
+2019-11-21,ter,Bretagne,"['Disjonction  caténaire en gare de Rennes (7 TER impactés)', 'Panne de signalisation à Saint-Malo/Dol (6 TER impactés)']"
+2019-11-21,ter,Centre-Val de Loire,"['Choc anormal ressenti par un train au niveau de Ménars (20 TER impactés)', 'Conséquences intempéries secteur de Versailles-Chantiers (8 TER impactés)']"
+2019-11-21,ter,Occitanie,"['Heurt d’un véhicule routier par un train sur un passage à niveau à Saverdun (17 TER impactés)', 'Vol de câbles dans le secteur de Nîmes (13 TER impactés).', 'Ralentissement forfaitaire pour chantier  entre Montpellier et  Vestric (6 TER impactés)']"
+2019-11-21,ter,Hauts-de-France,"[""Conséquences d'un élément de voie cassé sur LGV entre Villiers-le-Bel-Gonesse et Val-Noël (21 TER impactés)"", 'Panne de signalisation à Ailly-sur-Noye (19 TER impactés).', 'Panne matériel sur un train à Lens (12 TER impactés)']"
+2019-11-21,ter,Normandie,['Panne de signalisation au niveau d’Aubergenville-Elisabethville (18 TER impactés) et à Houilles-Carrières (8 TER impactés).']
+2019-11-21,ter,Pays de la Loire,
+2019-11-21,ter,Provence-Alpes-Côte d'Azur,"['Restitution tardive des travaux  sur les voies entre Marseille-Blancarde et Toulon en raison de la panne d’un engin de chantier au niveau du quai de Saint-Cyr (59 TER impactés).', 'Panne sur un passage à niveau à Beaulieu-sur-Mer (19 TER impactés)']"
+2019-11-21,tgv,nord,['Incident affectant la voie à Villiers le Bel gonesse (33 trains)']
+2019-11-21,tgv,est,
+2019-11-21,tgv,atlantique,
+2019-11-21,tgv,sudest,
+2019-11-21,tgv,ouigo,['Incident affectant la voie à Villiers le Bel gonesse (5 trains)']
+2019-11-21,tgv,europe,
+2019-11-21,intercites,Paris-Limoges-Toulouse,"['Conflits de circulation entre entre Limoges et Vierzon', 'Intervention de la Police à Vierzon pour un voyageur sans billet', ""Heurt d'un extincteur posé sur la voie à la sortie de Cahors"", 'Conséquence de la panne Infrastructure à La Souterraine']"
+2019-11-21,intercites,Paris-Clermont,
+2019-11-21,intercites,Bordeaux-Marseille,
+2019-11-21,intercites,Nantes-Bordeaux,"['Déformation de la voie entre St Mariens et Jonzac', ""Panne d'un passage à niveau à Luçon""]"
+2019-11-21,intercites,Nantes-Lyon,
+2019-11-21,intercites,Toulouse-Bayonne,
+2019-11-21,intercites,Clermont-Béziers,
+2019-11-21,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Le matin, panne de signalisation à Houilles-Carrières', 'La soirée, panne de signalisation à Aubergenville-Élisabethville', 'Défaillance matérielle à Paris-St-Lazare']"
+2019-11-21,intercites,Paris-Rouen-Le Havre,"['Le matin, panne de signalisation à Houilles-Carrières', 'La soirée, panne de signalisation à Aubergenville-Élisabethville', 'Défaillance matérielle à Rouen']"
+2019-11-21,intercites,Paris-Granville,
+2019-11-21,intercites,Caen-Le Mans-Tours,
+2019-11-21,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-21,intercites,Paris-Briançon,['Conflits de circulation avec des trains de marchandises au sud de Lyon']
