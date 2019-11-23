@@ -1709,3 +1709,48 @@ date,famille_transport,ligne,incidents
 2019-11-21,intercites,Caen-Le Mans-Tours,
 2019-11-21,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-21,intercites,Paris-Briançon,['Conflits de circulation avec des trains de marchandises au sud de Lyon']
+2019-11-22,transilien,A,
+2019-11-22,transilien,B,['Malaise voyageur à Cité Universitaire']
+2019-11-22,transilien,C,['Malaise voyageur Avenue Henri-Martin']
+2019-11-22,transilien,D,"['Personne dans la voie à Maisons-Alfort Alfortville', 'Malaise sur secteur RER B']"
+2019-11-22,transilien,E,
+2019-11-22,transilien,H,
+2019-11-22,transilien,J,
+2019-11-22,transilien,K,
+2019-11-22,transilien,L,
+2019-11-22,transilien,N,
+2019-11-22,transilien,P,
+2019-11-22,transilien,R,['Personne dans la voie à Maisons-Alfort Alfortville']
+2019-11-22,transilien,U,
+2019-11-22,transilien,T4,['Données non reçues']
+2019-11-22,transilien,T11,['Données non reçues']
+2019-11-22,ter,Grand Est,
+2019-11-22,ter,Nouvelle-Aquitaine,"['Panne matériel sur un train à La Rochelle (8 trains impactes)', 'Panne de signalisation à Ste Eulalie (6 trains impactes)']"
+2019-11-22,ter,Auvergne-Rhône-Alpes,"['Panne de signalisation à Lyon Perrache (57 trains impactes)', 'Panne sur un passage à niveau à Moirans (20 trains impactes)']"
+2019-11-22,ter,Bourgogne-Franche-Comté,
+2019-11-22,ter,Bretagne,"['Panne matériel sur un train à Plechatel (17 trains impactes)', 'Adhérence dégradée à Dole de Bretagne (7 trains impactes)']"
+2019-11-22,ter,Centre-Val de Loire,['Attente personnel en gare de Tours (6 trains impactes)']
+2019-11-22,ter,Occitanie,"['Panne sur un passage à niveau à Ales (10 trains impactes)', 'Travaux sur les voies à Montpellier (8 trains impactes)']"
+2019-11-22,ter,Hauts-de-France,"['Panne de signalisation à Chaulnes (10 trains impactes)', 'Panne matériel sur un train à Lille (8 trains impactes)']"
+2019-11-22,ter,Normandie,['Adhérence dégradée au Molay Littry (8 trains impactes)']
+2019-11-22,ter,Pays de la Loire,
+2019-11-22,ter,Provence-Alpes-Côte d'Azur,"['Travaux sur les voies à Bandol (38 trains impactes)', 'Obstacle sur la voie à Villeneuve Loubet (22 trains impactes)']"
+2019-11-22,tgv,nord,"[""Heurt d'un TGV à Resson (LGV Nord) 10 TGV retardés"", 'Bagage oublié à Gare du Nord (4 TGV retardé)']"
+2019-11-22,tgv,est,
+2019-11-22,tgv,atlantique,"[""Heurt d'un sanglier à Resson (LGV Nord) 4 TGV retardés"", ""Heurt d'un sanglier à Ancenis (3 TGV retardés)"", ""Intervention des forces de l'ordre au Mans (2 TGV retardés)""]"
+2019-11-22,tgv,sudest,
+2019-11-22,tgv,ouigo,
+2019-11-22,tgv,europe,
+2019-11-22,intercites,Paris-Limoges-Toulouse,"['Prise en charge voyageurs à Argenton Sur Creuse', 'Vitesses limitées en raison de conditions météo rendant le rail glissant entre Limoges et Cahors', 'Panne matérielle entre Argenton Sur Creuse et Eguzon']"
+2019-11-22,intercites,Paris-Clermont,"['Personnes dans les voies à Maison- Alfort Alfortville', 'Colis suspect à Cosne Sur Loire', ""Chute d'un arbre sur les voies entre Vichy et Randan""]"
+2019-11-22,intercites,Bordeaux-Marseille,
+2019-11-22,intercites,Nantes-Bordeaux,
+2019-11-22,intercites,Nantes-Lyon,['Pannes matérielles à Lyon']
+2019-11-22,intercites,Toulouse-Bayonne,
+2019-11-22,intercites,Clermont-Béziers,
+2019-11-22,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Bagage abandonné à Paris St Lazare', 'Panne de signalisation à Mantes', ""Heurt d'un sanglier entre Mantes et Bueil"", 'Mises à quai tardives à Paris St Lazare', 'Pannes matérielles à Paris St Lazare et Cherbourg']"
+2019-11-22,intercites,Paris-Rouen-Le Havre,"['Bagage abandonné à Paris St Lazare', 'Panne de signalisation à Mantes', ""Heurt d'un sanglier entre Mantes et Bueil"", 'Mises à quai tardives à Paris St Lazare', 'Pannes matérielles à Paris St Lazare et Rouen']"
+2019-11-22,intercites,Paris-Granville,
+2019-11-22,intercites,Caen-Le Mans-Tours,"[""Heurt d'un chevreuil à Château Du Loir""]"
+2019-11-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-22,intercites,Paris-Briançon,"[""Présence d'une personne suicidaire dans les voies entre Saint Florentin et Laroche Migennes"", 'Réparation de la sous-station électrique de Montluel provoquant des conflits de circulation avec les trains de marchandises,']"
