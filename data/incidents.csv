@@ -1754,3 +1754,48 @@ date,famille_transport,ligne,incidents
 2019-11-22,intercites,Caen-Le Mans-Tours,"[""Heurt d'un chevreuil à Château Du Loir""]"
 2019-11-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-22,intercites,Paris-Briançon,"[""Présence d'une personne suicidaire dans les voies entre Saint Florentin et Laroche Migennes"", 'Réparation de la sous-station électrique de Montluel provoquant des conflits de circulation avec les trains de marchandises,']"
+2019-11-23,transilien,A,
+2019-11-23,transilien,B,['Retard réseau RATP']
+2019-11-23,transilien,C,
+2019-11-23,transilien,D,
+2019-11-23,transilien,E,
+2019-11-23,transilien,H,
+2019-11-23,transilien,J,
+2019-11-23,transilien,K,
+2019-11-23,transilien,L,
+2019-11-23,transilien,N,
+2019-11-23,transilien,P,
+2019-11-23,transilien,R,
+2019-11-23,transilien,U,
+2019-11-23,transilien,T4,
+2019-11-23,transilien,T11,"[""Absence  Conducteurs en début d'après-midi""]"
+2019-11-23,ter,Grand Est,
+2019-11-23,ter,Nouvelle-Aquitaine,['Incident caténaire à Hendaye (6 trains impactes)']
+2019-11-23,ter,Auvergne-Rhône-Alpes,['Découverte  de bagages abandonnés à Grenoble et à Amberieu (29 trains impactes)']
+2019-11-23,ter,Bourgogne-Franche-Comté,['Accident de personne à Nuits St Georges (11 trains impactes)']
+2019-11-23,ter,Bretagne,
+2019-11-23,ter,Centre-Val de Loire,
+2019-11-23,ter,Occitanie,['Arrachement caténaire à Narbonne (10 trains impactes)']
+2019-11-23,ter,Hauts-de-France,
+2019-11-23,ter,Normandie,['Événement sportif entraînant des traversées de voies intempestives entre Bueil et Evreux (10 trains impactes)']
+2019-11-23,ter,Pays de la Loire,
+2019-11-23,ter,Provence-Alpes-Côte d'Azur,['Intempéries (fortes chutes de pluie) sur de nombreuses zones de la region (43 trains impactes).']
+2019-11-23,tgv,nord,
+2019-11-23,tgv,est,
+2019-11-23,tgv,atlantique,
+2019-11-23,tgv,sudest,
+2019-11-23,tgv,ouigo,
+2019-11-23,tgv,europe,
+2019-11-23,intercites,Paris-Limoges-Toulouse,
+2019-11-23,intercites,Paris-Clermont,
+2019-11-23,intercites,Bordeaux-Marseille,
+2019-11-23,intercites,Nantes-Bordeaux,
+2019-11-23,intercites,Nantes-Lyon,
+2019-11-23,intercites,Toulouse-Bayonne,"['Vitesses limitées en raison de conditions météo rendant le rail glissant entre Boussens et Carbonne', 'Intervention de la gendarmerie pour un voyageur récalcitrant à Montréjeau', 'Panne de signalisation entre Bayonne et Puyoô']"
+2019-11-23,intercites,Clermont-Béziers,['Mise à quai tardive à Clermont-Ferrand']
+2019-11-23,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Personnes traversant les voies suite à un rallye automobile entre Mantes et Évreux']
+2019-11-23,intercites,Paris-Rouen-Le Havre,
+2019-11-23,intercites,Paris-Granville,
+2019-11-23,intercites,Caen-Le Mans-Tours,
+2019-11-23,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Attente locomotive à Latour de Carol', 'panne de signalisation à Port La Nouvelle suite aux intempéries']"
+2019-11-23,intercites,Paris-Briançon,
