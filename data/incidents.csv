@@ -1799,3 +1799,48 @@ date,famille_transport,ligne,incidents
 2019-11-23,intercites,Caen-Le Mans-Tours,
 2019-11-23,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Attente locomotive à Latour de Carol', 'panne de signalisation à Port La Nouvelle suite aux intempéries']"
 2019-11-23,intercites,Paris-Briançon,
+2019-11-24,transilien,A,"[""Problème d'exploitation sur le réseau RATP""]"
+2019-11-24,transilien,B,
+2019-11-24,transilien,C,
+2019-11-24,transilien,D,"['Colis suspect à Garges-Sarcelles', 'Dérangement de la signalisation à Viry-Châtillon', ""Arrêt d'un train TER à Boussy Saint-Antoine suite à signalement d'un risque d'avarie""]"
+2019-11-24,transilien,E,
+2019-11-24,transilien,H,
+2019-11-24,transilien,J,
+2019-11-24,transilien,K,
+2019-11-24,transilien,L,
+2019-11-24,transilien,N,
+2019-11-24,transilien,P,
+2019-11-24,transilien,R,"[""Arrêt d'un train TER à Boussy Saint-Antoine suite à signalement d'un risque d'avarie\n\nIncident caténaire au sud de Montargis"", 'Incident caténaire au sud de Montargis']"
+2019-11-24,transilien,U,
+2019-11-24,transilien,T4,['Absence de données']
+2019-11-24,transilien,T11,['Colis suspect en station du Bourget']
+2019-11-24,ter,Grand Est,
+2019-11-24,ter,Nouvelle-Aquitaine,
+2019-11-24,ter,Auvergne-Rhône-Alpes,
+2019-11-24,ter,Bourgogne-Franche-Comté,
+2019-11-24,ter,Bretagne,
+2019-11-24,ter,Centre-Val de Loire,
+2019-11-24,ter,Occitanie,
+2019-11-24,ter,Hauts-de-France,
+2019-11-24,ter,Normandie,"['Panne matériel sur un train à Coutances (5 trains impactés)', 'Panne de signalisation à Rouen (4 trains impactés)']"
+2019-11-24,ter,Pays de la Loire,
+2019-11-24,ter,Provence-Alpes-Côte d'Azur,['Conséquences intempéries (54 trains impactés)']
+2019-11-24,tgv,nord,
+2019-11-24,tgv,est,
+2019-11-24,tgv,atlantique,
+2019-11-24,tgv,sudest,"['Inondation des voies à Avignon (10 TGV retardés)', 'Intempéries sur PACA (5 TGV retardés)']"
+2019-11-24,tgv,ouigo,"['Inondation des voies à Avignon (5 TGV retardés)', 'Intempéries sur PACA (2 TGV retardés)']"
+2019-11-24,tgv,europe,
+2019-11-24,intercites,Paris-Limoges-Toulouse,
+2019-11-24,intercites,Paris-Clermont,['Incident électrique entre Nevers et Fourchambault']
+2019-11-24,intercites,Bordeaux-Marseille,
+2019-11-24,intercites,Nantes-Bordeaux,
+2019-11-24,intercites,Nantes-Lyon,
+2019-11-24,intercites,Toulouse-Bayonne,"[""Panne d'un passage à niveau PN entre Coarraze-Nay et Lourdes"", 'Panne de signalisation entre Tarbes et Tournay']"
+2019-11-24,intercites,Clermont-Béziers,
+2019-11-24,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-11-24,intercites,Paris-Rouen-Le Havre,
+2019-11-24,intercites,Paris-Granville,"['Défaillance matérielle à Paris-Vaugirard', 'Attente du personnel chargé de donner le départ à Paris-Vaugirard', 'Panne de signalisation à ST Cyr', ""Attente d'un controleur""]"
+2019-11-24,intercites,Caen-Le Mans-Tours,"[""Panne d'un passage à niveau entre Vignats et Couliboeuf""]"
+2019-11-24,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Voiture en panne sur un passage à niveau à La Porcherie']
+2019-11-24,intercites,Paris-Briançon,
