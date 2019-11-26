@@ -1844,3 +1844,48 @@ date,famille_transport,ligne,incidents
 2019-11-24,intercites,Caen-Le Mans-Tours,"[""Panne d'un passage à niveau entre Vignats et Couliboeuf""]"
 2019-11-24,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Voiture en panne sur un passage à niveau à La Porcherie']
 2019-11-24,intercites,Paris-Briançon,
+2019-11-25,transilien,A,"[""Problème d'exploitation sur le réseau RATP""]"
+2019-11-25,transilien,B,"[""Problème d'exploitation sur le réseau RATP"", 'Dérangement de signalisation à Sevran-Livry']"
+2019-11-25,transilien,C,"['Bagage abandonné à Chilly-Mazarin', ""Perturbation sur l'axe Pont de Rungis Massy suite à défaut d'alimentation électrique en gare de Massy -TGV""]"
+2019-11-25,transilien,D,"[""Dérangement d'aiguillage à Combs La Ville""]"
+2019-11-25,transilien,E,['Malaise voyageur à Noisy Le Sec']
+2019-11-25,transilien,H,['Malaise voyageur à Domont']
+2019-11-25,transilien,J,"[""Ralentissements préventifs suite aux difficultés d'adhérence""]"
+2019-11-25,transilien,K,['Dérangement de signalisation à Sevran-Livry']
+2019-11-25,transilien,L,['Bris de barrière à un passage à niveau à Marly Le Roi']
+2019-11-25,transilien,N,
+2019-11-25,transilien,P,
+2019-11-25,transilien,R,
+2019-11-25,transilien,U,
+2019-11-25,transilien,T4,['Dérangement de signalisation en début de pointe de matinée']
+2019-11-25,transilien,T11,['Absence de conducteurs']
+2019-11-25,ter,Grand Est,
+2019-11-25,ter,Nouvelle-Aquitaine,"['Défaut de géométrie de la voie à Pessac ( 28 TER impactés)', 'Panne sur un aiguillage à Jarnac-Charente (9 TER impactés)']"
+2019-11-25,ter,Auvergne-Rhône-Alpes,
+2019-11-25,ter,Bourgogne-Franche-Comté,
+2019-11-25,ter,Bretagne,
+2019-11-25,ter,Centre-Val de Loire,"['Défaut d’alimentation électrique en gare de Massy-TGV (43 TER impactés)', 'Ralentissement forfaitaire suite à travaux sur les voies à Mer suite à travaux (6 TER impactés)']"
+2019-11-25,ter,Occitanie,"['Adhérence dégradée à Toulouse-Matabiau (17 TER impactés)', 'Panne matériel sur un train à Auch (11 TER impactés)']"
+2019-11-25,ter,Hauts-de-France,"[""Heurt d'un animal par un train à St-Amand-les-Eaux (22 TER impactés)"", 'Panne sur un passage à niveau à Liancourt-Rantigny suite à un problème électrique (18 TER impactés)', 'Panne matériel à La Bassée-Violaines (14 TER impactés)', 'Adhérence dégradée à Chocques (14 TER impactés)']"
+2019-11-25,ter,Normandie,"['Panne de signalisation ) Paris Saint Lazare (8 TER impactés)', 'Panne sur un passage à niveau à Serqueux (6 TER impactés)']"
+2019-11-25,ter,Pays de la Loire,
+2019-11-25,ter,Provence-Alpes-Côte d'Azur,"['Ralentissement forfaitaire à Marseille-Blancarde suite à travaux dans les voies (55 TER impactés)', 'Limitation de la vitesse des trains à Drap-Cantaron suite à risque de chute de rochers (14 TER impactés)']"
+2019-11-25,tgv,nord,
+2019-11-25,tgv,est,"[""Défaut d'alimentation électrique en gare de Massy (2 TGV retardés)"", ""Intervention des forces de l'ordre en gare de Strasbourg (1 TGV retardé)""]"
+2019-11-25,tgv,atlantique,"[""Défaut d'alimentation électrique en gare de Massy (69 TGV retardés)""]"
+2019-11-25,tgv,sudest,
+2019-11-25,tgv,ouigo,"[""Défaut d'alimentation électrique en gare de Massy (3 OUIGO retardés)""]"
+2019-11-25,tgv,europe,
+2019-11-25,intercites,Paris-Limoges-Toulouse,"[""Conséquence d'un bagage abandonné dans un Transilien à Paris"", 'Vitesses limitées en raison de conditions météo rendant le rail glissant entre Châteauroux et Limoges', 'Panne de signalisation à Montauban', 'Voiture en panne sur un  passage à niveau à La Porcherie']"
+2019-11-25,intercites,Paris-Clermont,
+2019-11-25,intercites,Bordeaux-Marseille,"['Pannes matérielles à Lunel et à Arles', 'Accident de personne à Castelsarrasin', 'Panne de signalisation à Montauban']"
+2019-11-25,intercites,Nantes-Bordeaux,
+2019-11-25,intercites,Nantes-Lyon,"['Panne de signalisation à Bourges', 'Panne matérielle à Lyon']"
+2019-11-25,intercites,Toulouse-Bayonne,
+2019-11-25,intercites,Clermont-Béziers,"['Attente matériel à Millau', 'Vitesses limitées en raison de conditions météo rendant le rail glissant entre Banassac et Sévérac le Chateau']"
+2019-11-25,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Mises à quai tardives à Paris St Lazare', 'Défaillances matérielles à Paris St Lazare et à Trouville', 'Heurt de gibier entre Mantes et Evreux', 'Bagages abandonnés à Paris St Lazare']"
+2019-11-25,intercites,Paris-Rouen-Le Havre,"['Mises à quai tardives à Paris St Lazare', 'Défaillances matérielles à Paris St Lazare et au Havre', 'Bagages abandonnés à Paris St Lazare', 'Intervention de la Police pour des voyageurs sans titre de transport à Mantes']"
+2019-11-25,intercites,Paris-Granville,
+2019-11-25,intercites,Caen-Le Mans-Tours,['Attente correspondance au Mans']
+2019-11-25,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-25,intercites,Paris-Briançon,
