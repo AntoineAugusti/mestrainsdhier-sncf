@@ -1889,3 +1889,48 @@ date,famille_transport,ligne,incidents
 2019-11-25,intercites,Caen-Le Mans-Tours,['Attente correspondance au Mans']
 2019-11-25,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-25,intercites,Paris-Briançon,
+2019-11-26,transilien,A,"[""Malaise d'un voyageur à Nanterre-Préfecture"", 'Dégagement de fumée sur une rame à Fontenay-sous-Bois (RATP)']"
+2019-11-26,transilien,B,"['Malaises de voyageurs à Denfert-Rochereau (RATP), Gare du Nord, Aubervilliers et Chatelet (RATP)', 'Intervention de police sur une rame à Chatelet (RATP)']"
+2019-11-26,transilien,C,"['Dérangement de la signalisation à St-Cyr', ""Dérangement d'un aiguillage à Pont-du-Garigliano"", 'Rails rendus glissants par les conditions climatiques']"
+2019-11-26,transilien,D,"['Signalement au 3117 de personnes près des voies entre Boussy-St-Antoine et Combs-la-Ville (non avéré )', 'Conséquences des malaises voyageurs sur le RER B']"
+2019-11-26,transilien,E,
+2019-11-26,transilien,H,
+2019-11-26,transilien,J,
+2019-11-26,transilien,K,
+2019-11-26,transilien,L,"[""Conséquences d'un dérangement de la signalisation à St-Cyr sur la Ligne U"", ""Conséquences d'un malaise d'un voyageur à Nanterre-Préfecture sur le RER A"", 'Bagage oublié à La Défense']"
+2019-11-26,transilien,N,['Dérangement de la signalisation à St-Cyr']
+2019-11-26,transilien,P,
+2019-11-26,transilien,R,['Signalement au 3117 de personnes près des voies entre Boussy-St-Antoine et Combs-la-Ville (non avéré )']
+2019-11-26,transilien,U,['Dérangement de la signalisation à St-Cyr']
+2019-11-26,transilien,T4,"[""Panne d'une rame à L'Abbaye""]"
+2019-11-26,transilien,T11,
+2019-11-26,ter,Grand Est,
+2019-11-26,ter,Nouvelle-Aquitaine,"['Adhérence dégradée à Dax (7 TER impactés)', 'Inondation à Dax (8 TER impactés)']"
+2019-11-26,ter,Auvergne-Rhône-Alpes,"['Incident caténaire à Riom-Châtel-Guyon (23 TER impactés)', ""Heurt d'un sanglier par un train à La Tour-de-Salvagny (15 TER impactés)""]"
+2019-11-26,ter,Bourgogne-Franche-Comté,"['Défaut de géométrie de la voie à St Lothain  (22 trains impactés)', 'Travaux sur les voies à Montceau les Mines (14 trains impactés)', ""Présence d'enfants dans les voies à Combs la Ville(non avéré) (14 trains impactés)""]"
+2019-11-26,ter,Bretagne,"['Panne sur un passage à niveau à Dingé suite à défaut de contrôle des barrières (17 TER impactés)', 'Panne de signalisation à Auray (8 TER impactés)']"
+2019-11-26,ter,Centre-Val de Loire,"['Incident caténaire à Épernon (14 TER impactés)', 'Panne de signalisation à St-Piat (12 TER impactés)']"
+2019-11-26,ter,Occitanie,
+2019-11-26,ter,Hauts-de-France,"['Panne sur un passage à niveau Corbehem (10 TER impactés)', 'Vol dans un train à Amiens (10 TER impactés)', 'Panne de signalisation à Soissons-Crouy (9 TER impactés)']"
+2019-11-26,ter,Normandie,"['Restitution tardive des travaux à Bretteville-Norrey (8 TER impactés)', 'Attente exécution du service voyageur à Lisieux (embarquement d’une personne à mobilité réduite)(6 TER impactés)']"
+2019-11-26,ter,Pays de la Loire,
+2019-11-26,ter,Provence-Alpes-Côte d'Azur,"['Travaux dans les voies à Cassis (54 TER impactés)', 'Panne de signalisation à Marseille-St-Charles (24 TER impactés)', 'Panne de signalisation à Bandol (16 TER impactés)', 'Présence d’une personne dans le tunnel de St-Louis les Aygalades à l’Estaque, Police et Suge sur place , impact (10 TER impactés)', 'Soin matériel du TER 881656 au départ de La Pauline-Hyères pour un dégagement de fumée sur l’EM, impact (8 TER impactés)']"
+2019-11-26,tgv,nord,
+2019-11-26,tgv,est,
+2019-11-26,tgv,atlantique,"[""Conséquence de l'incident de Massy du lundi (11 TGV retardés)"", ""Perte d'adhérence sur la ligne Nord (2 TGV retardés)""]"
+2019-11-26,tgv,sudest,
+2019-11-26,tgv,ouigo,"[""Panne d'un TGV OUIGO au départ de la gare de Lyon"", 'Prolongation des travaux sur Aubagne (3 Ouigo retardés)']"
+2019-11-26,tgv,europe,['Panne de signalisation sur la ligne du Haut Bugey (2 TGV retardés)\nPersonnes sur les voies à Lattes']
+2019-11-26,intercites,Paris-Limoges-Toulouse,
+2019-11-26,intercites,Paris-Clermont,"['Panne matérielle à Clermont-Ferrand', 'Erreur de régulation du trafic à Nevers', 'Présence de personnes aux abords des voies entre Combs et Boussy (non avéré)']"
+2019-11-26,intercites,Bordeaux-Marseille,"['Dérangement de deux passages à niveau à Bram', 'Problème de fermeture des portes à Marseille', 'Panne de signalisation entre Castelnaudary et Villefranche de Lauragais', ""Présence de personnes dans le tunnel de St Louis les Aygalades à l'Estaque."", 'Colis suspect à Marseille']"
+2019-11-26,intercites,Nantes-Bordeaux,['Limitation de vitesse pour travaux sur les voies entre Jonzac et Luçon']
+2019-11-26,intercites,Nantes-Lyon,
+2019-11-26,intercites,Toulouse-Bayonne,
+2019-11-26,intercites,Clermont-Béziers,
+2019-11-26,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Travaux sur les voies terminés en retard à Bretteville', 'Mises à quai tardives à Paris St Lazare', 'Pannes matérielles à Paris St Lazare et à Trouville', 'Panne de signalisation à Bueil']"
+2019-11-26,intercites,Paris-Rouen-Le Havre,"['Mises à quai tardives à Paris St Lazare', 'Pannes matérielles à Paris St Lazare et au Havre', ""Conséquences de la panne d'un train de marchandises à Bréauté""]"
+2019-11-26,intercites,Paris-Granville,
+2019-11-26,intercites,Caen-Le Mans-Tours,['Vitesses limitées en raison de conditions météo rendant le rail glissant entre Chateau Du Loir et Le Mans']
+2019-11-26,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-26,intercites,Paris-Briançon,
