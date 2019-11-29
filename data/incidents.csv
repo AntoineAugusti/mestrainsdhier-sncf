@@ -1934,3 +1934,48 @@ date,famille_transport,ligne,incidents
 2019-11-26,intercites,Caen-Le Mans-Tours,['Vitesses limitées en raison de conditions météo rendant le rail glissant entre Chateau Du Loir et Le Mans']
 2019-11-26,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-26,intercites,Paris-Briançon,
+2019-11-28,transilien,A,"['Panne de signalisation entre Gare-de-Lyon et Nation (zone RATP)', 'Incident affectant la voie entre Nation et Vincennes (zone RATP)']"
+2019-11-28,transilien,B,"[""Signal d'alarme et intervention de police à Saint-Michel-Notre-Dame (zone RATP)""]"
+2019-11-28,transilien,C,"[""Interpellation d'une personne dans les voies aux Ardoines"", ""Deux signaux d'alarme à Bibliothèque-François Mitterrand, un malveillant et pour malaise voyageur"", 'Passage à niveau forcé et endommagé par un camion à Saint-Chéron']"
+2019-11-28,transilien,D,
+2019-11-28,transilien,E,
+2019-11-28,transilien,H,"[""Vitesses limitées en raison des conditions météo (rails glissants) à Champ-de-Courses-d'Enghien""]"
+2019-11-28,transilien,J,"['Intervention sur un train en raison de la présence de fumeurs', 'Vitesses limitées en raison des conditions météo (rails glissants) entre Mantes et Conflans-Sainte-Honorine', 'Passage à niveau forcé et endommagé par un camion à Saint-Chéron']"
+2019-11-28,transilien,K,
+2019-11-28,transilien,L,
+2019-11-28,transilien,N,['Répercussions des retards de TER ralentis en raison des conditions météo (rails glissants)  entre Le Mans et Rambouillet']
+2019-11-28,transilien,P,
+2019-11-28,transilien,R,"[""Répercussions de la panne d'un TER à Melun"", 'Gêne par plusieurs trains de marchandises circulant en retard']"
+2019-11-28,transilien,U,
+2019-11-28,transilien,T4,
+2019-11-28,transilien,T11,"['Panne du système radio au Poste de gestion des circulations', ""Panne d'une rame""]"
+2019-11-28,ter,Grand Est,
+2019-11-28,ter,Nouvelle-Aquitaine,"['Inondations des voies à St-Loubès (33 TER impactés)', 'Panne de signalisation à St-André-de-Cubzac (9 TER impactés)']"
+2019-11-28,ter,Auvergne-Rhône-Alpes,"['Vitesses limitées en raison des conditions météo (rails glissants) entre Vic-le-Comte et Clermont-Ferrand (17 TER impactés)', 'Procédure colis suspect à Aix-les-Bains (15 TER impactés)', 'Vitesses limitées en raison des conditions météo (rails glissants) à La-Roche-sur-Foron (12 TER impactés)']"
+2019-11-28,ter,Bourgogne-Franche-Comté,"['Travaux dans les voies à Chagny (14 TER impactés)', 'Panne de signalisation à Blaisy-Bas ( 7 TER impactés)']"
+2019-11-28,ter,Bretagne,['Pannes sur un passage à niveau à Montreuil sur Ile (16 trains impactés) et à Combourg (8 trains impactés)']
+2019-11-28,ter,Centre-Val de Loire,['Vitesses limitées en raison des conditions météo (rails glissants)  entre Chartres et Rambouillet (15 TER impactés) et entre La-Villette-St-Prest et Jouy (9 TER impactés)']
+2019-11-28,ter,Occitanie,
+2019-11-28,ter,Hauts-de-France,"['Panne de train à Beauvais (16 TER impactés)', ""Répercussions de la panne d'un train de marchandises à Creil (13 TER impactés)"", 'Panne de signalisation à Jeumont (13 TER impactés)']"
+2019-11-28,ter,Normandie,"[""Heurt d'un sanglier par un TGV à Bréauté-Beuzeville (7 TER impactés)"", ""Panne d'un passage à niveau à Evreux (6 TER impactés)""]"
+2019-11-28,ter,Pays de la Loire,
+2019-11-28,ter,Provence-Alpes-Côte d'Azur,"['Risque d’éboulement d’une paroi à Gardanne suite aux intempéries (29 TER impactés)', 'Vitesses limitées dans la traversée de la gare de Villeneuve-Loubet suite aux intempéries (14 TER impactés)']"
+2019-11-28,tgv,nord,
+2019-11-28,tgv,est,
+2019-11-28,tgv,atlantique,
+2019-11-28,tgv,sudest,
+2019-11-28,tgv,ouigo,
+2019-11-28,tgv,europe,
+2019-11-28,intercites,Paris-Limoges-Toulouse,"['Panne de locomotive', ""Erreur de conduite d'un conducteur"", 'Vitesses limitées pour rails glissants', 'Suspicion de fuite de matière dangereuse à Angerville', 'Intervention de la police à Vierzon pour deux voyageurs sans titre de transport']"
+2019-11-28,intercites,Paris-Clermont,
+2019-11-28,intercites,Bordeaux-Marseille,
+2019-11-28,intercites,Nantes-Bordeaux,
+2019-11-28,intercites,Nantes-Lyon,
+2019-11-28,intercites,Toulouse-Bayonne,
+2019-11-28,intercites,Clermont-Béziers,
+2019-11-28,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Travaux dans le technicentre de Paris Batignolles', ""Panne d'un passage à niveau entre Beuil et Evreux"", 'Vérifications caténaires après un choc ressenti par un conducteur', 'Mise en place tardives de trains au départ par manque de matériel disponible']"
+2019-11-28,intercites,Paris-Rouen-Le Havre,"['Travaux dans le technicentre de Paris Batignolles', ""Répercussions d'un heurt de sanglier par un TGV"", 'Mise en place tardives de trains au départ par manque de matériel disponible']"
+2019-11-28,intercites,Paris-Granville,
+2019-11-28,intercites,Caen-Le Mans-Tours,"[""Poursuite d'un individu par la police sur les voies entre Neuillé Pont Pierre et La Membrolle"", 'Limitation de Vitesse entre Neuville sur Sarthe et La Hutte Coulombiers suite à des travaux sur les voies']"
+2019-11-28,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-28,intercites,Paris-Briançon,
