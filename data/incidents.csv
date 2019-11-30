@@ -1979,3 +1979,48 @@ date,famille_transport,ligne,incidents
 2019-11-28,intercites,Caen-Le Mans-Tours,"[""Poursuite d'un individu par la police sur les voies entre Neuillé Pont Pierre et La Membrolle"", 'Limitation de Vitesse entre Neuville sur Sarthe et La Hutte Coulombiers suite à des travaux sur les voies']"
 2019-11-28,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-28,intercites,Paris-Briançon,
+2019-11-29,transilien,A,['Pannes de signalisation à Paris Gare de Lyon et Nation']
+2019-11-29,transilien,B,['Panne de train à la Bourg-la-Reine']
+2019-11-29,transilien,C,"[""Personne tombée dans les voies en gare d'Invalides"", 'acte de malveillance à Chaville', 'Procédure bagage abandonné à Versailles Chantier']"
+2019-11-29,transilien,D,"['Pannes d’installations techniques en gares de Corbeil et de Grigny', 'Heurt de 3 sangliers à La Ferté Alais', ""Répercussions de la panne d'un TER à Moret""]"
+2019-11-29,transilien,E,
+2019-11-29,transilien,H,"['Vitesses limitées entre Champ de course et Enghein et aux abords de la gare de Taverny (rails glissants)', 'Procédure colis suspect en Gare du Nord']"
+2019-11-29,transilien,J,
+2019-11-29,transilien,K,
+2019-11-29,transilien,L,
+2019-11-29,transilien,N,"['Panne de signalisation à Clamart', 'Procédure bagage abandonné à Versailles Chantiers']"
+2019-11-29,transilien,P,"['Passage a niveau forcé et endommagé entre Troyes et Mesmin', 'Heurt de sangliers à Trilport']"
+2019-11-29,transilien,R,['Répercussions de la panne d’un TER à Moret']
+2019-11-29,transilien,U,
+2019-11-29,transilien,T4,
+2019-11-29,transilien,T11,
+2019-11-29,ter,Grand Est,
+2019-11-29,ter,Nouvelle-Aquitaine,"['éboulement de talus à Sainte Eulalie (36 trains impactés)', 'présomption de rail fissuré à Langon (10 trains impactés)']"
+2019-11-29,ter,Auvergne-Rhône-Alpes,"['Avarie d’un passage à niveau à St Germain des fossés (8 trains impactés)', 'affluence voyageurs en gare de Bellegarde (10 trains impactés)']"
+2019-11-29,ter,Bourgogne-Franche-Comté,"['Panne de signalisation à St Amour (8 trains impactés)', 'Panne de train à Fontainebleau (10 trains impactés)']"
+2019-11-29,ter,Bretagne,
+2019-11-29,ter,Centre-Val de Loire,"['Avarie d’un passage à niveau à Foecy (13 trains impactés)', 'incident caténaire aux Aubrais-Orléans (13 trains impactés)']"
+2019-11-29,ter,Occitanie,
+2019-11-29,ter,Hauts-de-France,"['panne de signalisation à Ronchin (36 trains impactés', 'avarie d’un passage à niveau à Lambersart (35 trains impactés)']"
+2019-11-29,ter,Normandie,['déformation de la voie à Oissel (10 trains impactés)']
+2019-11-29,ter,Pays de la Loire,
+2019-11-29,ter,Provence-Alpes-Côte d'Azur,"[""chute d'un arbre sur la caténaire entre Cannes et Antibes (22 trains impactés)""]"
+2019-11-29,tgv,nord,
+2019-11-29,tgv,est,
+2019-11-29,tgv,atlantique,"[""Panne d'installation technique à Coutras (8 trains impactés)"", 'heurt de sanglier à Monts (4 trains impactés)']"
+2019-11-29,tgv,sudest,"[""Panne d'installation techniques à Montpellier (5 trains impactés)"", 'arbre sur la voie entre Cannes et Antibes (5 trains impactés)']"
+2019-11-29,tgv,ouigo,
+2019-11-29,tgv,europe,"['heurt de sangliers à Lesse (2 trains impactés)', 'accident de personne à Forbach (4 trains impactés)']"
+2019-11-29,intercites,Paris-Limoges-Toulouse,"['Heurt de sanglier par un train TER à Salbris', 'Vitesse limitée sur rail glissant entre Brive et Limoges', 'Branches sur les voies à Masseret', ""Divagation d'une vache sur les voies vers Vierzon""]"
+2019-11-29,intercites,Paris-Clermont,"[""Détresse d'un train TER à Fontainebleau"", 'Travaux inopinés entre St-Pierre-le-Moutier et Saincaize', 'Intervention de la police en gare de Nevers']"
+2019-11-29,intercites,Bordeaux-Marseille,"['Pannes de locomotive et de rame à Marseille', 'Suspicion de rail endommagé à Langon']"
+2019-11-29,intercites,Nantes-Bordeaux,"[""Éboulement d'un talus aux abords de la voie à St -Mariens""]"
+2019-11-29,intercites,Nantes-Lyon,"['Passages à niveau en dérangement à Villefranche-sur-Cher, Vierzon et Lapalisse']"
+2019-11-29,intercites,Toulouse-Bayonne,
+2019-11-29,intercites,Clermont-Béziers,
+2019-11-29,intercites,Paris-Caen-Cherbourg Trouville/Deauville,"['Passage à niveau en dérangement entre Evreux et Bueil', 'Pannes de trains à Paris', 'Mises en place tardives de trains au départ à Paris St Lazare']"
+2019-11-29,intercites,Paris-Rouen-Le Havre,"['Pannes de trains à Paris', 'Mises en place tardives de trains au départ à Paris St Lazare', 'Acte de vandalisme (ballast déposé sur le rail) entre Oissel et Sotteville']"
+2019-11-29,intercites,Paris-Granville,
+2019-11-29,intercites,Caen-Le Mans-Tours,['Vitesse limitée suite à travaux de modernisation des voies à Neuville-sur-Sarthe']
+2019-11-29,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Vitesse limitée sur rail glissant à St Denis-Près-Martel']
+2019-11-29,intercites,Paris-Briançon,"['Panne de signalisation à Valence Ville', 'Difficultés dans la gestion des circulations en Bourgogne Franche-Comté']"
