@@ -2024,3 +2024,48 @@ date,famille_transport,ligne,incidents
 2019-11-29,intercites,Caen-Le Mans-Tours,['Vitesse limitée suite à travaux de modernisation des voies à Neuville-sur-Sarthe']
 2019-11-29,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Vitesse limitée sur rail glissant à St Denis-Près-Martel']
 2019-11-29,intercites,Paris-Briançon,"['Panne de signalisation à Valence Ville', 'Difficultés dans la gestion des circulations en Bourgogne Franche-Comté']"
+2019-11-30,transilien,A,['Problèmes sur le matériel et mesures de sécurités en zone RATP']
+2019-11-30,transilien,B,
+2019-11-30,transilien,C,
+2019-11-30,transilien,D,"['Personnes dans les voies entre Saint Denis et Goussainville', 'Procédure bagage oublié à Goussainville']"
+2019-11-30,transilien,E,
+2019-11-30,transilien,H,
+2019-11-30,transilien,J,
+2019-11-30,transilien,K,
+2019-11-30,transilien,L,['Avarie d’un train et problèmes de signalisation à St Cloud']
+2019-11-30,transilien,N,
+2019-11-30,transilien,P,
+2019-11-30,transilien,R,
+2019-11-30,transilien,U,
+2019-11-30,transilien,T4,
+2019-11-30,transilien,T11,['Absence de conducteur']
+2019-11-30,ter,Grand Est,
+2019-11-30,ter,Nouvelle-Aquitaine,['procédure bagage abandonné dans un train à Bordeaux St Jean (10 trains impactés)']
+2019-11-30,ter,Auvergne-Rhône-Alpes,
+2019-11-30,ter,Bourgogne-Franche-Comté,
+2019-11-30,ter,Bretagne,['adhérence dégradée à Redon (8 trains impactés)']
+2019-11-30,ter,Centre-Val de Loire,
+2019-11-30,ter,Occitanie,"['panne de signalisation à Baillargues  (10 trains impactés)', 'pannes sur des passages à niveau à Lunel (6 trains impactés) et à Muret (6 trains impactés)']"
+2019-11-30,ter,Hauts-de-France,
+2019-11-30,ter,Normandie,
+2019-11-30,ter,Pays de la Loire,
+2019-11-30,ter,Provence-Alpes-Côte d'Azur,"['rail fissuré à La Pomme (10 trains impactés)', 'vitesses limitées pour travaux sur les voies à Cassis (33 trains impactés)', 'procédure colis suspect en gare de Marseille (14 trains impactés)']"
+2019-11-30,tgv,nord,
+2019-11-30,tgv,est,
+2019-11-30,tgv,atlantique,
+2019-11-30,tgv,sudest,
+2019-11-30,tgv,ouigo,
+2019-11-30,tgv,europe,
+2019-11-30,intercites,Paris-Limoges-Toulouse,['Vitesse limitée sur rail glissant entre Brive et Limoges']
+2019-11-30,intercites,Paris-Clermont,
+2019-11-30,intercites,Bordeaux-Marseille,
+2019-11-30,intercites,Nantes-Bordeaux,"[""Vitesse limitée sur la zone qui comporte un risque d'éboulement de talus à St -Mariens""]"
+2019-11-30,intercites,Nantes-Lyon,
+2019-11-30,intercites,Toulouse-Bayonne,"['Passages à niveau en dérangement à Fauga, Tarbes et Lourdes']"
+2019-11-30,intercites,Clermont-Béziers,
+2019-11-30,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-11-30,intercites,Paris-Rouen-Le Havre,
+2019-11-30,intercites,Paris-Granville,
+2019-11-30,intercites,Caen-Le Mans-Tours,"[""Panne d'un TGV au Mans""]"
+2019-11-30,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2019-11-30,intercites,Paris-Briançon,
