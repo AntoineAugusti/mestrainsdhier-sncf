@@ -2069,3 +2069,48 @@ date,famille_transport,ligne,incidents
 2019-11-30,intercites,Caen-Le Mans-Tours,"[""Panne d'un TGV au Mans""]"
 2019-11-30,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2019-11-30,intercites,Paris-Briançon,
+2019-12-01,transilien,A,
+2019-12-01,transilien,B,
+2019-12-01,transilien,C,
+2019-12-01,transilien,D,"['Personne dans les voies en gare de Lyon souterraine', 'Train sorti tardivement des garages à Creil']"
+2019-12-01,transilien,E,
+2019-12-01,transilien,H,
+2019-12-01,transilien,J,
+2019-12-01,transilien,K,['Avarie sur un train']
+2019-12-01,transilien,L,['Panne de de signalisation à Paris Saint Lazare']
+2019-12-01,transilien,N,
+2019-12-01,transilien,P,
+2019-12-01,transilien,R,
+2019-12-01,transilien,U,['Avaries sur des rames']
+2019-12-01,transilien,T4,
+2019-12-01,transilien,T11,['Absence de conducteur']
+2019-12-01,ter,Grand Est,
+2019-12-01,ter,Nouvelle-Aquitaine,"['obstacle sur la voie à Ambarres (33 TER impactés)', ""colis suspect à bord d'un train à Aiguillon (10 TER impactés)""]"
+2019-12-01,ter,Auvergne-Rhône-Alpes,
+2019-12-01,ter,Bourgogne-Franche-Comté,['panne matériel sur un train à Dijon Perrigny (6 TER impactés) et sur un autre train à Beaune (5 trains impactés)']
+2019-12-01,ter,Bretagne,['heurt de sangliers par un TGV à Redon (5 trains impactés)']
+2019-12-01,ter,Centre-Val de Loire,
+2019-12-01,ter,Occitanie,"['travaux sur les voies à St Césaire (17 TER impactés)', 'travaux sur les voies entre Boussens et Carbonne (15 TER impactés)']"
+2019-12-01,ter,Hauts-de-France,
+2019-12-01,ter,Normandie,['prise en charge de deux voyageurs à mobilité réduite (4 TER Impactés)']
+2019-12-01,ter,Pays de la Loire,
+2019-12-01,ter,Provence-Alpes-Côte d'Azur,['conséquences des intempéries ayant fortement affecté plusieurs lignes de la région.']
+2019-12-01,tgv,nord,
+2019-12-01,tgv,est,
+2019-12-01,tgv,atlantique,['accident de personne à Massy-TGV (20 trains impactés)']
+2019-12-01,tgv,sudest,
+2019-12-01,tgv,ouigo,['accident de personne à Massy-TGV (2 trains impactés)']
+2019-12-01,tgv,europe,
+2019-12-01,intercites,Paris-Limoges-Toulouse,"['Vitesse limitée sur rail glissant entre Brive et Limoges', 'Acte de malveillance à Déols']"
+2019-12-01,intercites,Paris-Clermont,
+2019-12-01,intercites,Bordeaux-Marseille,"['Panne de locomotive à St-Martin-de-Crau', ""Panne d'un pont levant à Sète"", ""Répercussions d'une procédure colis suspect à Aiguillon sur TER""]"
+2019-12-01,intercites,Nantes-Bordeaux,"[""Vitesse limitée sur une zone comportant un risque d'éboulement de talus à St -Mariens""]"
+2019-12-01,intercites,Nantes-Lyon,
+2019-12-01,intercites,Toulouse-Bayonne,
+2019-12-01,intercites,Clermont-Béziers,
+2019-12-01,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2019-12-01,intercites,Paris-Rouen-Le Havre,
+2019-12-01,intercites,Paris-Granville,
+2019-12-01,intercites,Caen-Le Mans-Tours,"[""Répercussions de la panne d'un TGV au Mans""]"
+2019-12-01,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Répercussions de la panne d'un train TER entre Albi et Carmaux"", 'Panne de signalisation à Pierre-Buffière']"
+2019-12-01,intercites,Paris-Briançon,
