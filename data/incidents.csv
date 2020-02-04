@@ -2114,3 +2114,48 @@ date,famille_transport,ligne,incidents
 2019-12-01,intercites,Caen-Le Mans-Tours,"[""Répercussions de la panne d'un TGV au Mans""]"
 2019-12-01,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"[""Répercussions de la panne d'un train TER entre Albi et Carmaux"", 'Panne de signalisation à Pierre-Buffière']"
 2019-12-01,intercites,Paris-Briançon,
+2020-02-03,transilien,A,['Panne de signalisation à Nation']
+2020-02-03,transilien,B,"[""Panne d'un train à Paris Nord"", ""Panne d'alimentation électrique à Paris Nord""]"
+2020-02-03,transilien,C,['Panne de signalisation à Champ de Mars']
+2020-02-03,transilien,D,"[""Panne d'un train à Evry"", 'Malaise voyageur dans un train à Goussainville']"
+2020-02-03,transilien,E,"['Perte de chargement sur un wagon à Roissy en Brie', ""Panne d'un train au Raincy""]"
+2020-02-03,transilien,H,['Malaise voyageur à Enghien']
+2020-02-03,transilien,J,"[""Panne d'alimentation électrique à Herblay""]"
+2020-02-03,transilien,K,
+2020-02-03,transilien,L,"[""Panne d'alimentation électrique à Herblay""]"
+2020-02-03,transilien,N,['Rames immobilisées en centre de maintenance']
+2020-02-03,transilien,P,['Perte de chargement sur un wagon à Roissy en Brie']
+2020-02-03,transilien,R,"[""Panne d'un train à Evry"", ""Panne d'alimentation électrique à Yerres""]"
+2020-02-03,transilien,U,['Rames immobilisées en centre de maintenance']
+2020-02-03,transilien,T4,['Absence de conducteur']
+2020-02-03,transilien,T11,['Absence de conducteur']
+2020-02-03,ter,Grand Est,
+2020-02-03,ter,Nouvelle-Aquitaine,
+2020-02-03,ter,Auvergne-Rhône-Alpes,
+2020-02-03,ter,Bourgogne-Franche-Comté,"[""Répercussions d'un incident caténaire sur la LGV Sud-Est à hauteur de Yerres avec détournement des TGV via ligne classique (35 TER retardés)""]"
+2020-02-03,ter,Bretagne,
+2020-02-03,ter,Centre-Val de Loire,
+2020-02-03,ter,Occitanie,
+2020-02-03,ter,Hauts-de-France,
+2020-02-03,ter,Normandie,"['limitation de la vitesse des trains suite à un affaissement de la voie à Apremont (60 TER retardés)', 'arrachement caténaire à Herblay/ Conflans Ste Honorine (39 TER retardés)']"
+2020-02-03,ter,Pays de la Loire,
+2020-02-03,ter,Provence-Alpes-Côte d'Azur,
+2020-02-03,tgv,nord,['Vitesses limitées en raison de travaux sur les voies à Beuvraignes']
+2020-02-03,tgv,est,['Inondation entre Sarrebourg et Réding']
+2020-02-03,tgv,atlantique,
+2020-02-03,tgv,sudest,['Incident caténaire sur la LGV Sud Est à hauteur de Yerres']
+2020-02-03,tgv,ouigo,['Incident caténaire sur la LGV Sud Est à hauteur de Yerres']
+2020-02-03,tgv,europe,['Incident caténaire sur la LGV Sud Est à hauteur de Yerres']
+2020-02-03,intercites,Paris-Limoges-Toulouse,"['Pannes de train à Paris-Austerlitz et à Brive', ""Panne d'un train de travaux à Caussade"", 'Mises à quai tardives de trains au départ à Paris-Austerlitz', ""Panne d'un aiguillage entre Castelnau et Saint-Jory""]"
+2020-02-03,intercites,Paris-Clermont,"[""Répercussions d'un incident caténaire sur la LGV Sud-Est à hauteur de Yerres avec détournement des TGV via ligne classique"", ""Mise à  quai tardive d'un train au départ à Paris-Bercy""]"
+2020-02-03,intercites,Bordeaux-Marseille,"['Accident de personne entre Carcassonne et Trèbes', ""Erreur d'aiguillage à Bordeaux"", 'Panne de passage à niveau à Castelnaudary et à Sète', ""Mise à quai tardive d'un train au départ à Bordeaux""]"
+2020-02-03,intercites,Nantes-Bordeaux,
+2020-02-03,intercites,Nantes-Lyon,['Panne de signalisation entre Montrichard et St-Aignan']
+2020-02-03,intercites,Toulouse-Bayonne,"['Panne de signalisation entre Peyrehorade et Puyoo', 'Procédure colis suspect à Cazères-sur-Garonne']"
+2020-02-03,intercites,Clermont-Béziers,
+2020-02-03,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Géré par TER depuis le 1er janvier 2020']
+2020-02-03,intercites,Paris-Rouen-Le Havre,['Géré par TER depuis le 1er janvier 2020']
+2020-02-03,intercites,Paris-Granville,['Géré par TER depuis le 1er janvier 2020']
+2020-02-03,intercites,Caen-Le Mans-Tours,['Géré par TER depuis le 1er janvier 2020']
+2020-02-03,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-03,intercites,Paris-Briançon,"[""Retard lors d'une procédure de départ d'un train""]"
