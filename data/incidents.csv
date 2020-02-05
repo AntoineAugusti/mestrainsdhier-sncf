@@ -2159,3 +2159,48 @@ date,famille_transport,ligne,incidents
 2020-02-03,intercites,Caen-Le Mans-Tours,['Géré par TER depuis le 1er janvier 2020']
 2020-02-03,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-03,intercites,Paris-Briançon,"[""Retard lors d'une procédure de départ d'un train""]"
+2020-02-04,transilien,A,['Incidents divers en zone RATP']
+2020-02-04,transilien,B,
+2020-02-04,transilien,C,
+2020-02-04,transilien,D,
+2020-02-04,transilien,E,
+2020-02-04,transilien,H,
+2020-02-04,transilien,J,"[""Répercussions d'un incident caténaire survenu à Herblay dimanche""]"
+2020-02-04,transilien,K,
+2020-02-04,transilien,L,
+2020-02-04,transilien,N,"['Procédure bagage suspect en gare de Paris-Montparnasse', 'Intervention des services de secours à La Verrière']"
+2020-02-04,transilien,P,"[""Chutes d'arbres sur la voie entre Longueville et Provins"", ""Panne d'aiguillage à Paris-Est""]"
+2020-02-04,transilien,R,"['Avarie signalée sur un train de fret à Melun', ""Répercussions de la mise à quai tardive d'un train TER au départ""]"
+2020-02-04,transilien,U,['Intervention des services de secours à La Verrière']
+2020-02-04,transilien,T4,['Panne de la signalisation entre Gargan et Clichy-Montfermeil']
+2020-02-04,transilien,T11,
+2020-02-04,ter,Grand Est,
+2020-02-04,ter,Nouvelle-Aquitaine,
+2020-02-04,ter,Auvergne-Rhône-Alpes,
+2020-02-04,ter,Bourgogne-Franche-Comté,"[""nombreuses chutes d'arbres ou de branches sur les voies et les caténaires suite aux vents forts (52 trains retardés)""]"
+2020-02-04,ter,Bretagne,
+2020-02-04,ter,Centre-Val de Loire,['accident routier sur un passage à niveau à Montrichard (17 TER impactés)']
+2020-02-04,ter,Occitanie,
+2020-02-04,ter,Hauts-de-France,
+2020-02-04,ter,Normandie,['limitation de la vitesse des trains suite à un affaissement de la voie à Apremont (60 TER retardés)']
+2020-02-04,ter,Pays de la Loire,
+2020-02-04,ter,Provence-Alpes-Côte d'Azur,
+2020-02-04,tgv,nord,['Vitesses limitées en raison de travaux à Beuvraignes']
+2020-02-04,tgv,est,
+2020-02-04,tgv,atlantique,
+2020-02-04,tgv,sudest,
+2020-02-04,tgv,ouigo,"[""Panne d'installations texchniques à Agen"", 'Pannes techniques à Vénissieux et à Roissy']"
+2020-02-04,tgv,europe,
+2020-02-04,intercites,Paris-Limoges-Toulouse,
+2020-02-04,intercites,Paris-Clermont,"['Panne de signalisation entre Saincaize et Nevers.', 'Intervention de la police à Nevers pour plusieurs personnes dans le train sans billets accompagnés de chiens', ""Conséquences de la panne d'un TER entre Garchizy et La Charité"", ""Attente d'un contrôleur""]"
+2020-02-04,intercites,Bordeaux-Marseille,"['Pannes de passage à niveau à Lunel, à Agen et Manduel-Redessan.']"
+2020-02-04,intercites,Nantes-Bordeaux,
+2020-02-04,intercites,Nantes-Lyon,['Accident routier à un passage à niveau à Montrichard']
+2020-02-04,intercites,Toulouse-Bayonne,
+2020-02-04,intercites,Clermont-Béziers,
+2020-02-04,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['Géré par TER depuis le 1er janvier 2020']
+2020-02-04,intercites,Paris-Rouen-Le Havre,['Géré par TER depuis le 1er janvier 2020']
+2020-02-04,intercites,Paris-Granville,['Géré par TER depuis le 1er janvier 2020']
+2020-02-04,intercites,Caen-Le Mans-Tours,['Géré par TER depuis le 1er janvier 2020']
+2020-02-04,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Limitation de vitesse en raison de la présence de givre sur la caténaire entre Bordeaux et Agen']
+2020-02-04,intercites,Paris-Briançon,"[""Train retardé par la panne d'un train de marchandises à St Amour puis la panne d'un passage à niveau à Flogny""]"
