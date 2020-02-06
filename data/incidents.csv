@@ -2204,3 +2204,48 @@ date,famille_transport,ligne,incidents
 2020-02-04,intercites,Caen-Le Mans-Tours,['Géré par TER depuis le 1er janvier 2020']
 2020-02-04,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Limitation de vitesse en raison de la présence de givre sur la caténaire entre Bordeaux et Agen']
 2020-02-04,intercites,Paris-Briançon,"[""Train retardé par la panne d'un train de marchandises à St Amour puis la panne d'un passage à niveau à Flogny""]"
+2020-02-05,transilien,A,
+2020-02-05,transilien,B,['Rail fissuré à Gare du Nord']
+2020-02-05,transilien,C,"[""Départ d'incendie provoqué par un SDF à Musée d'Orsay"", 'Panne du suivi des trains à Juvisy']"
+2020-02-05,transilien,D,['Rail fissuré à Gare du Nord']
+2020-02-05,transilien,E,
+2020-02-05,transilien,H,
+2020-02-05,transilien,J,"[""Panne de signalisation au Val-d'Argenteuil""]"
+2020-02-05,transilien,K,
+2020-02-05,transilien,L,"[""Effondrement d'un talus à Sèvres-Ville-d'Avray""]"
+2020-02-05,transilien,N,
+2020-02-05,transilien,P,
+2020-02-05,transilien,R,
+2020-02-05,transilien,U,"[""Effondrement d'un talus à Sèvres-Ville-d'Avray""]"
+2020-02-05,transilien,T4,"['Panne de signalisation entre Clichy-Montfermeil et Arboretum', 'Rames immobilisées en maintenance']"
+2020-02-05,transilien,T11,
+2020-02-05,ter,Grand Est,
+2020-02-05,ter,Nouvelle-Aquitaine,['panne de signalisation à Gazinet-Cestas (24 TER retardés)']
+2020-02-05,ter,Auvergne-Rhône-Alpes,
+2020-02-05,ter,Bourgogne-Franche-Comté,
+2020-02-05,ter,Bretagne,
+2020-02-05,ter,Centre-Val de Loire,
+2020-02-05,ter,Occitanie,
+2020-02-05,ter,Hauts-de-France,"['accident de personne à Neufchâtel-Hardelot (12 TER retardés)', ""avarie d'un passage à niveau à Wattignies-Templemars (27 TER impactés)""]"
+2020-02-05,ter,Normandie,"[""mise à quai tardive d'un train au départ à Paris St Lazare suite à des difficultés de manoeuvre (8 trains impactés)""]"
+2020-02-05,ter,Pays de la Loire,
+2020-02-05,ter,Provence-Alpes-Côte d'Azur,
+2020-02-05,tgv,nord,
+2020-02-05,tgv,est,
+2020-02-05,tgv,atlantique,
+2020-02-05,tgv,sudest,"[""Panne d'alimentation électrique au technicentre de Paris Gare de Lyon""]"
+2020-02-05,tgv,ouigo,"[""Panne d'alimentation électrique au technicentre de Paris Gare de Lyon""]"
+2020-02-05,tgv,europe,"[""Panne d'alimentation électrique au technicentre de Paris Gare de Lyon""]"
+2020-02-05,intercites,Paris-Limoges-Toulouse,
+2020-02-05,intercites,Paris-Clermont,
+2020-02-05,intercites,Bordeaux-Marseille,"['Avaries de passages à niveau entre Tarascon et Nîmes, entre Toulouse et Montaudran et à Agen']"
+2020-02-05,intercites,Nantes-Bordeaux,
+2020-02-05,intercites,Nantes-Lyon,['Attente de contrôleur à Lyon Perrache']
+2020-02-05,intercites,Toulouse-Bayonne,"[""Panne d'alimentation électrique entre Puyoô et Pau""]"
+2020-02-05,intercites,Clermont-Béziers,
+2020-02-05,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2020-02-05,intercites,Paris-Rouen-Le Havre,
+2020-02-05,intercites,Paris-Granville,
+2020-02-05,intercites,Caen-Le Mans-Tours,
+2020-02-05,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Train ralenti pour passer derrière un train racleur en raison de la présence de givre sur les caténaires entre Bordeaux et Montauban']
+2020-02-05,intercites,Paris-Briançon,"[""Avarie d'un passage à niveau à St Florentin"", ""Répercussions de la panne d'un train de marchandises entre Bourg en Bresse et St Amour""]"
