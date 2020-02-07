@@ -2249,3 +2249,48 @@ date,famille_transport,ligne,incidents
 2020-02-05,intercites,Caen-Le Mans-Tours,
 2020-02-05,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Train ralenti pour passer derrière un train racleur en raison de la présence de givre sur les caténaires entre Bordeaux et Montauban']
 2020-02-05,intercites,Paris-Briançon,"[""Avarie d'un passage à niveau à St Florentin"", ""Répercussions de la panne d'un train de marchandises entre Bourg en Bresse et St Amour""]"
+2020-02-06,transilien,A,
+2020-02-06,transilien,B,"[""Malaise d'une voyageuse à Cité-Universitaire (RATP)""]"
+2020-02-06,transilien,C,
+2020-02-06,transilien,D,['Journée de mobilisation interprofessionnelle - Plan de transport adapté']
+2020-02-06,transilien,E,"['Retards des travaux de nuit entre Noisy-le-Sec et Rosa Parks', ""Dérangement d'un aiguillage à Nogent-le-Perreux""]"
+2020-02-06,transilien,H,['Journée de mobilisation interprofessionnelle - Plan de transport adapté']
+2020-02-06,transilien,J,['Journée de mobilisation interprofessionnelle - Plan de transport adapté']
+2020-02-06,transilien,K,['Journée de mobilisation interprofessionnelle - Plan de transport adapté']
+2020-02-06,transilien,L,"[""Effondrement d'un talus à Sèvres-Ville-d'Avray""]"
+2020-02-06,transilien,N,"[""Câbles d'un centre de signalisation de La Verrière dégradés par des rongeurs""]"
+2020-02-06,transilien,P,
+2020-02-06,transilien,R,"['Conséquence des retards de trains en amont de Montereau dus à un dérangement de signalisation à St-Florentin-Vergigny', ""Départ d'un train retardé pour un échange de rame à Gare-de-Lyon"", ""Panne d'un train de travaux entre Villeneuve-St-G. et Combs""]"
+2020-02-06,transilien,U,"[""Effondrement d'un talus à Sèvres-Ville-d'Avray""]"
+2020-02-06,transilien,T4,['Pannes de rames. Rames immobilisées en maintenance']
+2020-02-06,transilien,T11,['Personnes sur les voies à Pierrefitte-Stains']
+2020-02-06,ter,Grand Est,
+2020-02-06,ter,Nouvelle-Aquitaine,['Panne matériel sur un train à Gaurriaguet (6 TER impactés)']
+2020-02-06,ter,Auvergne-Rhône-Alpes,
+2020-02-06,ter,Bourgogne-Franche-Comté,['Panne matériel à Besançon et à Dole (12 TER retardés)']
+2020-02-06,ter,Bretagne,
+2020-02-06,ter,Centre-Val de Loire,['Panne de signalisation à Ivry sur Seine (4 TER impactés) et à La Verrière (14 TER impactés)']
+2020-02-06,ter,Occitanie,
+2020-02-06,ter,Hauts-de-France,"[""Panne d'un train de marchandises à Béthune (19 TER impactés)""]"
+2020-02-06,ter,Normandie,"[""Erreur d'aiguillage à Paris St Lazare (12 TER impactés)""]"
+2020-02-06,ter,Pays de la Loire,
+2020-02-06,ter,Provence-Alpes-Côte d'Azur,
+2020-02-06,tgv,nord,
+2020-02-06,tgv,est,"['Accident de personne entre Carnoules et Cuers', 'Mouvement social au Centre de Maintenance de Paris (8 TGV retardés)']"
+2020-02-06,tgv,atlantique,
+2020-02-06,tgv,sudest,
+2020-02-06,tgv,ouigo,['Accident de personne entre Carnoules et Cuers']
+2020-02-06,tgv,europe,
+2020-02-06,intercites,Paris-Limoges-Toulouse,"['Panne sur une voiture à Toulouse', 'Panne de signalisation vers Montbartier', 'Difficultés dans la gestion des circulations en Ile-de-France']"
+2020-02-06,intercites,Paris-Clermont,"['Panne de signalisation entre La Charité et Nevers', 'Passage à niveau en dérangement vers Nogent-sur-Vernisson', 'Panne sur une voiture à Riom']"
+2020-02-06,intercites,Bordeaux-Marseille,"['Dérangement de passage à niveau à Lézignan', 'Pannes de matériels à Marseille', 'Pannes de signalisation à Nîmes et Langon', 'Panne sur un aiguillage à St-Martin-de-Crau']"
+2020-02-06,intercites,Nantes-Bordeaux,
+2020-02-06,intercites,Nantes-Lyon,"[""Difficultés dans la gestion des circulations sur l'agglomération lyonnaise""]"
+2020-02-06,intercites,Toulouse-Bayonne,"['Vitesse limitée entre Bayonne et Pau suite à la présence de givre sur les caténaires', 'Réutilisations de matériels retardés en ligne à Toulouse']"
+2020-02-06,intercites,Clermont-Béziers,
+2020-02-06,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2020-02-06,intercites,Paris-Rouen-Le Havre,
+2020-02-06,intercites,Paris-Granville,
+2020-02-06,intercites,Caen-Le Mans-Tours,
+2020-02-06,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Intervention Pompiers pour une suspicion de fuite de matières dangereuses sur un train de marchandises à Villeperdue']
+2020-02-06,intercites,Paris-Briançon,"['Difficultés dans la gestion des circulations sur Bourgogne Franche-Comté', 'Passage à niveau en dérangement à St Florentin']"
