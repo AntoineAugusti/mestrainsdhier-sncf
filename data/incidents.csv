@@ -2384,3 +2384,48 @@ date,famille_transport,ligne,incidents
 2020-02-08,intercites,Caen-Le Mans-Tours,
 2020-02-08,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Intervention des forces de Police à Perpignan']
 2020-02-08,intercites,Paris-Briançon,['Difficultés dans la gestion des circulations sur Bourgogne Franche-Comté']
+2020-02-09,transilien,A,
+2020-02-09,transilien,B,
+2020-02-09,transilien,C,
+2020-02-09,transilien,D,['Tempête Ciara.\n=> Interruption entre Juvisy et Corbeil via Ris-Orangis pour arbres sur la caténaire.\n=> Arbre sur la voie à Boutigny.\n=> Difficultés de circulations entre Creil et Goussainville pour incidents électriques']
+2020-02-09,transilien,E,
+2020-02-09,transilien,H,"[""Tempête Ciara.\n=> Interruption entre Epinay-Villetaneuse et Persan-Beaumont/Luzarches pour arbres sur la caténaire à Ecouen et à Presles.\n=> Interruption entre Creil et Persan pour un incident électrique près de St-Leu-d'Esserent,""]"
+2020-02-09,transilien,J,
+2020-02-09,transilien,K,
+2020-02-09,transilien,L,"[""Effondrement d'un talus à Sèvres-Ville-d'Avray depuis mardi. Interruption entre St-Cloud et Versailles-RD"", ""Tempête Ciara.\n=> Interruption entre Val-d'Or et St-Nom pour arbres sur les caténaires à Vaucresson.""]"
+2020-02-09,transilien,N,"[""Tempête Ciara\n=> perturbation de l'alimentation électrique par des objets et branches dans les caténaires sur axes Dreux et Rambouillet.""]"
+2020-02-09,transilien,P,"[""Tempête Ciara.\n=> Interruption entre Meaux et La Ferté-Milon pour arbres sur la voie près de Crouy-sur-Ourcq.\n=> Détresse d'un train pour arbre sur la caténaire entre Vaires et Lagny.\n=> Interruption entre Meaux et Château-Thierry pour arbres sur les caténaires.\n=> Interruption entre Rosny-sous-Bois et Rosny-Bois-Perrier pour arrachement de caténaire""]"
+2020-02-09,transilien,R,
+2020-02-09,transilien,U,"[""Effondrement d'un talus à Sèvres-Ville-d'Avray depuis mardi. Interruption des circulations sur l'ensemble de la ligne.""]"
+2020-02-09,transilien,T4,"[""Tempête Ciara.\n=> Panne d'alimentation électrique sur la ligne.""]"
+2020-02-09,transilien,T11,"[""Difficultés d'exploitation""]"
+2020-02-09,ter,Grand Est,
+2020-02-09,ter,Nouvelle-Aquitaine,
+2020-02-09,ter,Auvergne-Rhône-Alpes,
+2020-02-09,ter,Bourgogne-Franche-Comté,"[""*Chute d'arbres et de branches sur plusieurs lignes de Bourgogne Franche-Comté (19 TER retardés) suite à la tempête CIARA""]"
+2020-02-09,ter,Bretagne,"[""Chute d'arbres et de branches sur plusieurs lignes de Bretagne (6 TER retardés) suite à la tempête CIARA""]"
+2020-02-09,ter,Centre-Val de Loire,"[""Chute d'arbres et de branches sur plusieurs lignes de Centre (21 TER retardés) suite à la tempête CIARA""]"
+2020-02-09,ter,Occitanie,
+2020-02-09,ter,Hauts-de-France,"[""Chute d'arbres et de branches sur plusieurs lignes de Hauts de France (66 TER retardés) suite à la tempête CIARA""]"
+2020-02-09,ter,Normandie,"[""chute d'arbres et de branches sur plusieurs lignes de Normandie (19 TER retardés) suite à la tempête CIARA""]"
+2020-02-09,ter,Pays de la Loire,
+2020-02-09,ter,Provence-Alpes-Côte d'Azur,
+2020-02-09,tgv,nord,['Conséquences tempête Ciara']
+2020-02-09,tgv,est,['Conséquences tempête Ciara']
+2020-02-09,tgv,atlantique,
+2020-02-09,tgv,sudest,
+2020-02-09,tgv,ouigo,['Conséquences tempête Ciara']
+2020-02-09,tgv,europe,
+2020-02-09,intercites,Paris-Limoges-Toulouse,['Panne de signalisation entre Brive et Allassac']
+2020-02-09,intercites,Paris-Clermont,"[""Tempête Ciara: pièces d'installations fixes SNCF sur les voies à Paris Bercy"", ""Problème de fermeture de portes sur la rame d'un train à Clermont-Ferrand""]"
+2020-02-09,intercites,Bordeaux-Marseille,
+2020-02-09,intercites,Nantes-Bordeaux,
+2020-02-09,intercites,Nantes-Lyon,['Tempête Ciaira: arbre sur les voies à Selle-sur-Cher']
+2020-02-09,intercites,Toulouse-Bayonne,"['Panne de signalisation entre Tournay et Tarbes', 'Incendie aux abords des voies entre Lourdes et Pau']"
+2020-02-09,intercites,Clermont-Béziers,
+2020-02-09,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['TER']
+2020-02-09,intercites,Paris-Rouen-Le Havre,['TER']
+2020-02-09,intercites,Paris-Granville,['TER']
+2020-02-09,intercites,Caen-Le Mans-Tours,
+2020-02-09,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Difficultés dans la gestion des circulations sur Limousin']
+2020-02-09,intercites,Paris-Briançon,['Affluence voyageurs à Montdauphin-Guillestre']
