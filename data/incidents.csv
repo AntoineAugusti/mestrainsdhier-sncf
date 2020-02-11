@@ -2429,3 +2429,48 @@ date,famille_transport,ligne,incidents
 2020-02-09,intercites,Caen-Le Mans-Tours,
 2020-02-09,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Difficultés dans la gestion des circulations sur Limousin']
 2020-02-09,intercites,Paris-Briançon,['Affluence voyageurs à Montdauphin-Guillestre']
+2020-02-10,transilien,A,"[""Rupture de caténaire entre Maisons-Laffitte et Achères-Ville après la chute d'un arbre"", ""Chute d'arbre sur les caténaires à Houilles-Carrières""]"
+2020-02-10,transilien,B,"[""Perte d'alimentation électrique à Mitry"", 'Tôles sur la voie à Sevran-Livry', ""Personne sur les voies dans l'avant-gare de Paris-Nord"", ""Panne d'une rame à Gare-du-Nord"", 'Dérangement de signalisation à Gare-du-Nord']"
+2020-02-10,transilien,C,"[""Chute d'arbre sur les caténaire à Meudon-Val-Fleury"", ""Chute d'arbre sur la voie à Igny"", ""Chute d'arbre sur la voie à Pierrelaye""]"
+2020-02-10,transilien,D,"[""Personne sur les voies dans l'avant-gare de Paris-Nord"", ""Panne d'une rame du RER B à Gare-du-Nord"", 'Dérangement de signalisation à Gare-du-Nord']"
+2020-02-10,transilien,E,"[""Chute d'arbres sur les caténaires entre Ozoir-la-Ferrière et Roissy-en-Brie""]"
+2020-02-10,transilien,H,"[""Rupture de caténaire entre Montsoult-Maffliers et Persan-Beaumont après la chute d'un arbre"", ""Chute d'arbre sur la voie entre  Montsoult-Maffliers  et Luzarches"", ""Chute d'arbre sur la voie à Pierrelaye"", ""Personne sur les voies dans l'avant-gare de Paris-Nord""]"
+2020-02-10,transilien,J,"[""Chute d'arbre sur les caténaires à Houilles-Carrières"", 'Pantographe arraché sur une rame à Us']"
+2020-02-10,transilien,K,"[""Perte d'alimentation électrique à Mitry"", 'Tôles sur la voie à Sevran-Livry', ""Personne sur les voies dans l'avant-gare de Paris-Nord"", ""Dérangement d'un aiguillage à Paris-Nord""]"
+2020-02-10,transilien,L,"[""Rupture de caténaire entre Maisons-Laffitte et Achères-Ville après la chute d'un arbre"", ""Chute d'arbre sur les caténaires à Houilles-Carrières"", ""Effondrement d'un talus à Sèvres-Ville-d'Avray depuis mardi. Interruption entre St-Cloud et Versailles-RD""]"
+2020-02-10,transilien,N,"['Bâches dans les caténaires à Villepreux-les-Clayes', 'Avarie à la caténaire à Beynes']"
+2020-02-10,transilien,P,"['Chute de plusieurs arbres entre Meaux et Château-Thierry', ""Chute d'arbres sur les caténaires entre Ozoir-la-Ferrière et Roissy-en-Brie""]"
+2020-02-10,transilien,R,"['Trains de reconnaissance des installations entre Moret et Montargis', 'Conséquences de retards de trains avant leur arrivée en Ile-de-France']"
+2020-02-10,transilien,U,"[""Effondrement d'un talus à Sèvres-Ville-d'Avray depuis mardi. Interruption des circulations sur l'ensemble de la ligne.""]"
+2020-02-10,transilien,T4,['Pannes de rames et rames immobilisées en maintenance']
+2020-02-10,transilien,T11,['Personne sur les voies. Intervention de police']
+2020-02-10,ter,Grand Est,
+2020-02-10,ter,Nouvelle-Aquitaine,"['Limitation de la vitesse des trains suite aux vents violents (27 TER retardés)', 'Panne informatique à Libourne (7 TER retardés)', 'Ralentissement des trains à Mignaloux-Noyers suite à risque de chute de rochers sur la voie (7 TER retardés)']"
+2020-02-10,ter,Auvergne-Rhône-Alpes,
+2020-02-10,ter,Bourgogne-Franche-Comté,"[""Nombreuses chutes de branches/d'arbres sur les voies et caténaires suite à la tempête Ciara""]"
+2020-02-10,ter,Bretagne,"['Pannes de signalisation à Montauban de Bretagne (6 TER retardés) et à Redon (6 TER retardés)', 'Chute de branche sur la voie à Landerneau (5 TER retardés)']"
+2020-02-10,ter,Centre-Val de Loire,"[""Nombreuses chutes de branches/d'arbres sur les voies et caténaires suite à la tempête Ciara""]"
+2020-02-10,ter,Occitanie,
+2020-02-10,ter,Hauts-de-France,"[""Nombreuses chutes de branches/d'arbres sur les voies et caténaires suite à la tempête Ciara""]"
+2020-02-10,ter,Normandie,"[""Nombreuses chutes de branches/d'arbres sur les voies et caténaires suite à la tempête Ciara""]"
+2020-02-10,ter,Pays de la Loire,
+2020-02-10,ter,Provence-Alpes-Côte d'Azur,
+2020-02-10,tgv,nord,['Conséquences tempête Ciara']
+2020-02-10,tgv,est,['Conséquences tempête Ciara']
+2020-02-10,tgv,atlantique,['Conséquences tempête Ciara']
+2020-02-10,tgv,sudest,['Conséquences tempête Ciara']
+2020-02-10,tgv,ouigo,['Conséquences Tempête Ciara']
+2020-02-10,tgv,europe,['Tempête Ciara']
+2020-02-10,intercites,Paris-Limoges-Toulouse,"['Tempête Ciara:', 'Câble ENEDIS tombé sur la caténaire à Salbris', 'Arbre tombé sur les voies à Lamotte Beuvron', ""Heurt d'une pancarte de chantier déplacée par le vente à Château-Gaillard""]"
+2020-02-10,intercites,Paris-Clermont,['Tempête Ciara: plusieurs arbres tombés sur les caténaires entre Nevers et Cosne']
+2020-02-10,intercites,Bordeaux-Marseille,"['Attente correspondance à Bordeaux', 'Procédure bagage abandonné à Marseille', 'Difficultés dans la gestion des circulations sur Midi-Pyrénées et sur Languedoc Roussillon']"
+2020-02-10,intercites,Nantes-Bordeaux,
+2020-02-10,intercites,Nantes-Lyon,['Difficultés dans la gestion des circulations entre Moulins-sur-Allier et Vierzon suite aux détournements des trains Paris - Clermont pour cause de tempête Ciara']
+2020-02-10,intercites,Toulouse-Bayonne,
+2020-02-10,intercites,Clermont-Béziers,['Vitesse limitée entre Marvejols et Bédarieux suite à travaux de modernisation des voies']
+2020-02-10,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['TER']
+2020-02-10,intercites,Paris-Rouen-Le Havre,['TER']
+2020-02-10,intercites,Paris-Granville,['TER']
+2020-02-10,intercites,Caen-Le Mans-Tours,
+2020-02-10,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Panne de locomotive au départ de Cerbère', 'Difficultés dans les manœuvres à Brive', 'Intervention Pompiers pour un voyageur malade à Limoges', 'Tempête Ciara sur Centre Val de Loire']"
+2020-02-10,intercites,Paris-Briançon,['Passage à niveau en dérangement entre Die et Aspres']
