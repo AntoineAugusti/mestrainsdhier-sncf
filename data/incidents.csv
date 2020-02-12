@@ -2474,3 +2474,48 @@ date,famille_transport,ligne,incidents
 2020-02-10,intercites,Caen-Le Mans-Tours,
 2020-02-10,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Panne de locomotive au départ de Cerbère', 'Difficultés dans les manœuvres à Brive', 'Intervention Pompiers pour un voyageur malade à Limoges', 'Tempête Ciara sur Centre Val de Loire']"
 2020-02-10,intercites,Paris-Briançon,['Passage à niveau en dérangement entre Die et Aspres']
+2020-02-11,transilien,A,"[""Panne d'un train à Neuilly sur Marne"", ""Panne d'un train à Cergy Préfecture""]"
+2020-02-11,transilien,B,"['Train mal dirigé à Châtelet. RER B envoyé à Paris gare de Lyon au lieu de St Michel Notre Dame', 'Panne de signalisation au Bourget']"
+2020-02-11,transilien,C,"['Présence de personne dans les voies entre Champs de Mars et Avenue du Président Kennedy', 'Panne de signalisation à Invalides']"
+2020-02-11,transilien,D,"['Train mal dirigé à Châtelet. RER B envoyé à Paris gare de Lyon au lieu de St Michel Notre Dame', ""Panne d'un train à Paris gare de Lyon""]"
+2020-02-11,transilien,E,['Suite de la tempête CIARA avec présence de branches sur un train à Noisy le Sec']
+2020-02-11,transilien,H,
+2020-02-11,transilien,J,['Présence de personne dans les voies à Paris Batignolles']
+2020-02-11,transilien,K,['Panne de signalisation à Paris Nord']
+2020-02-11,transilien,L,"[""Glissement de terrain à Sèvres Ville d'Avray""]"
+2020-02-11,transilien,N,
+2020-02-11,transilien,P,"[""Suite de la tempête CIARA avec présence d'arbres sur la caténaire entre Trilport et Château Thierry""]"
+2020-02-11,transilien,R,"['Changement de rame au départ de Paris gare de Lyon', ""Attente du passage d'un train de marchandises à Montereau""]"
+2020-02-11,transilien,U,"[""Absence de donnée suite au glissement de terrain à Sèvres Ville d'Avray""]"
+2020-02-11,transilien,T4,
+2020-02-11,transilien,T11,
+2020-02-11,ter,Grand Est,
+2020-02-11,ter,Nouvelle-Aquitaine,
+2020-02-11,ter,Auvergne-Rhône-Alpes,
+2020-02-11,ter,Bourgogne-Franche-Comté,"['Panne matériel sur un train à Gevrey-Chambertin (9 TER retardés)', ""Chute d'arbres dans les voies à Lure (8 TER retardés)""]"
+2020-02-11,ter,Bretagne,['Attente personnel de bord sur un TGV à Rennes (6 TER retardés)']
+2020-02-11,ter,Centre-Val de Loire,
+2020-02-11,ter,Occitanie,
+2020-02-11,ter,Hauts-de-France,"['Nombreux incidents résiduels liés aux conséquences de la tempête Ciara (plusieurs dizaines de TER retardés).', 'Incident caténaire à Mont de Terre (31 TER retardés)']"
+2020-02-11,ter,Normandie,"['Incident caténaire à Lison (11 TER retardés)', 'Ralentissement suite à travaux dans les voies à Mézidon (6 TER retardés)']"
+2020-02-11,ter,Pays de la Loire,
+2020-02-11,ter,Provence-Alpes-Côte d'Azur,
+2020-02-11,tgv,nord,"['Bagage abandonné à Marne la Vallée (13 trains)', ""Dérangement d'installations à Ressons (8 trains)""]"
+2020-02-11,tgv,est,"['Restitution tardive de travaux à Beugnâtre', ""Panne d'un train à Steinbourg (5 trains)""]"
+2020-02-11,tgv,atlantique,
+2020-02-11,tgv,sudest,
+2020-02-11,tgv,ouigo,"[""Panne d'un train à Rouvray (8 trains)"", ""Panne d'un train à Miribel (12 trains)""]"
+2020-02-11,tgv,europe,"['Bagage abandonné à Marne la Vallée (2 trains)', ""Dérangement d'installations à Ressons (2 trains)"", 'Restitution tardive de travaux à Beugnâtre (2 trains)', ""Panne d'un train à Steinbourg (2 trains)"", ""Panne d'un train à Miribel (2 trains)""]"
+2020-02-11,intercites,Paris-Limoges-Toulouse,
+2020-02-11,intercites,Paris-Clermont,"['Panne de matériel à Clermont-Ferrand', 'Intervention Pompiers pur un voyageur malade sur un Transilien à Nemours']"
+2020-02-11,intercites,Bordeaux-Marseille,"['Panne de locomotive à Bordeaux', 'Bris de barrières par un automobiliste sur un passage à niveau à Montbartier', 'Difficultés dans la gestion des circulations sur Midi-Pyrénées et sur Languedoc Roussillon']"
+2020-02-11,intercites,Nantes-Bordeaux,
+2020-02-11,intercites,Nantes-Lyon,
+2020-02-11,intercites,Toulouse-Bayonne,
+2020-02-11,intercites,Clermont-Béziers,"[""Panne d'un train entre Vic-sur-Cère et Le Lioran""]"
+2020-02-11,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['TER']
+2020-02-11,intercites,Paris-Rouen-Le Havre,['TER']
+2020-02-11,intercites,Paris-Granville,['TER']
+2020-02-11,intercites,Caen-Le Mans-Tours,
+2020-02-11,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-11,intercites,Paris-Briançon,"[""Attente du taxi pour la relève de l'Agent du Service Commercial Train à Lyon Part Dieu""]"
