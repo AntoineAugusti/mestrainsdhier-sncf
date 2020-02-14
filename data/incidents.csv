@@ -2564,3 +2564,48 @@ date,famille_transport,ligne,incidents
 2020-02-12,intercites,Caen-Le Mans-Tours,['TER']
 2020-02-12,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-12,intercites,Paris-Briançon,
+2020-02-13,transilien,A,"['Malaise voyageur dans un train à Neuilly Plaisance', 'Panne de la radio sol train à Marne la Vallée Chessy', 'Malaise voyageur dans un train à Vincennes']"
+2020-02-13,transilien,B,"[""Panne d'un train au départ de Mitry"", ""Signal d'alarme sans cause au départ d'un train à Roissy Aéroport 2"", ""Panne d'un train en gare du Bourget""]"
+2020-02-13,transilien,C,['Bagage abandonné dans un train à Choisy le Roi']
+2020-02-13,transilien,D,
+2020-02-13,transilien,E,['Rail fissuré à Nogent le Perreux']
+2020-02-13,transilien,H,"[""Rail fissuré avant la gare d'Epinay Villetaneuse"", ""Arbre tombé sur la caténaire après la gare d'Ermont Eaubonne""]"
+2020-02-13,transilien,J,
+2020-02-13,transilien,K,"[""Panne d'un train au départ de Mitry""]"
+2020-02-13,transilien,L,"[""Glissement de terrain à Sèvres Ville d'Avray""]"
+2020-02-13,transilien,N,
+2020-02-13,transilien,P,"['Rail fissuré à Nogent le Perreux', 'Prolongement des travaux de nuit à Meaux']"
+2020-02-13,transilien,R,"['Train mal dirigé à Villeneuve St Georges', ""Mise à quai tardive d'un train pour attente du passage d'un autre train""]"
+2020-02-13,transilien,U,
+2020-02-13,transilien,T4,
+2020-02-13,transilien,T11,
+2020-02-13,ter,Grand Est,
+2020-02-13,ter,Nouvelle-Aquitaine,"[""Franchissement d'un signal ferme par une manœuvre en gare de Bordeaux (10 TER retardés)"", ""Découverte d'un corps dans les voies entre Bordeaux et Langon (12 TER retardés)""]"
+2020-02-13,ter,Auvergne-Rhône-Alpes,
+2020-02-13,ter,Bourgogne-Franche-Comté,
+2020-02-13,ter,Bretagne,"[""Heurt d'un arbre tombé sur la voie par un train à  Quemeneven (8 TER retardés)""]"
+2020-02-13,ter,Centre-Val de Loire,['Bagage abandonné dans un train à Choisy le Roy (26 TER retardés)']
+2020-02-13,ter,Occitanie,
+2020-02-13,ter,Hauts-de-France,"[""Rail fissuré avant la gare d'Epinay-Villetaneuse (26 TER retardés)"", 'Présence de personnes dans les voies à St Denis (15 TER impactes)']"
+2020-02-13,ter,Normandie,"['Panne sur un passage à niveau à St Victor (8 TER impactes)', 'Incident caténaire à Valognes (6 TER retardés)']"
+2020-02-13,ter,Pays de la Loire,
+2020-02-13,ter,Provence-Alpes-Côte d'Azur,['présence de manifestants dans les voies en gare de Marseille St Charles (49 TER retardés)']
+2020-02-13,tgv,nord,['Défaut de géométrie au niveau de Beuvraignes']
+2020-02-13,tgv,est,
+2020-02-13,tgv,atlantique,"['Dérangement des installations entre Montauban et Montbartier', 'Défaut de géométrie sur LGV SEA']"
+2020-02-13,tgv,sudest,"['Manifestants sur les voies à Marseille', 'Personne sur les  voies au niveau de Sathonay']"
+2020-02-13,tgv,ouigo,['Manifestations sur les voies à        * Défaut de géométrie sur LGV SEA']
+2020-02-13,tgv,europe,['Mise à quai tardives en gare de Paris Gare de Lyon']
+2020-02-13,intercites,Paris-Limoges-Toulouse,
+2020-02-13,intercites,Paris-Clermont,
+2020-02-13,intercites,Bordeaux-Marseille,"[""Découverte d'un corps dans les voies entre Bordeaux et Langon"", 'Plusieurs pannes de signalisation et de passages à niveau entre Toulouse et Montauban', ""Franchissement d'un signal fermé par une manœuvre en gare de Bordeaux"", 'Présence de manifestants dans les voies en gare de Marseille St Charles']"
+2020-02-13,intercites,Nantes-Bordeaux,
+2020-02-13,intercites,Nantes-Lyon,
+2020-02-13,intercites,Toulouse-Bayonne,['Panne de signalisation entre Tarbes et Tournay']
+2020-02-13,intercites,Clermont-Béziers,
+2020-02-13,intercites,Paris-Caen-Cherbourg Trouville/Deauville,['TER']
+2020-02-13,intercites,Paris-Rouen-Le Havre,['TER']
+2020-02-13,intercites,Paris-Granville,['TER']
+2020-02-13,intercites,Caen-Le Mans-Tours,['TER']
+2020-02-13,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-13,intercites,Paris-Briançon,['Conflits de circulation entre Dijon et Briançon']
