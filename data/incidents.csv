@@ -2609,3 +2609,48 @@ date,famille_transport,ligne,incidents
 2020-02-13,intercites,Caen-Le Mans-Tours,['TER']
 2020-02-13,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-13,intercites,Paris-Briançon,['Conflits de circulation entre Dijon et Briançon']
+2020-02-14,transilien,A,"[""Malaise d'un voyageur dans un train en gare de Maisons Laffitte.""]"
+2020-02-14,transilien,B,
+2020-02-14,transilien,C,
+2020-02-14,transilien,D,
+2020-02-14,transilien,E,"['Incident sur la voie entre les gares de Nogent le Perreux et Les Boullereaux.', 'Panne de signalisation à Emerainville.']"
+2020-02-14,transilien,H,['Prolongation des travaux de nuit à Epinay Villetaneuse.']
+2020-02-14,transilien,J,"['Panne de signalisation en gare de Paris St Lazare.', ""Panne d'alimentation électrique à Eragny.""]"
+2020-02-14,transilien,K,
+2020-02-14,transilien,L,
+2020-02-14,transilien,N,['Accident grave de voyageur en gare de St-Quentin-en-Yvelines.']
+2020-02-14,transilien,P,
+2020-02-14,transilien,R,"[""Panne d'un train à Bois-le-Roi.""]"
+2020-02-14,transilien,U,"[""Glissement du talus à Sèvres Ville d'Avray.""]"
+2020-02-14,transilien,T4,
+2020-02-14,transilien,T11,"[""Panne de signalisation sur l'ensemble de la ligne.""]"
+2020-02-14,ter,Grand Est,
+2020-02-14,ter,Nouvelle-Aquitaine,
+2020-02-14,ter,Auvergne-Rhône-Alpes,
+2020-02-14,ter,Bourgogne-Franche-Comté,"[""Conséquences de la panne d'un train Transilien à Bois-le-Roi (9 TER retardés).""]"
+2020-02-14,ter,Bretagne,
+2020-02-14,ter,Centre-Val de Loire,
+2020-02-14,ter,Occitanie,"[""Accident routier à proximité d'un passage à niveau à Pamiers (11 TER retardés)."", 'Panne sur un aiguillage à Lattes (7 TER retardés).']"
+2020-02-14,ter,Hauts-de-France,
+2020-02-14,ter,Normandie,['Panne de signalisation à Conflans-Ste Honorine (13 TER retardés).']
+2020-02-14,ter,Pays de la Loire,
+2020-02-14,ter,Provence-Alpes-Côte d'Azur,['Panne de signalisation à St-Martin-du-Crau suite à acte de malveillance (incendie d’une guérite d’installations) (39 TER impactés).']
+2020-02-14,tgv,nord,"[""Signal d'alarme sur le TGV 9838 en gare de TGV Haute Picardie (9 TGV retardés)""]"
+2020-02-14,tgv,est,
+2020-02-14,tgv,atlantique,['Prolongation des travaux à Sablé (10 TGV retardés).']
+2020-02-14,tgv,sudest,
+2020-02-14,tgv,ouigo,['Temps supplémentaire nécessaire\nà la préparation des rames (5 Ouigo retardés).']
+2020-02-14,tgv,europe,['Entrée tardive sur le réseau français de 2 TGV.']
+2020-02-14,intercites,Paris-Limoges-Toulouse,"[""Chute d'une voiture sur les voies entre Uzerche et Brive."", 'Pannes sur plusieurs trains à Paris-Austerlitz.']"
+2020-02-14,intercites,Paris-Clermont,"[""Conséquences de la panne d'un train Transilien à Bois-le-Roi."", 'Panne électrique à Gien.', 'Défaillance touchant les voies à St Germain Les Fossés.']"
+2020-02-14,intercites,Bordeaux-Marseille,"['Panne de signalisation à Miramas.', ""Panne d'un passage à niveau à Montbartier."", ""Mise à quai tardive d'un train à Bordeaux."", ""Attentes d'un contrôleur à Nîmes et d'un conducteur à Marseille.""]"
+2020-02-14,intercites,Nantes-Bordeaux,
+2020-02-14,intercites,Nantes-Lyon,"[""Panne d'un train à Roanne.""]"
+2020-02-14,intercites,Toulouse-Bayonne,
+2020-02-14,intercites,Clermont-Béziers,"[""Panne d'un passage à niveau entre Arvant et Issoire.""]"
+2020-02-14,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2020-02-14,intercites,Paris-Rouen-Le Havre,
+2020-02-14,intercites,Paris-Granville,
+2020-02-14,intercites,Caen-Le Mans-Tours,
+2020-02-14,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-14,intercites,Paris-Briançon,"[""Panne d'un train à Valence.""]"
