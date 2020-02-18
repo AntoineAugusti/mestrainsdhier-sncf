@@ -2744,3 +2744,48 @@ date,famille_transport,ligne,incidents
 2020-02-16,intercites,Caen-Le Mans-Tours,
 2020-02-16,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-16,intercites,Paris-Briançon,
+2020-02-17,transilien,A,
+2020-02-17,transilien,B,
+2020-02-17,transilien,C,
+2020-02-17,transilien,D,
+2020-02-17,transilien,E,"[""Présence d'une bâche de chantier à proximité de la caténaire à Rosny-Bois-Perrier.""]"
+2020-02-17,transilien,H,
+2020-02-17,transilien,J,['Incident sur une rame TER en gare à Paris-St-Lazare. Par mesure de sécurité les voies 18 à 22 ne sont pas utilisables pendant 2h nécessitant l’allègement de la ligne J.']
+2020-02-17,transilien,K,"[""Conséquences de la tempête Dennis, présence d'un arbre sur les installations caténaire entre Dammartin et le Plessis.""]"
+2020-02-17,transilien,L,
+2020-02-17,transilien,N,
+2020-02-17,transilien,P,
+2020-02-17,transilien,R,"[""Sortie tardive des ateliers d'un train pour besoin de maintenance.""]"
+2020-02-17,transilien,U,"[""Glissement du talus à Sèvres Ville d'Avray.""]"
+2020-02-17,transilien,T4,['Plusieurs pannes de matériel.']
+2020-02-17,transilien,T11,
+2020-02-17,ter,Grand Est,
+2020-02-17,ter,Nouvelle-Aquitaine,
+2020-02-17,ter,Auvergne-Rhône-Alpes,
+2020-02-17,ter,Bourgogne-Franche-Comté,
+2020-02-17,ter,Bretagne,"['Heurt d’un chevreuil par un train à Séverac (8 TER retardés).', 'Chute d’un arbre à proximité de la voie entre Rennes et St Malo (7 TER retardés).']"
+2020-02-17,ter,Centre-Val de Loire,
+2020-02-17,ter,Occitanie,['Accident de personne à Lunel (19 TER impactés).']
+2020-02-17,ter,Hauts-de-France,"['Incident caténaire à Le Plessis Belleville (15 TER impactés).', 'Panne de signalisation à Le Quesnoy suite au sectionnement des câbles par une entreprise de BTP (40 TER impactés).']"
+2020-02-17,ter,Normandie,['Difficultés lors de la réalisation d’une manœuvre à Paris St Lazare (15 TER impactés).']
+2020-02-17,ter,Pays de la Loire,
+2020-02-17,ter,Provence-Alpes-Côte d'Azur,
+2020-02-17,tgv,nord,"['Défaut de géométrie de la voie au niveau de Beuvraignes (4 TGV retardés).', 'Retard lors de la préparation des rames (4 TGV retardés).']"
+2020-02-17,tgv,est,
+2020-02-17,tgv,atlantique,
+2020-02-17,tgv,sudest,
+2020-02-17,tgv,ouigo,"['Accident de personne à Montpellier (2 Ouigo retardés).', 'Bagage abandonné à Marseille (1 Ouigo retardé).']"
+2020-02-17,tgv,europe,['Accident de personne à Montpellier (2 TGV retardés).']
+2020-02-17,intercites,Paris-Limoges-Toulouse,
+2020-02-17,intercites,Paris-Clermont,"[""Panne d'un passage à niveau à Nogent-sur-Vernisson."", ""Conséquences d'une branche dans la caténaire entre La Ferté-Hauterive.""]"
+2020-02-17,intercites,Bordeaux-Marseille,"['Accident de personne à Montpellier.', ""Conséquences de l'incendie volontaire d'une armoire électrique à St-Martin-de-Crau le 14/02.""]"
+2020-02-17,intercites,Nantes-Bordeaux,"[""Conséquences d'un accident routier sur un passage à niveau à Bursac.""]"
+2020-02-17,intercites,Nantes-Lyon,"['Affluence de voyageurs à St-Pierre-des-Corps retardant le départ du train.', ""Conséquences d'une branche dans la caténaire entre La Ferté-Hauterive.""]"
+2020-02-17,intercites,Toulouse-Bayonne,['Panne de signalisation à Tarbes.']
+2020-02-17,intercites,Clermont-Béziers,
+2020-02-17,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2020-02-17,intercites,Paris-Rouen-Le Havre,
+2020-02-17,intercites,Paris-Granville,
+2020-02-17,intercites,Caen-Le Mans-Tours,
+2020-02-17,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-17,intercites,Paris-Briançon,['Restitution tardive de travaux entre Melun et Corbeil.']
