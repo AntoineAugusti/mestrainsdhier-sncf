@@ -2789,3 +2789,48 @@ date,famille_transport,ligne,incidents
 2020-02-17,intercites,Caen-Le Mans-Tours,
 2020-02-17,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-17,intercites,Paris-Briançon,['Restitution tardive de travaux entre Melun et Corbeil.']
+2020-02-18,transilien,A,
+2020-02-18,transilien,B,
+2020-02-18,transilien,C,
+2020-02-18,transilien,D,
+2020-02-18,transilien,E,"[""Problème technique sur les portes d'une rame à Pantin.""]"
+2020-02-18,transilien,H,['Bagage oublié suspect à Paris-Nord.']
+2020-02-18,transilien,J,
+2020-02-18,transilien,K,
+2020-02-18,transilien,L,
+2020-02-18,transilien,N,
+2020-02-18,transilien,P,
+2020-02-18,transilien,R,"[""Malaise d'un voyageur sur le RER D à Maisons-Alfort."", 'Mises en place tardives des rames à Paris-Gare de Lyon et Montereau.']"
+2020-02-18,transilien,U,
+2020-02-18,transilien,T4,['Rames immobilisées en maintenance.']
+2020-02-18,transilien,T11,
+2020-02-18,ter,Grand Est,
+2020-02-18,ter,Nouvelle-Aquitaine,
+2020-02-18,ter,Auvergne-Rhône-Alpes,
+2020-02-18,ter,Bourgogne-Franche-Comté,
+2020-02-18,ter,Bretagne,
+2020-02-18,ter,Centre-Val de Loire,
+2020-02-18,ter,Occitanie,
+2020-02-18,ter,Hauts-de-France,"[""Présence d'un colis suspect à Paris Nord (13 TER impactés)."", 'Problème technique sur un train de marchandises à La Faloise (25 TER impactés).', ""Problème d'alimentation de la caténaire à Aulnoye (20 TER retardés).""]"
+2020-02-18,ter,Normandie,['Colis suspect à Paris St-Lazare (6 TER impactés).']
+2020-02-18,ter,Pays de la Loire,
+2020-02-18,ter,Provence-Alpes-Côte d'Azur,['Accident de personne à Nice (39 TER impactés).']
+2020-02-18,tgv,nord,
+2020-02-18,tgv,est,"[""Problème technique sur le poste d'aiguillage de Tilloy et Bellay (6 TGV retardés).""]"
+2020-02-18,tgv,atlantique,
+2020-02-18,tgv,sudest,"['Arbre sur la caténaire à Bourgoin-Jallieu (8 TGV retardés).', 'Accident de personne à Nice (4 TGV retardés).', 'Difficultés de sortie du Technicentre de Paris Sud-Est (3 TGV retardés).']"
+2020-02-18,tgv,ouigo,"[""Panne d'une rame en gare de Paris  Est (2 Ouigo retardés)."", ""Problème technique sur le poste d'aiguillage de Tilloy et Bellay (1 Ouigo).""]"
+2020-02-18,tgv,europe,"[""Problème technique sur le poste d'aiguillage de Tilloy et Bellay (4 TGV retardés)."", 'Manifestants sur les voies de la gare de Mulhouse (2 TGV retardés).']"
+2020-02-18,intercites,Paris-Limoges-Toulouse,
+2020-02-18,intercites,Paris-Clermont,
+2020-02-18,intercites,Bordeaux-Marseille,"[""Conséquence d'un incendie volontaire d'une armoire électrique à St Martin de Crau le 14/02."", 'Panne de signalisation à Villefranche de Lauragais.', ""Panne d'un train en gare de Lézignan."", ""Intervention des forces de l'ordre à Béziers pour un voyageur sans titre de transport."", ""Retards liés à l'agression d'un contrôleur dans un TER à Agde.""]"
+2020-02-18,intercites,Nantes-Bordeaux,
+2020-02-18,intercites,Nantes-Lyon,
+2020-02-18,intercites,Toulouse-Bayonne,
+2020-02-18,intercites,Clermont-Béziers,
+2020-02-18,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2020-02-18,intercites,Paris-Rouen-Le Havre,
+2020-02-18,intercites,Paris-Granville,
+2020-02-18,intercites,Caen-Le Mans-Tours,
+2020-02-18,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-18,intercites,Paris-Briançon,
