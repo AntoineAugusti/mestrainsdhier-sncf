@@ -2834,3 +2834,48 @@ date,famille_transport,ligne,incidents
 2020-02-18,intercites,Caen-Le Mans-Tours,
 2020-02-18,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-18,intercites,Paris-Briançon,
+2020-02-19,transilien,A,
+2020-02-19,transilien,B,['Personne sur les voies à Gare-du-Nord et alerte de sécurité persistante entre Gare-du-Nord et Châtelet.']
+2020-02-19,transilien,C,
+2020-02-19,transilien,D,"['Personne sur les voies à Gare-du-Nord et alerte de sécurité persistante entre Gare-du-Nord et Châtelet.', ""Chute d'un câble haute tension (RTE) sur les voies entre Corbeil-Essonnes et La Ferté-Alais.""]"
+2020-02-19,transilien,E,
+2020-02-19,transilien,H,
+2020-02-19,transilien,J,['Panne de la signalisation à Paris-Saint-Lazare.']
+2020-02-19,transilien,K,
+2020-02-19,transilien,L,
+2020-02-19,transilien,N,
+2020-02-19,transilien,P,
+2020-02-19,transilien,R,"['Problème technique sur une rame à Bois-le-Roi.', ""Mise à quai tardive d'un train à Gare-de-Lyon"", ""Conséquences des perturbations sur le RER D (chute d'un câble haute tension RTE sur les voies).""]"
+2020-02-19,transilien,U,
+2020-02-19,transilien,T4,
+2020-02-19,transilien,T11,
+2020-02-19,ter,Grand Est,
+2020-02-19,ter,Nouvelle-Aquitaine,
+2020-02-19,ter,Auvergne-Rhône-Alpes,
+2020-02-19,ter,Bourgogne-Franche-Comté,['Pannes de trains à Auxerre (4 TER impactés) et à Besançon (3 TER impactés).']
+2020-02-19,ter,Bretagne,
+2020-02-19,ter,Centre-Val de Loire,
+2020-02-19,ter,Occitanie,"[""Panne sur un poste d'aiguillage à Manduel (12 TER retardés)."", 'Panne sur un passage à niveau à Cintegabelle (6 TER retardés).']"
+2020-02-19,ter,Hauts-de-France,
+2020-02-19,ter,Normandie,"['Panne de signalisation à Evreux (5 TER retardés).', 'Difficultés de réalisation des manœuvres à Paris St Lazare (5 TER retardés).']"
+2020-02-19,ter,Pays de la Loire,
+2020-02-19,ter,Provence-Alpes-Côte d'Azur,"[""Conséquences d'un incendie volontaire sur une armoire électrique à St-Martin-de-Crau (13 TER impactés)."", ""Limitation de la vitesse des trains suite à un risque d'éboulement à Niolon (7 TER Impactés).""]"
+2020-02-19,tgv,nord,"['Défaut de géométrie de la voie à Beuvraignes (2 TGV retardés).', 'Intervention de la police à Roissy (2 TGV retardés).']"
+2020-02-19,tgv,est,"[""Problème technique au poste d'aiguillage de St Léger (2 TGV retardés).""]"
+2020-02-19,tgv,atlantique,
+2020-02-19,tgv,sudest,
+2020-02-19,tgv,ouigo,"['Défaut de géométrie de la voie à Beuvraignes (2 Ouigo retardés).', ""Problème technique au poste d'aiguillage de St Léger (3 Ouigo retardés)."", 'Bagage oublié à Paris Gare de Lyon (2 Ouigo retardés).']"
+2020-02-19,tgv,europe,
+2020-02-19,intercites,Paris-Limoges-Toulouse,"['Pannes de locomotive.', ""Panne d'installation au sol à Arthenay.""]"
+2020-02-19,intercites,Paris-Clermont,
+2020-02-19,intercites,Bordeaux-Marseille,"[""Conséquences d'un incendie volontaire sur une armoire électrique à St-Martin-de-Crau."", ""Coupure d'électricité d'ENEDIS qui provoque une panne temporaire de certaines installations."", 'Passage à niveau bloqué, barrières fermées, à Sète.']"
+2020-02-19,intercites,Nantes-Bordeaux,['Accident routier ayant provoqué des dégâts sur un passage à niveau entre Saintes et St Mariens.']
+2020-02-19,intercites,Nantes-Lyon,"[""Panne d'un train."", 'Affaissement du sol entre St-Pierre-le-Moutier et Saincaize.']"
+2020-02-19,intercites,Toulouse-Bayonne,"[""Panne d'une aiguille à Cazères."", 'Passage à niveau bloqué, barrières fermées, entre Muret et Cazères.']"
+2020-02-19,intercites,Clermont-Béziers,
+2020-02-19,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2020-02-19,intercites,Paris-Rouen-Le Havre,
+2020-02-19,intercites,Paris-Granville,
+2020-02-19,intercites,Caen-Le Mans-Tours,
+2020-02-19,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Espacement nécessaire avec un train de marchandises à Toulouse.']
+2020-02-19,intercites,Paris-Briançon,"['Passage à niveau bloqué, barrières fermées, à Flogny.']"
