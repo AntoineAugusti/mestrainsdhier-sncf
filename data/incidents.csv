@@ -2879,3 +2879,48 @@ date,famille_transport,ligne,incidents
 2020-02-19,intercites,Caen-Le Mans-Tours,
 2020-02-19,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,['Espacement nécessaire avec un train de marchandises à Toulouse.']
 2020-02-19,intercites,Paris-Briançon,"['Passage à niveau bloqué, barrières fermées, à Flogny.']"
+2020-02-20,transilien,A,
+2020-02-20,transilien,B,"[""Plan de transport adapté en raison d'un mouvement social"", 'Dégagement de fumée sur un équipement électrique à Gare du Nord']"
+2020-02-20,transilien,C,"[""Panne d'un aiguillage à Chaville-Vélizy""]"
+2020-02-20,transilien,D,"[""Plan de transport adapté en raison d'un mouvement social"", 'Incident électrique dans les garages de Paris Bercy', 'Dégagement de fumée sur un équipement électrique en Gare du Nord']"
+2020-02-20,transilien,E,
+2020-02-20,transilien,H,
+2020-02-20,transilien,J,
+2020-02-20,transilien,K,"[""Plan de transport adapté en raison d'un mouvement social""]"
+2020-02-20,transilien,L,"[""Chute d'arbre sur les caténaires à L'Etang-la-Ville""]"
+2020-02-20,transilien,N,
+2020-02-20,transilien,P,
+2020-02-20,transilien,R,['Incident électrique dans les garages de Paris Bercy']
+2020-02-20,transilien,U,
+2020-02-20,transilien,T4,['Avaries sur plusieurs rames']
+2020-02-20,transilien,T11,['Bagage oublié dans une rame au Bourget']
+2020-02-20,ter,Grand Est,
+2020-02-20,ter,Nouvelle-Aquitaine,
+2020-02-20,ter,Auvergne-Rhône-Alpes,
+2020-02-20,ter,Bourgogne-Franche-Comté,"['Incident de freinage sur un train de marchandises à Nuit St Georges (10 TER retardés)', 'incident électrique dans les garages de Paris Bercy (8 TER impactés)']"
+2020-02-20,ter,Bretagne,"[""Panne d'aiguillage à Messac-Guipry (9 TER impactés)""]"
+2020-02-20,ter,Centre-Val de Loire,"['incident électrique dans les garages de Paris Bercy (4 TER impactés)', 'panne sur un passage à niveau à Auneau (4 TER impactés)']"
+2020-02-20,ter,Occitanie,
+2020-02-20,ter,Hauts-de-France,
+2020-02-20,ter,Normandie,"[""chute d'un arbre sur la caténaire à Bolbec-Nointot (9 TER impactés)"", 'panne de train à Harfleur (5 TER impactés)']"
+2020-02-20,ter,Pays de la Loire,
+2020-02-20,ter,Provence-Alpes-Côte d'Azur,
+2020-02-20,tgv,nord,
+2020-02-20,tgv,est,
+2020-02-20,tgv,atlantique,
+2020-02-20,tgv,sudest,"[""Répercussions d'un incident électrique dans les garages de Paris Bercy (11 TGV retardés)""]"
+2020-02-20,tgv,ouigo,
+2020-02-20,tgv,europe,
+2020-02-20,intercites,Paris-Limoges-Toulouse,
+2020-02-20,intercites,Paris-Clermont,"['Attente de personnels à Paris Bercy', 'Fontis entre St Pierre le Moutier et Saincaize', ""Répercussions d'un incident électrique dans les garages de Paris Bercy""]"
+2020-02-20,intercites,Bordeaux-Marseille,"[""Conséquences d'un incendie volontaire d'une armoire électrique à St-Martin-de-Crau"", ""Présence d'un camion sur un passage à niveau à Moissac""]"
+2020-02-20,intercites,Nantes-Bordeaux,['Accident routier ayant provoqué des dommages aux installations ferroviaires à un passage à niveau vers Bussac']
+2020-02-20,intercites,Nantes-Lyon,['Passage à niveau endommagé par le passage en force d’une moto près de Roanne']
+2020-02-20,intercites,Toulouse-Bayonne,"[""Répercussions d'une procédure pour bagage abandonné dans un TGV"", 'Limitations de vitesses inopinées pour motif de sécurité entre Cazères et Boussens']"
+2020-02-20,intercites,Clermont-Béziers,
+2020-02-20,intercites,Paris-Caen-Cherbourg Trouville/Deauville,
+2020-02-20,intercites,Paris-Rouen-Le Havre,
+2020-02-20,intercites,Paris-Granville,
+2020-02-20,intercites,Caen-Le Mans-Tours,
+2020-02-20,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-20,intercites,Paris-Briançon,['Ralentissements suite à une panne de passage à niveau à Flogny']
