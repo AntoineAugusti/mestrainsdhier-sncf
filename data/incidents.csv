@@ -2924,3 +2924,44 @@ date,famille_transport,ligne,incidents
 2020-02-20,intercites,Caen-Le Mans-Tours,
 2020-02-20,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-20,intercites,Paris-Briançon,['Ralentissements suite à une panne de passage à niveau à Flogny']
+2020-02-21,transilien,A,
+2020-02-21,transilien,B,
+2020-02-21,transilien,C,
+2020-02-21,transilien,D,
+2020-02-21,transilien,E,
+2020-02-21,transilien,H,
+2020-02-21,transilien,J,
+2020-02-21,transilien,K,
+2020-02-21,transilien,L,
+2020-02-21,transilien,N,
+2020-02-21,transilien,P,
+2020-02-21,transilien,R,"[""Répercussions de retards de trains TER dus à la panne d’un passage à niveau dans l'Yonne""]"
+2020-02-21,transilien,U,
+2020-02-21,transilien,T4,
+2020-02-21,transilien,T11,['Procédure bagage abandonné au Bourget']
+2020-02-21,ter,Grand Est,
+2020-02-21,ter,Nouvelle-Aquitaine,
+2020-02-21,ter,Auvergne-Rhône-Alpes,
+2020-02-21,ter,Bourgogne-Franche-Comté,
+2020-02-21,ter,Bretagne,
+2020-02-21,ter,Centre-Val de Loire,
+2020-02-21,ter,Occitanie,
+2020-02-21,ter,Hauts-de-France,"['panne d’aiguillage à Calais (11 TER impactés)', 'incident électrique à Thiennes (9 TER impactés)', ""accident routier à proximité d'un passage à niveau près d'Abbeville (10 TER impactés)""]"
+2020-02-21,ter,Normandie,"['Difficultés de manoeuvre à Paris St Lazare et à Caen (8 TER impactés)', 'Panne d’un train à La Garenne-Colombes (8 TER impactés)']"
+2020-02-21,ter,Pays de la Loire,
+2020-02-21,ter,Provence-Alpes-Côte d'Azur,
+2020-02-21,tgv,nord,"['panne d’installations techniques à Beugnâtre (6 TGV impactés) et à Beuvraignes (4 TGV impactés)', 'procédure bagage abandonné à Paris-Nord (4 TGV impactés)', ""panne d'un train à St Denis (4 TGV impactés)""]"
+2020-02-21,tgv,est,
+2020-02-21,tgv,atlantique,
+2020-02-21,tgv,sudest,
+2020-02-21,tgv,ouigo,"['panne d’installations techniques à Beuvraignes (2 TGV impactés)\ndérangement des installations à Poilé sur Vègre (1 TGV impacté)', 'procédure bagage abandonné à Lyon Part Dieu (1 TGV impacté)']"
+2020-02-21,tgv,europe,
+2020-02-21,intercites,Paris-Limoges-Toulouse,
+2020-02-21,intercites,Paris-Clermont,"['Affaissement de la voie entre St Pierre le Moutier et Saincaize', 'Répercussions de retards de trains de marchandises et de trains Transilien']"
+2020-02-21,intercites,Bordeaux-Marseille,"[""Conséquences d'un incendie volontaire d'une armoire électrique à St-Martin-de-Crau"", 'Panne de train provoquant des arrêts prolongés à Bordeaux et Montpellier', 'Répercussions d’une alerte radio de sécurité d’un TGV']"
+2020-02-21,intercites,Nantes-Bordeaux,
+2020-02-21,intercites,Nantes-Lyon,"[""Panne d'installations techniques à Avord""]"
+2020-02-21,intercites,Toulouse-Bayonne,"[""Panne d'installations techniques à Carbonne et entre Boussens et St Gaudens""]"
+2020-02-21,intercites,Clermont-Béziers,
+2020-02-21,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-21,intercites,Paris-Briançon,['Répercussions d’un retard d’un train de marchandises à Lyon puis pertes de temps entre Chorges et Briançon']
