@@ -2965,3 +2965,44 @@ date,famille_transport,ligne,incidents
 2020-02-21,intercites,Clermont-Béziers,
 2020-02-21,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-21,intercites,Paris-Briançon,['Répercussions d’un retard d’un train de marchandises à Lyon puis pertes de temps entre Chorges et Briançon']
+2020-02-22,transilien,A,['Divers incidents en zone RATP dont un rail fissuré entre Vincennes et Nation']
+2020-02-22,transilien,B,['Procédure bagage suspect à Aulnay-sous-Bois']
+2020-02-22,transilien,C,
+2020-02-22,transilien,D,
+2020-02-22,transilien,E,
+2020-02-22,transilien,H,
+2020-02-22,transilien,J,
+2020-02-22,transilien,K,
+2020-02-22,transilien,L,
+2020-02-22,transilien,N,
+2020-02-22,transilien,P,
+2020-02-22,transilien,R,['Personne malveillante dans les voies entre Fontainebleau et St-Mammès jetant des pierres sur les trains']
+2020-02-22,transilien,U,"[""Ligne fermée pour travaux (effondrement de talus à Sèvres-Ville-d'Avray)""]"
+2020-02-22,transilien,T4,['Procédure bagage suspect à Aulnay-sous-Bois']
+2020-02-22,transilien,T11,"[""Contraintes d'exploitation""]"
+2020-02-22,ter,Grand Est,
+2020-02-22,ter,Nouvelle-Aquitaine,
+2020-02-22,ter,Auvergne-Rhône-Alpes,
+2020-02-22,ter,Bourgogne-Franche-Comté,
+2020-02-22,ter,Bretagne,
+2020-02-22,ter,Centre-Val de Loire,
+2020-02-22,ter,Occitanie,
+2020-02-22,ter,Hauts-de-France,
+2020-02-22,ter,Normandie,"['Panne de train au Havre (5 TER impactés)', 'Panne d’un passage à niveau à Coutances (4 TER impactés)']"
+2020-02-22,ter,Pays de la Loire,
+2020-02-22,ter,Provence-Alpes-Côte d'Azur,
+2020-02-22,tgv,nord,['panne de signalisation à Beuvraignes (6 trains impactés)']
+2020-02-22,tgv,est,
+2020-02-22,tgv,atlantique,
+2020-02-22,tgv,sudest,"[""panne d'un train à Albertville (12 trains impactés)""]"
+2020-02-22,tgv,ouigo,"[""panne d'un train à Valence-TGV (5 trains impactés)""]"
+2020-02-22,tgv,europe,
+2020-02-22,intercites,Paris-Limoges-Toulouse,"['Panne de train à Choisy', 'Ralentissement en raison de mesures préventives contre le givre entre Cahors et Brive', 'Incident de signalisation entre Bersac et Argenton sur Creuse']"
+2020-02-22,intercites,Paris-Clermont,"['Limitation de vitesse au sud des Aubrais', 'Affaissement de la voie entre St Pierre le Moutier et Saincaize']"
+2020-02-22,intercites,Bordeaux-Marseille,"['Répercussions d’un incident sur un train de marchandises vers Langon', 'Signalement de panne de passage à niveau']"
+2020-02-22,intercites,Nantes-Bordeaux,
+2020-02-22,intercites,Nantes-Lyon,['Difficultés de circulation en région lyonnaise']
+2020-02-22,intercites,Toulouse-Bayonne,
+2020-02-22,intercites,Clermont-Béziers,
+2020-02-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Attente de personnel à Auterive', 'Non respect de la marche tracée de Rodez à Albi']"
+2020-02-22,intercites,Paris-Briançon,
