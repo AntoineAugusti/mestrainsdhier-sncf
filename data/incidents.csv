@@ -3006,3 +3006,44 @@ date,famille_transport,ligne,incidents
 2020-02-22,intercites,Clermont-Béziers,
 2020-02-22,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,"['Attente de personnel à Auterive', 'Non respect de la marche tracée de Rodez à Albi']"
 2020-02-22,intercites,Paris-Briançon,
+2020-02-23,transilien,A,
+2020-02-23,transilien,B,
+2020-02-23,transilien,C,
+2020-02-23,transilien,D,"[""Erreur d'aiguillage à Gare du\nNord"", 'Répercussions des travaux sur le RER B au nord de Gare du Nord']"
+2020-02-23,transilien,E,
+2020-02-23,transilien,H,['Suspicion de personnes dans les voies à Gare du Nord']
+2020-02-23,transilien,J,
+2020-02-23,transilien,K,
+2020-02-23,transilien,L,
+2020-02-23,transilien,N,
+2020-02-23,transilien,P,
+2020-02-23,transilien,R,
+2020-02-23,transilien,U,"[""Ligne fermée pour travaux (effondrement de talus à Sèvres-Ville-d'Avray)""]"
+2020-02-23,transilien,T4,
+2020-02-23,transilien,T11,"[""Contraintes d'exploitation""]"
+2020-02-23,ter,Grand Est,
+2020-02-23,ter,Nouvelle-Aquitaine,
+2020-02-23,ter,Auvergne-Rhône-Alpes,
+2020-02-23,ter,Bourgogne-Franche-Comté,
+2020-02-23,ter,Bretagne,"[""Heurt d'un chevreuil par un TER à Redon (4 TER impactés)"", 'Répercussions de retards de TGV à Rennes (3 TER impactés) et à Vannes (2 TER impactés)']"
+2020-02-23,ter,Centre-Val de Loire,
+2020-02-23,ter,Occitanie,
+2020-02-23,ter,Hauts-de-France,
+2020-02-23,ter,Normandie,"[""Mise à quai tardive d'un train au départ à Paris St Lazare (4 TER impactés)"", ""Mise à quai tardive d'un train au départ à Trouville-Deauville (3 TER impactés)""]"
+2020-02-23,ter,Pays de la Loire,
+2020-02-23,ter,Provence-Alpes-Côte d'Azur,
+2020-02-23,tgv,nord,
+2020-02-23,tgv,est,
+2020-02-23,tgv,atlantique,
+2020-02-23,tgv,sudest,
+2020-02-23,tgv,ouigo,"[""Heurt d'animal à Laval (2 trains impactés) et à Crisenoy (2 trains impactés)"", ""panne d'un train à Villognon (1 train impacté)""]"
+2020-02-23,tgv,europe,
+2020-02-23,intercites,Paris-Limoges-Toulouse,
+2020-02-23,intercites,Paris-Clermont,"[""Panne d'un engin de manœuvre à Clermont Ferrand""]"
+2020-02-23,intercites,Bordeaux-Marseille,
+2020-02-23,intercites,Nantes-Bordeaux,
+2020-02-23,intercites,Nantes-Lyon,"['Affaissement de la voie vers St Pierre le Moutier', 'Panne de train à Lyon']"
+2020-02-23,intercites,Toulouse-Bayonne,
+2020-02-23,intercites,Clermont-Béziers,['Perte de vitesse entre Bédarieux et Béziers']
+2020-02-23,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-23,intercites,Paris-Briançon,"[""Attente d'un train TER en retard à Chorges""]"
