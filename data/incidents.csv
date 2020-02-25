@@ -3047,3 +3047,44 @@ date,famille_transport,ligne,incidents
 2020-02-23,intercites,Clermont-Béziers,['Perte de vitesse entre Bédarieux et Béziers']
 2020-02-23,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-23,intercites,Paris-Briançon,"[""Attente d'un train TER en retard à Chorges""]"
+2020-02-24,transilien,A,"['Incident affectant la voie à Châtelet (zone RATP)', 'Avarie du système de gestion des aiguillages à Cergy-le-Haut', ""Panne d'une rame à Cergy-le-Haut""]"
+2020-02-24,transilien,B,"[""Panne électrique d'une rame à Gare du Nord""]"
+2020-02-24,transilien,C,"['Accident de personne à Choisy-le-Roi', ""Absence d'alimentation électrique entre Saint-Ouen et Péreire-LEvallois""]"
+2020-02-24,transilien,D,"[""Répercussions de la panne d'une rame du RER B en secteur RATP"", ""Panne électrique d'une rame du RER B à Gare du Nord"", ""Avarie sur les portes d'une rame à Gare de Lyon"", ""Intrusion d'un cycliste sur un viaduc entre Orry-la-Ville et Chantilly"", 'Malveillance sur une rame à Garges-Sarcelles']"
+2020-02-24,transilien,E,
+2020-02-24,transilien,H,"['Dérangement de signalisation entre Paris-Nord et St-Denis', ""Malaise d'un voyageur à Sarcelles-St-Brice""]"
+2020-02-24,transilien,J,"['Dégagement de fumée sur une rame à Paris-St-Lazare', 'Panne de signalisation à Epône-Mézières']"
+2020-02-24,transilien,K,
+2020-02-24,transilien,L,"['Avarie du système de gestion des aiguillages à Cergy-le-Haut', ""Panne d'une rame à Cergy-le-Haut""]"
+2020-02-24,transilien,N,"[""Signalement erroné d'un dégagement de fumée sur une rame à Villepreux-les-Clayes""]"
+2020-02-24,transilien,P,['Panne de signalisation entre Pantin et Paris-Est']
+2020-02-24,transilien,R,
+2020-02-24,transilien,U,"[""Ligne fermée pour travaux entre Versailles-Chantiers et La Défense (effondrement de talus à Sèvres-Ville-d'Avray)""]"
+2020-02-24,transilien,T4,
+2020-02-24,transilien,T11,"[""Contraintes d'exploitation""]"
+2020-02-24,ter,Grand Est,
+2020-02-24,ter,Nouvelle-Aquitaine,
+2020-02-24,ter,Auvergne-Rhône-Alpes,
+2020-02-24,ter,Bourgogne-Franche-Comté,
+2020-02-24,ter,Bretagne,"[""Avarie d'un passage à niveau entre Bruz et Laillé (18 TER impactés)""]"
+2020-02-24,ter,Centre-Val de Loire,
+2020-02-24,ter,Occitanie,
+2020-02-24,ter,Hauts-de-France,
+2020-02-24,ter,Normandie,"['panne de signalisation à Epône-Mézières (8 TER impactés)', 'attente de personnel à Paris St Lazare (3 TER impactés)']"
+2020-02-24,ter,Pays de la Loire,
+2020-02-24,ter,Provence-Alpes-Côte d'Azur,
+2020-02-24,tgv,nord,"[""panne d'un train à TGV Haute Picardie (5 TGV impactés)""]"
+2020-02-24,tgv,est,"[""panne d'installation à Pantin (9 TGV impactés)"", 'procédure bagage abandonné à Colmar (3 TGV impactés)', 'panne de trains à Arches (2 TGV impactés) et à Chauconin (2 TGV impactés)']"
+2020-02-24,tgv,atlantique,
+2020-02-24,tgv,sudest,
+2020-02-24,tgv,ouigo,['heurt de sanglier à Grenay (2 trains)']
+2020-02-24,tgv,europe,
+2020-02-24,intercites,Paris-Limoges-Toulouse,
+2020-02-24,intercites,Paris-Clermont,"['Incident électrique à Paris Bercy', 'Affaissement de la voie à St Pierre le Moutier', 'Heurt de sanglier à Neuvy sur Loire']"
+2020-02-24,intercites,Bordeaux-Marseille,"[""Mise à quai tardive d'un train au départ à Bordeaux"", 'Panne de locomotive', ""Panne d'un train de marchandises entre Sète et Le Castellas"", 'Procédure bagage abandonné dans un train à Marseille']"
+2020-02-24,intercites,Nantes-Bordeaux,
+2020-02-24,intercites,Nantes-Lyon,
+2020-02-24,intercites,Toulouse-Bayonne,
+2020-02-24,intercites,Clermont-Béziers,['Attente client à Marvejols']
+2020-02-24,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-24,intercites,Paris-Briançon,
