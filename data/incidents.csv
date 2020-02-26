@@ -3088,3 +3088,44 @@ date,famille_transport,ligne,incidents
 2020-02-24,intercites,Clermont-Béziers,['Attente client à Marvejols']
 2020-02-24,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-24,intercites,Paris-Briançon,
+2020-02-25,transilien,A,
+2020-02-25,transilien,B,"['Panne de signalisation à Gare du Nord', 'Procédure bagage abandonné dans un train à Aéroport CDG']"
+2020-02-25,transilien,C,
+2020-02-25,transilien,D,
+2020-02-25,transilien,E,
+2020-02-25,transilien,H,
+2020-02-25,transilien,J,
+2020-02-25,transilien,K,
+2020-02-25,transilien,L,
+2020-02-25,transilien,N,"[""Panne d'un train à Marchezais-Broué""]"
+2020-02-25,transilien,P,
+2020-02-25,transilien,R,
+2020-02-25,transilien,U,
+2020-02-25,transilien,T4,
+2020-02-25,transilien,T11,['Absences de conducteur']
+2020-02-25,ter,Grand Est,
+2020-02-25,ter,Nouvelle-Aquitaine,
+2020-02-25,ter,Auvergne-Rhône-Alpes,"['accident de personne à La Tour du Pin (37 TER impactés)', ""répercussions de la panne d'un TGV à Annemasse (8 TER impactés)""]"
+2020-02-25,ter,Bourgogne-Franche-Comté,"[""panne d'un train à Fleurville Pont de Vaux (14 TER impactés)"", 'heurt de plusieurs chevreuils par un train à Uchizy (6 TER impactés)']"
+2020-02-25,ter,Bretagne,
+2020-02-25,ter,Centre-Val de Loire,
+2020-02-25,ter,Occitanie,
+2020-02-25,ter,Hauts-de-France,
+2020-02-25,ter,Normandie,"[""chute d'une branche sur la caténaire à Lisieux (6 TER impactés)"", 'panne de signalisation à Oissel (4 TER impactés)']"
+2020-02-25,ter,Pays de la Loire,
+2020-02-25,ter,Provence-Alpes-Côte d'Azur,
+2020-02-25,tgv,nord,['panne de signalisation à Beuvraignes (7 TGV impactés) et à Beugnâtre (3 TGV impactés)']
+2020-02-25,tgv,est,"[""panne d'un train à Macon-ville (2 TGV impactés)"", 'panne de signalisation à Metz (2 TGV impactés)', 'accident de personne à Mauves sur Loire (1 TGV impacté)']"
+2020-02-25,tgv,atlantique,
+2020-02-25,tgv,sudest,
+2020-02-25,tgv,ouigo,"['panne de signalisation à Beuvraignes (2 TGV impactés)', 'accident de personne à la Tour du Pin (1 train)', 'procédure bagage oublié à Marne la Vallée (1 TGV impacté), à Aéroport CDG (1 TGV impacté) et à Montpellier (1 TGV impacté)']"
+2020-02-25,tgv,europe,
+2020-02-25,intercites,Paris-Limoges-Toulouse,
+2020-02-25,intercites,Paris-Clermont,"[""Suites de l'incident électrique de la veille à Paris Bercy"", 'Affaissement de la voie à St Pierre le Moutier', 'Panne sur une locomotive vers Saincaize', ""Mise à quai tardive d'un train au départ de Clermont Ferrand"", 'Panne de signalisation vers Giens']"
+2020-02-25,intercites,Bordeaux-Marseille,"['Panne de signalisation à Port Ste Marie et vers Lattes', ""Mise à quai tardive d'un train au départ à Bordeaux"", ""Agression d'un contrôleur à Agen""]"
+2020-02-25,intercites,Nantes-Bordeaux,
+2020-02-25,intercites,Nantes-Lyon,"['Panne de signalisation entre Bourges et Nevers', ""Conséquence de la panne d'un train Infrarail en gare de La Guerche""]"
+2020-02-25,intercites,Toulouse-Bayonne,['Limitation de vitesse pour travaux entre Portet et Boussens']
+2020-02-25,intercites,Clermont-Béziers,['Absence de contrôleur à Béziers suite à un incident entre Vic Mireval et Frontignan']
+2020-02-25,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-25,intercites,Paris-Briançon,
