@@ -3170,3 +3170,44 @@ date,famille_transport,ligne,incidents
 2020-02-26,intercites,Clermont-Béziers,
 2020-02-26,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-02-26,intercites,Paris-Briançon,['Difficultés de gestion des circulations entre Lyon et Briançon']
+2020-02-27,transilien,A,"['Malaise voyageur dans un train à Châtelet', 'Malaise voyageur dans un train à Etoile', 'Panne de signalisation à Cergy St Christophe']"
+2020-02-27,transilien,B,"['Retards provoqués par des conditions météorologiques défavorables au sud de la ligne', ""Panne d'un train en gare du Nord Souterraine"", 'Malaise voyageur dans un train en gare du Nord Souterraine', ""Panne d'un train à Roissy Aéroport""]"
+2020-02-27,transilien,C,"['Panne de signalisation à St Michel Notre Dame', 'Panne de signalisation à Choisy le Roi', ""Panne d'un train en gare de St Martin d'Etampes""]"
+2020-02-27,transilien,D,
+2020-02-27,transilien,E,"[""Panne d'un train à Val de Fontenay""]"
+2020-02-27,transilien,H,"['Arbre sur les installations électriques à Valmondois', 'Déformation de la voie sur le secteur de Montsoult']"
+2020-02-27,transilien,J,"[""Panne d'un train à Asnières""]"
+2020-02-27,transilien,K,"[""Arbre sur la voie à proximité d'Ormoy Vilers""]"
+2020-02-27,transilien,L,
+2020-02-27,transilien,N,['Arbre sur la voie à proximité de Chaville']
+2020-02-27,transilien,P,"[""Rail cassé entre Gretz et Verneuil l'Etang"", ""Arbre sur la voie entre La Ferté sous Jouarre et Nogent l'Arthaud"", 'Arbre sur la voie à proximité de Lizy sous Ourcq']"
+2020-02-27,transilien,R,['Attente du personnel à Montargis']
+2020-02-27,transilien,U,['Arbre sur la voie à proximité de Chaville']
+2020-02-27,transilien,T4,
+2020-02-27,transilien,T11,['Absence de personnel de conduite']
+2020-02-27,ter,Grand Est,
+2020-02-27,ter,Nouvelle-Aquitaine,"[""Heurt d'un vélo mal stationné sur le quai de la gare de St Macaire (10 TER impactés)"", 'Accident de personne à Facture-Biganos (10 TER impactés)']"
+2020-02-27,ter,Auvergne-Rhône-Alpes,
+2020-02-27,ter,Bourgogne-Franche-Comté,"['Glissement de talus à Dole (10 TER impactés)', 'Chute de branches sur la caténaire à Beaune (10 TER impactés)']"
+2020-02-27,ter,Bretagne,
+2020-02-27,ter,Centre-Val de Loire,"['Panne sur un aiguillage à Amboise (10 TER impactés)', ""Chutes d'arbres sur les voies dans le secteur de Rambouillet (8 TER impactés)""]"
+2020-02-27,ter,Occitanie,
+2020-02-27,ter,Hauts-de-France,"['Panne sur des passages à niveau à Chaulnes (10 TER impactés) et à Rosières (10 TER impactés)', 'Panne matériel sur un train à Amiens (7 TER impactés)']"
+2020-02-27,ter,Normandie,"['Panne sur un passage à niveau à Alençon (5 TER impactés)', ""Présence d'une personne dans les voies à Aubergenville (5 TER impactés)""]"
+2020-02-27,ter,Pays de la Loire,
+2020-02-27,ter,Provence-Alpes-Côte d'Azur,
+2020-02-27,tgv,nord,['Dérangement des installations à Beuvraignes (7 trains)']
+2020-02-27,tgv,est,['Incident caténaire  à Stephansfeld suite aux intempéries (21 trains)']
+2020-02-27,tgv,atlantique,
+2020-02-27,tgv,sudest,
+2020-02-27,tgv,ouigo,['Incident caténaire à Stephansfeld suite aux intempéries (2 trains)']
+2020-02-27,tgv,europe,['Incident caténaire (intempéries) à Stephansfeld suite aux intempéries (4 trains)']
+2020-02-27,intercites,Paris-Limoges-Toulouse,
+2020-02-27,intercites,Paris-Clermont,"['Panne de signalisation entre Gien et Montargis', ""Coup de vent provoquant la présence d'une bâche et de branches d'arbres sur les caténaires entre Moulins et Nevers""]"
+2020-02-27,intercites,Bordeaux-Marseille,"[""Coup de vent provoquant la présence d'une bâche sur la caténaire entre Marmande et Tonneins."", 'Pannes matérielles à Béziers et à Montpellier', ""Heurt d'un vélo mal stationné sur le quai de la gare de St Macaire"", 'Présence d’une personne proche des voies qui élague ses arbres entre Montlaur et Villefranche de Lauragais']"
+2020-02-27,intercites,Nantes-Bordeaux,
+2020-02-27,intercites,Nantes-Lyon,"[""Coup de vent provoquant la présence d'une bâche et de branches d'arbres sur les caténaires entre Moulins et Nevers""]"
+2020-02-27,intercites,Toulouse-Bayonne,
+2020-02-27,intercites,Clermont-Béziers,
+2020-02-27,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-02-27,intercites,Paris-Briançon,['Gestion du Trafic entre Lyon et Briançon']
