@@ -3293,3 +3293,44 @@ date,famille_transport,ligne,incidents
 2020-03-01,intercites,Clermont-Béziers,
 2020-03-01,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-03-01,intercites,Paris-Briançon,"[""Conséquence de la panne d'un TER à Briançon.""]"
+2020-03-02,transilien,A,
+2020-03-02,transilien,B,"[""Panne d'un train en gare de Paris Nord Souterraine.""]"
+2020-03-02,transilien,C,
+2020-03-02,transilien,D,"[""Panne d'un train en gare de Paris Nord Souterraine."", 'Bagage oublié dans un train en gare de Melun.']"
+2020-03-02,transilien,E,"[""Voies inondées sur le secteur d'Ozoir entraînant une limitation de vitesse à 10km/h.""]"
+2020-03-02,transilien,H,['Déformations de la voie le secteur de Mériel suite aux intempéries des dernières semaines entraînant une limitation de vitesse à 20km/h.']
+2020-03-02,transilien,J,
+2020-03-02,transilien,K,['Retards suite au train en panne sur le RER B à Paris Nord.']
+2020-03-02,transilien,L,
+2020-03-02,transilien,N,"[""Panne d'un aiguillage à la sortie de la gare de Paris Montparnasse.""]"
+2020-03-02,transilien,P,"[""Voies inondées sur le secteur d'Ozoir entraînant une limitation de vitesse à 10km/h.""]"
+2020-03-02,transilien,R,['Bagage oublié dans un train en gare de Melun.']
+2020-03-02,transilien,U,
+2020-03-02,transilien,T4,"[""Panne d'un train à Gargan.""]"
+2020-03-02,transilien,T11,
+2020-03-02,ter,Grand Est,
+2020-03-02,ter,Nouvelle-Aquitaine,
+2020-03-02,ter,Auvergne-Rhône-Alpes,
+2020-03-02,ter,Bourgogne-Franche-Comté,"['Panne de signalisation à Imphy (6 TER impactés).', ""Chute d'un arbre sur la voie à Digoin (5 TER impactés).""]"
+2020-03-02,ter,Bretagne,
+2020-03-02,ter,Centre-Val de Loire,"[""Chute d'un arbre sur la caténaire entre Nevers et Fourchambault (9 TER impactés)."", 'Panne sur un train à Tours (5 TER impactés).']"
+2020-03-02,ter,Occitanie,
+2020-03-02,ter,Hauts-de-France,"['Panne sur un train de marchandises à Pont de la Deule (25 TER impactés).', 'Présence de manifestants sur les voies à Amiens (8 TER impactés).']"
+2020-03-02,ter,Normandie,"['Inondation du tunnel de Sommery (8 TER impactés).', 'Panne sur un train à Rouen (6 TER impactés).']"
+2020-03-02,ter,Pays de la Loire,
+2020-03-02,ter,Provence-Alpes-Côte d'Azur,"['Incident caténaire à St Raphael (14 TER impactés).', 'Bagage oublié dans un TGV à Avignon (12 TER impactés).']"
+2020-03-02,tgv,nord,"['Incident caténaire sur la ligne à grande vitesse au Creusot (4 TGV retardés).', 'Limitations de vitesse suite aux intempéries (tempêtes Jorge et Léon) (4 TGV retardés).', 'Déformation de la voie à Beuvraignes (3 TGV retardés).']"
+2020-03-02,tgv,est,"[""Déclenchement intempestif d'un dispositif d'arrêt automatique des TGV en gare de Vaires et Baudrecourt (5 TGV retardés).""]"
+2020-03-02,tgv,atlantique,['Limitations de vitesse suite aux intempéries - tempête Jorge et Léon (15 TGV retardés).']
+2020-03-02,tgv,sudest,['Incident caténaire sur la ligne à grande vitesse au Creusot (31 TGV retardés).']
+2020-03-02,tgv,ouigo,['Incident caténaire sur la ligne à grande vitesse au Creusot (7 Ouigo retardés).']
+2020-03-02,tgv,europe,['Incident caténaire sur la ligne à grande vitesse au Creusot (3 TGV retardés).']
+2020-03-02,intercites,Paris-Limoges-Toulouse,"['Déformation de la voie entre Gourdon et Cahors.', ""Présence d'un scooter sur la voie en gare de Caussade."", 'Mise en place tardive de plusieurs trains en gare de Paris-Austerlitz.']"
+2020-03-02,intercites,Paris-Clermont,"[""Chute d'un arbre sur la caténaire entre Nevers et Fourchambault."", 'Bagage oublié dans un train en gare de Melun.']"
+2020-03-02,intercites,Bordeaux-Marseille,"[""Conséquence de la panne d'un TER en gare de Sète."", 'Mise en place tardive de plusieurs trains en gare de Toulouse.', ""Attente d'une correspondance à Marseille.""]"
+2020-03-02,intercites,Nantes-Bordeaux,
+2020-03-02,intercites,Nantes-Lyon,"[""Chute d'un arbre sur la caténaire entre Nevers et Fourchambault."", ""Panne d'un passage à niveau entre St-Aignan et Thénioux."", 'Mise en place tardive de plusieurs trains en gare de Lyon-Perrache.']"
+2020-03-02,intercites,Toulouse-Bayonne,"[""Chute d'arbres sur les voies entre Pau et Lourdes lors de la tempête Karine."", ""Attente d'une correspondance à Toulouse.""]"
+2020-03-02,intercites,Clermont-Béziers,
+2020-03-02,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-03-02,intercites,Paris-Briançon,['Panne d’un aiguillage à Givors.']
