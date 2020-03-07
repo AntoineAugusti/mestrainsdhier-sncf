@@ -3416,3 +3416,44 @@ date,famille_transport,ligne,incidents
 2020-03-05,intercites,Clermont-Béziers,
 2020-03-05,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-03-05,intercites,Paris-Briançon,
+2020-03-06,transilien,A,
+2020-03-06,transilien,B,['Panne de signalisation à St-Michel (zone RATP)']
+2020-03-06,transilien,C,
+2020-03-06,transilien,D,
+2020-03-06,transilien,E,
+2020-03-06,transilien,H,
+2020-03-06,transilien,J,
+2020-03-06,transilien,K,
+2020-03-06,transilien,L,
+2020-03-06,transilien,N,
+2020-03-06,transilien,P,"[""Ralentissement de tous les trains pour inondation à proximité des voies près d'Ozoir-la-Ferrière"", 'Rames immobilisées en maintenance']"
+2020-03-06,transilien,R,"['Objet menaçant de tomber près de la caténaire à Villeneuve-St-Georges', 'Avarie sur une rame à Melun']"
+2020-03-06,transilien,U,
+2020-03-06,transilien,T4,['Rames immobilisées en maintenance']
+2020-03-06,transilien,T11,
+2020-03-06,ter,Grand Est,
+2020-03-06,ter,Nouvelle-Aquitaine,"['panne sur un passage à niveau (10 TER impactés)', 'panne de signalisation à Agent (9 TER impactés)']"
+2020-03-06,ter,Auvergne-Rhône-Alpes,
+2020-03-06,ter,Bourgogne-Franche-Comté,"['plusieurs pannes de trains à Paris, Dijon et Besançon (8 TER impactés)']"
+2020-03-06,ter,Bretagne,"['panne sur un passage à niveau à Besle (9 TER impactés)', 'accident de personne a Lamballe (6 TER impactés)']"
+2020-03-06,ter,Centre-Val de Loire,['ralentissement des trains à Nouant le Fuzelier suite à affaissement de la voie (33 TER impactés)']
+2020-03-06,ter,Occitanie,
+2020-03-06,ter,Hauts-de-France,
+2020-03-06,ter,Normandie,['déformation de la voie à Breval (30 TER impactés)']
+2020-03-06,ter,Pays de la Loire,
+2020-03-06,ter,Provence-Alpes-Côte d'Azur,
+2020-03-06,tgv,nord,"['panne de signalisation à Beugnâtre (3 TGV impactés)', 'affaissement de talus à Vendenheim (4 TGV impactés)', 'accident de personne à Mundolsheim (1\nTGV impacté)', 'inondations au Mans (2 TGV impactés)']"
+2020-03-06,tgv,est,"['affaissement de talus à Vendenheim (34 TGV impactés)', 'colis suspect à Paris-Est (8 TGV impactés)', 'accident de personne à Mundolsheim (3 TGV impactés)']"
+2020-03-06,tgv,atlantique,"['accident de personne à St Brieuc (4 TGV impactés)', 'colis suspect à Massy-TGV (5 TGV impactés)\ninondations au Mans (4 TGV impactés)', ""panne d'un train (3 TGV impactés)"", 'panne de signalisation à Connéré (4 TGV impactés) et à Beslé (5 TGV impactés)']"
+2020-03-06,tgv,sudest,
+2020-03-06,tgv,ouigo,"['affaissementde talus à Vendenheim (2 trains impactés)', 'accident de personne à Mundolsheim (2 trains impactés)']"
+2020-03-06,tgv,europe,
+2020-03-06,intercites,Paris-Limoges-Toulouse,['Vitesse limitée à Nouan-le-Fuzelier consécutivement à une déformation de la voie']
+2020-03-06,intercites,Paris-Clermont,"['Avaries sur des trains à Paris Bercy et à Clermont Ferrand', 'Difficultés dans la gestion des circulations en Ile-de-France']"
+2020-03-06,intercites,Bordeaux-Marseille,
+2020-03-06,intercites,Nantes-Bordeaux,
+2020-03-06,intercites,Nantes-Lyon,['Arbres tombés sur la caténaire entre Bourges et Saincaize']
+2020-03-06,intercites,Toulouse-Bayonne,"['Arbre tombé sur la caténaire à St-Pé-de-Bigorre', ""Heurt d'un arbre tombé sur la voie à Peyrehorade""]"
+2020-03-06,intercites,Clermont-Béziers,['Travaux sur les voies entre Neussargues et St-Chély']
+2020-03-06,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-03-06,intercites,Paris-Briançon,"[""Répercussions de la panne d'un train de marchandises à Portes-lès-Valence""]"
