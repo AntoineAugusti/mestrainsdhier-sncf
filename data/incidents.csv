@@ -3539,3 +3539,44 @@ date,famille_transport,ligne,incidents
 2020-03-08,intercites,Clermont-Béziers,
 2020-03-08,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-03-08,intercites,Paris-Briançon,['Panne de locomotive à Valence']
+2020-03-09,transilien,A,
+2020-03-09,transilien,B,
+2020-03-09,transilien,C,
+2020-03-09,transilien,D,"[""Panne d'une rame à Gare du Nord"", ""Avarie sur la porte d'une rame à Créteil-Pompadour"", 'Panne de signalisation à Corbeil-Essonnes']"
+2020-03-09,transilien,E,
+2020-03-09,transilien,H,
+2020-03-09,transilien,J,"['Traversées imprudentes et multiples des voies par des riverains à Villennes-sur-Seine', 'Passage à niveau forcé et endommagé par un automobiliste à Herblay']"
+2020-03-09,transilien,K,
+2020-03-09,transilien,L,
+2020-03-09,transilien,N,
+2020-03-09,transilien,P,
+2020-03-09,transilien,R,
+2020-03-09,transilien,U,
+2020-03-09,transilien,T4,['Rames immobilisées en maintenance']
+2020-03-09,transilien,T11,
+2020-03-09,ter,Grand Est,
+2020-03-09,ter,Nouvelle-Aquitaine,"['accident de personne à Cenon (19 TER impactés)', 'panne de signalisation à Saintes (10 TER impactés)']"
+2020-03-09,ter,Auvergne-Rhône-Alpes,
+2020-03-09,ter,Bourgogne-Franche-Comté,
+2020-03-09,ter,Bretagne,
+2020-03-09,ter,Centre-Val de Loire,"[""conséquences de l'affaissement de la voie à Nouan le Fuzelier (17 TER impactés)"", 'présence de personnes dans les voies à Paris-Austerlitz (5 TER impactés)']"
+2020-03-09,ter,Occitanie,
+2020-03-09,ter,Hauts-de-France,
+2020-03-09,ter,Normandie,"['panne de train à Motteville (7 TER impactés)', 'présence de personnes dans les voies à Villennes sur Seine (37 TER impactés)']"
+2020-03-09,ter,Pays de la Loire,
+2020-03-09,ter,Provence-Alpes-Côte d'Azur,
+2020-03-09,tgv,nord,
+2020-03-09,tgv,est,"['arbre sur la voie à Metz (4 trains impactés)', ""panne d'installations techniques à Morhange (4 trains impactés)"", ""suite de l'affaissement de talus à Ingenheim (3 trains impactés)""]"
+2020-03-09,tgv,atlantique,
+2020-03-09,tgv,sudest,
+2020-03-09,tgv,ouigo,
+2020-03-09,tgv,europe,
+2020-03-09,intercites,Paris-Limoges-Toulouse,['Vitesse limitée à Nouan-le-Fuzelier suite à une déformation de la voie']
+2020-03-09,intercites,Paris-Clermont,"['Pannes de trains au départ à Paris Bercy', 'Difficultés dans la gestion des circulations en Ile-de-France']"
+2020-03-09,intercites,Bordeaux-Marseille,"['Panne de locomotive à Narbonne', 'Difficultés dans la gestion des circulations sur Languedoc-Roussillon']"
+2020-03-09,intercites,Nantes-Bordeaux,
+2020-03-09,intercites,Nantes-Lyon,['Prise en charge de deux personnes handicapées en gare de Moulins-sur-Allier']
+2020-03-09,intercites,Toulouse-Bayonne,"['Avaries sur deux passages à niveau à Cazères-sur-Garonne', ""Panne d'une installation de sécurité à Longages""]"
+2020-03-09,intercites,Clermont-Béziers,
+2020-03-09,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-03-09,intercites,Paris-Briançon,['Vitesse limitée en raison de travaux de modernisation des voies entre Aspres et Die']
