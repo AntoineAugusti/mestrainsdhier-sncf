@@ -3662,3 +3662,44 @@ date,famille_transport,ligne,incidents
 2020-03-11,intercites,Clermont-Béziers,
 2020-03-11,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
 2020-03-11,intercites,Paris-Briançon,
+2020-03-12,transilien,A,
+2020-03-12,transilien,B,"['Rail fissuré à La Plaine Stade de France', 'Présence de personnes dans les voies à Villepinte', 'Accident grave de personne à Aulnay sous Bois']"
+2020-03-12,transilien,C,
+2020-03-12,transilien,D,"['Accident grave de personne à Paris Lyon Banlieue', 'Présence de personnes dans les voies à Montgeron Crosne']"
+2020-03-12,transilien,E,
+2020-03-12,transilien,H,
+2020-03-12,transilien,J,
+2020-03-12,transilien,K,
+2020-03-12,transilien,L,
+2020-03-12,transilien,N,
+2020-03-12,transilien,P,
+2020-03-12,transilien,R,['Présence de personnes dans les voies à Montgeron Crosne']
+2020-03-12,transilien,U,
+2020-03-12,transilien,T4,
+2020-03-12,transilien,T11,['Absence de conducteurs']
+2020-03-12,ter,Grand Est,
+2020-03-12,ter,Nouvelle-Aquitaine,
+2020-03-12,ter,Auvergne-Rhône-Alpes,
+2020-03-12,ter,Bourgogne-Franche-Comté,"['Panne sur un passage à niveau à Colombier-Fontaine (10 TER impactés)', 'Panne sur un train à Auxonne (8 TER impactés)']"
+2020-03-12,ter,Bretagne,
+2020-03-12,ter,Centre-Val de Loire,
+2020-03-12,ter,Occitanie,
+2020-03-12,ter,Hauts-de-France,
+2020-03-12,ter,Normandie,
+2020-03-12,ter,Pays de la Loire,
+2020-03-12,ter,Provence-Alpes-Côte d'Azur,
+2020-03-12,tgv,nord,
+2020-03-12,tgv,est,['Bagage oublié à Lorraine TGV (5 trains)']
+2020-03-12,tgv,atlantique,"[""Dérangement d'installations à Dangeau (38 trains)""]"
+2020-03-12,tgv,sudest,
+2020-03-12,tgv,ouigo,"['Bagage oublié à Lorraine TGV (2 trains)', ""Dérangement d'installations à Dangeau (3 trains)""]"
+2020-03-12,tgv,europe,"[""dérangement d'installations à Bourg en Bresse (4 trains)""]"
+2020-03-12,intercites,Paris-Limoges-Toulouse,['Vitesse limitée à Nouant-le-Fuzelier suite à une déformation de la voie']
+2020-03-12,intercites,Paris-Clermont,"[""Conséquence de la panne d'un TER entre Nogent-sur-Vernisson et Montargis"", 'Panne matérielle à Clermont-Ferrand', 'Panne de signalisation à Bourron-Marlotte']"
+2020-03-12,intercites,Bordeaux-Marseille,"['Manifestants sur les voies en gare de Marseille-St-Charles', ""Panne d'un passage à Niveau entre Carcassonne et Narbonne,"", 'Panne de signalisation entre Agde et Béziers']"
+2020-03-12,intercites,Nantes-Bordeaux,
+2020-03-12,intercites,Nantes-Lyon,"[""Conséquence du heurt d'un sanglier par un TER vers Ancenis"", ""Panne de signalisation entre Lyon et St Germain au Mont d'Or""]"
+2020-03-12,intercites,Toulouse-Bayonne,
+2020-03-12,intercites,Clermont-Béziers,
+2020-03-12,intercites,Paris-Toulouse-Latour De Carol/Cerbere/Rodez,
+2020-03-12,intercites,Paris-Briançon,['Panne de signalisation à Bourg-En-Bresse']
